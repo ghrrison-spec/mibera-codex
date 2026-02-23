@@ -1,185 +1,148 @@
-# PRD: Mibera Sets — Individual Token Entries
+# PRD: Trait Enrichment — Cultural Context at Scale
 
-> **Cycle**: cycle-015
-> **Created**: 2026-02-20
+> **Cycle**: cycle-016
+> **Created**: 2026-02-22
 > **Status**: Draft
 
 ---
 
 ## 1. Problem Statement
 
-The codex documents Mibera Sets at the collection level (`_codex/data/mibera-sets.md`) with contract data, tier structure, and on-chain activity. However, none of the 12 individual tokens have their own entries. The Arweave metadata — names, descriptions, images, attributes — has never been fetched because the contract isn't verified on any explorer and `uri()` must be called via RPC.
+The codex contains 1,257 trait files across 18 subcategories. While the files have a template structure with sections for Cultural Origin, Visual Description, and team notes, the vast majority of those sections are **empty or incomplete**. An agent trying to synthesize a Mibera's identity from its traits hits dead ends — a hat file says "dark navy cap with an Aboriginal flag" but doesn't explain why that matters to the Mibera system.
 
-> Source: `_codex/data/mibera-sets.md` GAP comments (lines 96-102, 122-130)
+The grail enrichment (PR #28) demonstrated the pattern: structured sections (Cultural Context, Visual Elements, Justification) transform thin entries into content that an agent can actually use for persona synthesis. This cycle applies the same treatment to trait files, starting with the ~863 files that carry the strongest cultural signal.
+
+> Source: Direct file audit of `traits/` directory — see gap analysis below.
 
 ## 2. Goal
 
-Create an individual entry for each of the 12 Mibera Set ERC-1155 tokens, sourced from on-chain metadata. No narrative expansion — document what the metadata says.
+Enrich culture-heavy trait files with a standardized template: **Cultural Context**, **Visual Elements**, **Justification**, and **Attribution**. Fill in gaps using existing team notes, Discord attribution, and sourceable research. Migrate from the current scattered section structure to the hybrid template.
 
 ### Success Criteria
 
-- [ ] All 12 token metadata URIs fetched via RPC call to Optimism
-- [ ] Arweave metadata downloaded for all 12 tokens
-- [ ] Individual markdown files created at `mibera-sets/{slug}.md`
-- [ ] `mibera-sets/README.md` index created with links to all entries
-- [ ] `_codex/data/mibera-sets.md` updated with resolved metadata URIs
-- [ ] Navigation indices updated (SUMMARY.md, manifest.json, README.md)
-- [ ] GAP comments in `_codex/data/mibera-sets.md` resolved where applicable
+- [ ] Hybrid template (Cultural Context, Visual Elements, Justification, Attribution) applied to all target files
+- [ ] Empty "Cultural Origin" / "Why This Matters" / "Era" fields replaced with consolidated sections
+- [ ] Existing team notes, Discord sources, and introduced-by data preserved in Attribution
+- [ ] All claims sourceable (Wikipedia-level, not invented)
+- [ ] Template documented in `_codex/schema/README.md` (Section 2 update)
+- [ ] Link audit passes after migration (`_codex/scripts/audit-links.sh`)
 
 ## 3. Users
 
-Same as codex-wide: humans and LLMs browsing on GitHub.
+| Persona | Need |
+|---------|------|
+| AI agent (embodiment) | Needs trait context to inform Mibera persona synthesis per IDENTITY.md |
+| Human browser (GitHub) | Needs readable, informational entries — not empty shells |
+| Contributor | Needs a clear template to follow when adding new traits |
 
-## 4. Functional Requirements
+## 4. Scope
 
-### FR-1: Fetch Metadata URIs via RPC
+### In Scope — Culture-Heavy Subcategories (863 files)
 
-Call `uri(uint256)` on contract `0x886D2176D899796cD1AfFA07Eff07B9b2B80f1be` on Optimism for token IDs 1-12.
+| Subcategory | Files | Cultural Origin Filled | Why This Matters Filled | Team Notes |
+|---|---|---|---|---|
+| items/general-items | 259 | 2 | 163 | 27 |
+| accessories/hats | 128 | 34 | 0 | 20 |
+| backgrounds | 73 | 40 | 69 | 0 |
+| accessories/earrings | 64 | 44 | 0 | 4 |
+| clothing/short-sleeves | 52 | 19 | 0 | 14 |
+| clothing/long-sleeves | 52 | 51 | 0 | 3 |
+| character-traits/tattoos | 46 | 17 | 0 | 4 |
+| accessories/face-accessories | 42 | 13 | 0 | 1 |
+| accessories/glasses | 38 | 5 | 0 | 1 |
+| accessories/masks | 32 | 20 | 2 | 1 |
+| clothing/simple-shirts | 8 | 0 | 0 | 0 |
 
-- **RPC endpoint**: `https://mainnet.optimism.io` (public)
-- **Function selector**: `0x0e89341c` (ERC-1155 `uri(uint256)`)
-- **Expected return**: Arweave URI (`ar://...`) or HTTPS gateway URL
+### Out of Scope (This Cycle)
 
-### FR-2: Fetch Arweave Metadata
+- **Bong bears** (107) — numbered plushie variants, minimal cultural signal
+- **Character traits** (body: 12, eyes: 90, eyebrows: 10, hair: 129, mouth: 21) — purely visual, no cultural layer
+- **Overlays** (astrology: 12, elements: 4, ranking: 8) — system-level, already documented
+- Template migration for out-of-scope categories (future cycle)
+- Drug files and tarot cards (separate enrichment cycle)
 
-For each URI returned, fetch the JSON metadata via Arweave gateway (e.g. `https://arweave.net/{txid}`).
+## 5. Template Design
 
-Expected metadata fields (standard ERC-1155):
-- `name` — token name
-- `description` — token description
-- `image` — image URI (likely Arweave)
-- `attributes` — trait array (optional)
-
-### FR-3: Create Individual Token Files
-
-One file per token at `mibera-sets/{slug}.md`. Slug derived from metadata name (e.g. "Honey Road Set One" → `honey-road-set-one.md`).
-
-**Schema** (following grail/fracture conventions):
-
-```yaml
----
-token_id: 1
-name: "Honey Road Set One"
-type: mibera-set
-category: numbered  # or "media" or "completionist"
-supply: 65
-image: "ar://..."
-metadata_uri: "ar://..."
----
-```
-
-Body: description from Arweave metadata, plus a summary line with links. Backlink markers at bottom.
+### Target Template (Hybrid)
 
 ```markdown
-# Honey Road Set One
+---
+{existing YAML frontmatter preserved}
+---
 
-> **Token #1** · Numbered Set · Supply: 65 · [All Mibera Sets →](README.md)
+# {Name}
 
-{description from metadata}
+## Visual Elements
+
+**Image:**
+![{Name}]({image-url})
+
+{What is depicted — visual description, dominant colors, notable details.}
+
+## Cultural Context
+
+{Real-world history, cultural origin, or subculture significance.
+Sourced claims. Why this object/style/reference matters.}
+
+## Justification
+
+{Why this trait exists in the Mibera collection. How it connects
+to the archetype, ancestor, or scene it represents.}
 
 ---
 
-<!-- @generated:backlinks-start -->
-<!-- @generated:backlinks-end -->
+## Attribution
+
+**Archetype:** [{archetype}](link)
+**Swag Score:** {score}
+**Ancestor:** [{ancestor}](link) (if applicable)
+**Date Added:** {date}
+**Introduced By:** {name} (if known)
+**Team Notes:** {preserved from existing files}
+**Sources:** {preserved from existing files}
 ```
 
-### FR-4: Create Index (README.md)
+### Migration Rules
 
-`mibera-sets/README.md` following the pattern of `grails/README.md` and `fractures/README.md`:
+1. **Visual Description** + **Dominant Colors** + **Image Files** → consolidated into **Visual Elements**
+2. **Cultural Origin** + **Why This Matters** + **Era** → consolidated into **Cultural Context**
+3. **Archetype Alignment** → absorbed into **Justification** (why it's archetype-aligned)
+4. **Mibera Integration** + **Connections** + existing **Attribution** → consolidated into **Attribution**
+5. Empty fields are dropped, not preserved as blanks
+6. Team notes and Discord sources are always preserved verbatim
 
-```markdown
-<!-- codex-status: COMPLETE | entities: 12 | last-verified: 2026-02-20 -->
-# Mibera Sets — Honey Road Artifacts
+### Content Guidelines (from grail enrichment)
 
-*12 ERC-1155 tokens on Optimism representing artifacts from the Honey Road.*
+- Informational tone — no AI-isms, no flowery language
+- Stick to facts; all cultural claims should be Wikipedia-sourceable
+- Justification is simple and dry — just why it's in the collection
+- Don't editorialize ("most viewers will recognize on sight")
+- Don't mention IDENTITY.md in entries
 
----
+## 6. Sprint Structure
 
-## Numbered Sets (7)
+Batched by subcategory, starting with the richest (best for template validation) and working outward.
 
-- [Honey Road Set One](honey-road-set-one.md) · Token #1 · Supply: 65
-...
-
-## Media (4)
-
-...
-
-## Completionist (1)
-
-...
-```
-
-### FR-5: Update Existing References
-
-- **`_codex/data/mibera-sets.md`**: Replace GAP comments with resolved metadata URIs. Add links to individual token files.
-- **`manifest.json`**: Add `mibera-set` entity type with count and path
-- **`SUMMARY.md`**: Add mibera-sets section
-- **Root `README.md`**: Add to directory layout table if applicable
-
-## 5. Technical Approach
-
-### RPC Call
-
-Use Python `urllib` (stdlib-only, per codex conventions) to make JSON-RPC calls:
-
-```python
-import json, urllib.request
-
-rpc_url = "https://mainnet.optimism.io"
-contract = "0x886D2176D899796cD1AfFA07Eff07B9b2B80f1be"
-
-def call_uri(token_id):
-    # Encode uri(uint256) call
-    selector = "0x0e89341c"
-    token_hex = hex(token_id)[2:].zfill(64)
-    data = selector + token_hex
-
-    payload = {
-        "jsonrpc": "2.0",
-        "method": "eth_call",
-        "params": [{"to": contract, "data": data}, "latest"],
-        "id": 1
-    }
-    req = urllib.request.Request(rpc_url, json.dumps(payload).encode(),
-                                 {"Content-Type": "application/json"})
-    resp = json.loads(urllib.request.urlopen(req).read())
-    # Decode string from ABI-encoded response
-    return decode_abi_string(resp["result"])
-```
-
-### Arweave Fetch
-
-Standard HTTPS GET to `arweave.net` gateway. Parse JSON response.
-
-## 6. Scope
-
-### In Scope
-
-- RPC calls to fetch metadata URIs for tokens 1-12
-- Arweave metadata fetch for all 12 tokens
-- Individual token entry files in `mibera-sets/`
-- README index for the directory
-- Updates to navigation indices and mibera-sets.md
-
-### Out of Scope
-
-- Honey Road narrative expansion
-- Collector mechanic lore
-- Image downloads or hosting
-- On-chain activity analysis per token
-- Schema JSON file for mibera-set type (can add in a later cycle)
+| Sprint | Subcategory | Files | Rationale |
+|--------|------------|-------|-----------|
+| 1 | backgrounds | 73 | Richest existing content (40 Cultural Origin, 69 Why This Matters). Best for validating the template migration. |
+| 2 | items/general-items | 259 | Largest batch. 163 already have "Why This Matters". Heaviest cultural signal (music gear, historical objects, cypherpunk artifacts). |
+| 3 | accessories/hats + accessories/earrings | 192 | Strong Cultural Origin (34 + 44 filled). Many ancestor-linked. |
+| 4 | clothing (long + short + simple) | 181 | Long sleeves richest (51/52 Cultural Origin). Short sleeves sparse. |
+| 5 | tattoos + face-accessories + glasses + masks | 158 | Remaining accessories. Tattoos carry ancestor signal. |
 
 ## 7. Risks
 
-| Risk | Likelihood | Mitigation |
-|------|-----------|------------|
-| RPC rate limit on public Optimism endpoint | Low | Retry with backoff; fallback to Alchemy/Infura free tier |
-| Arweave metadata not in expected format | Medium | Adapt schema to actual fields; document deviations |
-| `uri()` returns template URI with `{id}` placeholder | Medium | ERC-1155 spec allows this; substitute token ID |
-| Some tokens have no metadata on Arweave | Low | Create stub entries with on-chain data only, mark GAP |
+| Risk | Impact | Mitigation |
+|------|--------|------------|
+| Scale — 863 files is a lot | Burnout, incomplete cycle | Sprint structure allows partial completion; each sprint is independently valuable |
+| Content accuracy — cultural claims must be sourceable | Misinformation in the codex | Wikipedia-sourcing rule; user review per batch; no speculation |
+| Template migration breaks links | Broken internal links | Run `audit-links.sh` after each sprint |
+| Existing team notes lost in migration | Loss of attribution data | Migration rule #6: always preserve team notes verbatim |
+| Many traits lack cultural context entirely | Can't enrich without input | Flag these for user review; skip rather than invent |
 
 ## 8. Dependencies
 
-- Public Optimism RPC access
-- Arweave gateway availability
-- Existing `_codex/data/mibera-sets.md` for supply/holder data
+- User review per sprint batch (cultural accuracy requires domain knowledge)
+- Existing `_codex/scripts/audit-links.sh` for validation
+- Template documentation update in `_codex/schema/README.md`
