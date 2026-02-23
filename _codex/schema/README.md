@@ -324,7 +324,7 @@ Sourced claims with links where possible.
 What is depicted — imagery, symbols, objects, colors — and how each
 element connects to the cultural context above.
 
-## Why Mibera
+## Justification
 
 Why this subject was chosen for the collection. How it fits the
 Mibera universe, connects to the ancestor/element/zodiac system,
