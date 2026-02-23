@@ -12,4 +12,14 @@ description: "Poseidon as Neptune with trident and 211.44 Hz frequency"
 
 > **Grail #2256** · Planet · [Browse all Grails →](../browse/grails.md)
 
-Poseidon as Neptune. Same Neptune trident as in Aphrodite/Pisces 1/1. Neptune 211.44 Hz planetary frequency visual in background.
+## Cultural Context
+
+Poseidon is the Greek god of the sea, earthquakes, and horses, equivalent to the Roman Neptune. The trident is his primary attribute. The same trident appears in the Pisces grail (Aphrodite/Pisces), connecting the two pieces — Pisces is ruled by Neptune.
+
+## Visual Elements
+
+Poseidon depicted as Neptune. Same trident as in the Aphrodite/Pisces grail. 211.44 Hz Neptune frequency visual in the background.
+
+## Justification
+
+The planet and luminary grails represent the celestial bodies as their own identities — the sources of the energy that the zodiac system channels.
