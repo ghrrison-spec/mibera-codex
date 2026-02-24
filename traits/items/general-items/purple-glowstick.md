@@ -18,9 +18,11 @@ Dominant colors: bright purple
 
 Glowstick colors became part of rave identity, with different hues signaling mood, style, or simply personal preference.
 
+<!-- justification
 ## Justification
 
 Color variants let the same iconic rave prop express individual identity. Three glowstick colors in the collection mirror the real-world spectrum on any dance floor.
+-->
 
 ---
 

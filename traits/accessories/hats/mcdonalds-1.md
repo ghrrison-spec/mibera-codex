@@ -20,9 +20,11 @@ Dominant colors: Red, yellow
 
 McDonald's was founded in Chicago in 1940, making it deeply tied to the Chicago Detroit archetype. The vintage newsboy-style employee cap references the earlier era of McDonald's branding, before the chain's aesthetic was modernized. Fast food worker uniforms have been adopted as ironic fashion statements in various subcultures.
 
+<!-- justification
 ## Justification
 
 McDonald's was born in the same city as house music — the vintage employee cap connects Chicago's fast food empire to its electronic music legacy through shared geography and working-class roots.
+-->
 
 ---
 

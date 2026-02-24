@@ -16,9 +16,11 @@ a small stem of tiny branches and rounded buds / fruits / seeds, in purple.
 
 Sakae naa is a Southeast Asian plant related to kratom, used traditionally in Thailand as a mild stimulant and mood enhancer. It represents the lesser-known corners of ethnobotany that the collection brings to light.
 
+<!-- justification
 ## Justification
 
 Deep-cut Thai stimulant that even kratom enthusiasts may not know — the collection rewarding botanical curiosity.
+-->
 
 ---
 

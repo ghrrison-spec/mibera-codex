@@ -18,9 +18,11 @@ Dominant colors: shades of yellow
 
 Bera Baddies is a women centric org within the Berachain ecosystem. This item is a reference to the bera baddie face designed by Gumibera. 
 
+<!-- justification
 ## Justification
 
 Bera Baddies and THJ collaborated closely, especially at the time of the inception of the Baddies. Gumi designed the baddie face that became the character.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black.
 
 Simple black face coverings have been used across cultures and movements for anonymity and protection, from nineteenth-century labor protests to modern-day black bloc tactics. In rave and free party culture, face masks serve a practical purpose against dust and cold at outdoor events while also enabling the anonymity central to the scene.
 
+<!-- justification
 ## Justification
 
 The simplest mask in the collection, and maybe the most honest. In freetekno, you cover your face because the music is the identity, not you.
+-->
 
 ---
 

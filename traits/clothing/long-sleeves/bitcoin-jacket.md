@@ -20,9 +20,11 @@ Dominant colors: Black, yellow
 
 HarryPotterObamaSonic10Inu (ticker $Bitcoin) is a community driven meme-coin on the Ethereum blockchain that was launched in late 2023.
 
+<!-- justification
 ## Justification
 
 HarryPotterObamaSonic10Inu is peak absurdist memecoin culture -- a project whose name is its entire thesis. Immortalizing it as a bomber jacket captures the moment crypto stopped pretending to be serious.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: vibrant blue, white, yellow
 
 The Remilia cigarette pack is sourced directly from Remilia's own merch store, embedding the parent project's branding into the collection as a held item. It turns corporate identity into a rave accessory.
 
+<!-- justification
 ## Justification
 
 Official Remilia merch store product turned into a held item — the parent project's branding as a rave accessory.
+-->
 
 ---
 

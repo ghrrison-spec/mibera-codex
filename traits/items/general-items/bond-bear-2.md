@@ -18,9 +18,11 @@ Dominant colors: black, white, navy.
 
 The second Bond Bear variant, wearing a dark suit with a blue striped tie. Part of the four-piece spy-themed bear plushie set within the Berachain ecosystem items.
 
+<!-- justification
 ## Justification
 
 References a key Berachain rebase.
+-->
 
 ---
 

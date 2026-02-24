@@ -16,9 +16,11 @@ a “podcast microphone” in black, with small stickers on the bottom part of a
 
 A podcast microphone with bear stickers, representing The Honey Cast (THC), a Berachain ecosystem podcast. The bear sticker reinforces the Berachain brand, and the mic-as-held-item turns content creation equipment into a personal accessory.
 
+<!-- justification
 ## Justification
 
 Content creation hardware as a held item, turning podcast production into a wearable Berachain identity marker.
+-->
 
 ---
 

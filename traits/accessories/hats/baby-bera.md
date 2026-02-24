@@ -20,9 +20,11 @@ Dominant colors: black, grey
 
 BabyBera is a community project within the Berachain ecosystem, featuring a cartoon bear mascot. The project represents the playful, meme-driven culture that defines the Berachain community, where bear-themed branding is central to ecosystem identity.
 
+<!-- justification
 ## Justification
 
-BabyBera is Berachain ecosystem culture worn on your head — one of the community projects that helped define the chain's playful identity.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

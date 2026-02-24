@@ -20,11 +20,13 @@ Dominant colors: purple, white.
 
 Henlo is a project within the Berachain ecosystem. The gothic-font jersey over a white tee with gold chains blends sports jersey culture with streetwear aesthetics — a style rooted in 1990s hip-hop fashion where oversized jerseys became a wardrobe staple, from the NBA hardwood to the Wu-Tang Clan.
 
-Era: Contemporary (Berachain ecosystem)
 
+
+<!-- justification
 ## Justification
 
 Henlo is a Berachain ecosystem project. The gothic-font jersey with gold chains blends 1990s hip-hop jersey culture with web3 community identity.
+-->
 
 ---
 

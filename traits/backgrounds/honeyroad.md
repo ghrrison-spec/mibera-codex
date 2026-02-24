@@ -20,9 +20,11 @@ The ‘official’ website for Mibera Maker.
 
 Mibera's own darknet-styled marketplace aesthetic. Silk Road legacy and the cypherpunk tradition.
 
+<!-- justification
 ## Justification
 
 Mibera's own darknet-styled marketplace aesthetic — a self-referential background from the project's own visual identity.
+-->
 
 ---
 

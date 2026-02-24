@@ -18,9 +18,11 @@ Dominant colors: Yellow.
 
 UK rave flyers from the late 1980s and early 1990s are some of the most iconic pieces of underground graphic design ever produced. They served the practical purpose of communicating secret party locations while becoming an art form of their own, with bold typography and psychedelic imagery defining a visual language for the entire movement.
 
+<!-- justification
 ## Justification
 
 The original rave propaganda. Before the internet, these hand-designed flyers were how an entire movement communicated, organized, and built its visual identity.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: Shades of purple, yellow.
 
 Having built a cult-like following, Bullas is one of Berachain’s OG projects shipping NFT collections and a play-to-earn ponzi web game.
 
+<!-- justification
 ## Justification
 
 Berachain ecosystem partner background — representing the OG projects and culture that Mibera exists alongside.
+-->
 
 ---
 

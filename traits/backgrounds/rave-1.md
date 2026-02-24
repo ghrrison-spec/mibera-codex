@@ -18,9 +18,11 @@ Dominant colors: Black, light blue, white.
 
 Evokes the earliest illegal warehouse raves — minimal production, maximum intensity.
 
+<!-- justification
 ## Justification
 
 Abstract rave backgrounds represent the raw sensory experience of electronic music events — the environments where all four archetypes converge.
+-->
 
 ---
 

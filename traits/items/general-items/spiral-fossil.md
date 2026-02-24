@@ -16,9 +16,11 @@ a dirty light brown spiral shell.
 
 The ammonite spiral fossil directly inspired Spiral Tribe's iconic logo and visual identity. This simple natural form became the symbol for one of the most important free party sound systems in history, connecting prehistoric life to 1990s rave culture.
 
+<!-- justification
 ## Justification
 
 The origin of Spiral Tribe's entire visual identity pulled straight from deep time. A 400-million-year-old organism became the logo for 1990s rave resistance.
+-->
 
 ---
 

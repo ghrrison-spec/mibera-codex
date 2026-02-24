@@ -14,9 +14,11 @@ date_added: null
 
 Timothy C. May wrote "The Crypto Anarchist Manifesto" in 1988, predicting that cryptography would undermine the state's ability to control information and money. His vision of crypto-anarchy directly anticipated the world that Bitcoin, dark markets, and encrypted messaging have created.
 
+<!-- justification
 ## Justification
 
 Wrote "The Crypto Anarchist Manifesto" in 1988 — predicting dark markets, encrypted messaging, and anonymous digital cash before any of it existed. One of the cypherpunk movement's founding prophets.
+-->
 
 ---
 

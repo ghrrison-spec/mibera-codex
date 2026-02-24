@@ -18,9 +18,11 @@ Dominant colors: light brown, dark brown
 
 Psilocybe subaeruginosa is a potent psilocybin mushroom native to Australia and New Zealand. Its inclusion represents the Southern Hemisphere's unique contribution to psychedelic culture.
 
+<!-- justification
 ## Justification
 
 Ensures the collection's psychedelic mushroom catalog is global, not just Northern Hemisphere. Australia and New Zealand have their own psilocybin lineage.
+-->
 
 ---
 

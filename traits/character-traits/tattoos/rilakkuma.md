@@ -19,12 +19,11 @@ Dominant colors: Black
 ## Cultural Context
 
 Rilakkuma (a Japanese fictional character)
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 A lazy bear from Japanese kawaii culture -- Rilakkuma bridges the Japanese ancestor lineage with the bear motif that runs through Berachain's identity, and the character's entire philosophy of doing nothing is peak post-ironic Milady energy.
+-->
 
 ---
 

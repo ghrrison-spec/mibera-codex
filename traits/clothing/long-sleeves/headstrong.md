@@ -18,13 +18,13 @@ Dominant colors: Red, white
 
 ## Cultural Context
 
-The slogan "For The Headstrong" evokes the defiant spirit of UK rave culture, where resilience in the face of legal crackdowns defined the scene. The Criminal Justice and Public Order Act of 1994 specifically targeted gatherings playing music "characterized by the emission of a succession of repetitive beats" — making the mere act of dancing an act of resistance. The bold red-and-white graphics recall the protest-poster aesthetic of that era.
+"Only For The Headstrong" is a landmark early rave track by UK duo Psychotropic, originally released in 1990 at the height of the acid house explosion. It also lent its name to a series of rave compilations starting in 1992 — "Only For The Headstrong: The Ultimate Rave Compilation" — which became one of the definitive compilation series of the UK rave era, featuring artists like Human Resource, Shaft, and Utah Saints.
 
-Era: 1990s UK rave
-
+<!-- justification
 ## Justification
 
-When the UK government literally made dancing illegal in 1994, the rave scene did not stop. This shirt channels the defiance of people who kept the music going anyway.
+This shirt references one of the most iconic early rave tracks and compilation series — "Only For The Headstrong" is a name that any veteran of the UK rave scene recognizes instantly.
+-->
 
 ---
 

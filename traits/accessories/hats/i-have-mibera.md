@@ -20,9 +20,11 @@ Dominant colors: Navy blue, white
 
 This hat is a direct riff on the "Please be patient I have autism" meme hat, replacing "autism" with "Mibera." The original meme format became a widely remixed template in internet culture, and this version turns it into a self-referential community in-joke — wearing your collection allegiance as a faux-disability disclosure.
 
+<!-- justification
 ## Justification
 
 The collection breaking the fourth wall — "Please be patient I have Mibera" is the self-aware community flex that tells everyone you are deep in it.
+-->
 
 ---
 

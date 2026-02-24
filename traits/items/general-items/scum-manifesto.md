@@ -16,9 +16,11 @@ a red book titled “Scum Manifesto” by Valerie Solanas, 1968
 
 The SCUM Manifesto is Valerie Solanas' 1967 radical feminist text calling for the overthrow of patriarchal society. Its inclusion alongside other countercultural texts positions the collection's literary references across the full spectrum of revolutionary thought.
 
+<!-- justification
 ## Justification
 
 The most confrontational text in the collection. Mibera's bookshelf includes radical feminism right next to the Shulgins and Spiral Tribe because counterculture means all of it.
+-->
 
 ---
 

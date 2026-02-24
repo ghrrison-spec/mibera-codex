@@ -20,9 +20,11 @@ Taurus, the second zodiac sign (April 20 - May 20), is an earth sign ruled by Ve
 
 Zodiac constellation background. Taurus the Bull — special resonance within the Berachain ecosystem where bull and bear imagery defines the culture.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

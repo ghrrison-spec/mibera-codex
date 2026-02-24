@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Sensationalist anti-drug headlines from mid-20th century tabloids have been recycled as ironic t-shirt slogans since the punk era. The format -- outrageous drug claim in bold type -- is one of the oldest templates in counterculture merch, turning moral panic into wearable comedy.
 
+<!-- justification
 ## Justification
 
 Tabloid drug scare headlines turned into t-shirts is one of the oldest moves in punk and rave merch. This shirt reclaims moral panic as fashion, which is exactly what counterculture does.
+-->
 
 ---
 

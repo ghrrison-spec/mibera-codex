@@ -18,9 +18,11 @@ Silver long sleeve shirt with mandarin neck and button, with subtle patterns on 
 
 The Mongols are an ethnic group primarily in Mongolia, with significant populations in northern China (Inner Mongolia) and Russia. Numbering about 10 million, they speak the Mongolian language and have a rich history as nomadic pastoralists.
 
+<!-- justification
 ## Justification
 
 The Mongol empire connected East and West along trade routes that prefigured global cultural exchange. Traditional Mongolian dress in the collection represents nomadic heritage and the Silk Road lineage that the Honey Road riffs on.
+-->
 
 ---
 

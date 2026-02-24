@@ -18,9 +18,11 @@ Dominant colors: Dark grey, grey.
 
 The shadow side of rave and drug culture — from Ross Ulbricht to the countless ravers, producers, and chemists who have done time.
 
+<!-- justification
 ## Justification
 
 Prison represents the shadow side of rave and drug culture — the cost of the substances and gatherings that define the Mibera universe.
+-->
 
 ---
 

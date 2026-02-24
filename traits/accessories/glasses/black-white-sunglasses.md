@@ -18,9 +18,11 @@ a pair of sleek black sunglasses with a hint of white on the top frame.
 
 Monochrome sunglasses have been a mainstay of urban cool since the mid-twentieth century, associated with jazz musicians, soul artists, and later the hip-hop and electronic music scenes that emerged from American cities.
 
+<!-- justification
 ## Justification
 
 Clean, minimal, timeless. The kind of shades you wear at an afterhours spot in Chicago where the music matters more than the look, but the look still has to be right.
+-->
 
 ---
 

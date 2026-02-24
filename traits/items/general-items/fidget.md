@@ -18,9 +18,11 @@ Dominant colors: red, grey
 
 Fidget toys connect to the tactile, sensory-seeking behavior common at raves, where touching textures and manipulating objects with your hands enhances the experience of being in an altered state.
 
+<!-- justification
 ## Justification
 
 Tactile stimulation is a known feature of altered states. A fidget spinner is the modern, mass-produced version of the smooth stones and textured objects ravers have always carried.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Shades of grey, white
 
 The Las Vegas Raiders are an NFL team in the AFC West, founded in 1960 as the Oakland Raiders. They play home games at Allegiant Stadium in Paradise, Nevada.
 
+<!-- justification
 ## Justification
 
 The Raiders cap is one of the most iconic pieces of American streetwear — adopted by NWA, LA gang culture, and hip-hop at large, the silver and black became a symbol of outsider identity long before Las Vegas.
+-->
 
 ---
 

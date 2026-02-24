@@ -20,9 +20,11 @@ Dominant colors: Clear white, dark grey
 
 A CPAP (Continuous Positive Airway Pressure) machine is a medical device used to treat sleep apnea by delivering a steady stream of air through a mask worn over the nose or mouth, keeping airways open during sleep to prevent breathing pauses and improve oxygen flow.
 
+<!-- justification
 ## Justification
 
 Part of the collection's commitment to disability representation — a CPAP machine as headwear because the rave does not stop for sleep apnea.
+-->
 
 ---
 

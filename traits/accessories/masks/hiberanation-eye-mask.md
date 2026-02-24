@@ -18,9 +18,11 @@ Dominant colors: Brown
 
 Hibernation operates as a Berachain-centric community initiative from Retard Global, channeling a perpetual hibernation theme through bear emojis and sleep motifs.
 
+<!-- justification
 ## Justification
 
 Hiberanation is a Berachain community initiative built around the idea that bears hibernate. A sleeping bear eye mask on a Mibera is ecosystem lore you can literally nap in.
+-->
 
 ---
 

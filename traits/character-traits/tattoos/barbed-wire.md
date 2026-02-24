@@ -20,9 +20,11 @@ Dominant colors: Black
 
 Barbed wire tattoos became one of the most popular tattoo designs of the 1990s, worn as armband or neckband motifs. Originally associated with imprisonment, suffering, and sacrifice, the design was adopted broadly in mainstream tattoo culture during the decade, becoming a ubiquitous symbol of toughness and rebellion before eventually being recognized as a period cliche.
 
+<!-- justification
 ## Justification
 
 The quintessential 90s tattoo cliche -- it belongs here because Mibera doesn't shy away from the designs that actually defined an era, even the ones people now pretend they never got.
+-->
 
 ---
 

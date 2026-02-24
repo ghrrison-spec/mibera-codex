@@ -18,9 +18,11 @@ Dominant colors: Red, hot-pink / magenta, blue, green, yellow.
 
 Strobing lights, silhouetted crowds, chromatic chaos — the dancefloor experience across all four tribes.
 
+<!-- justification
 ## Justification
 
 Abstract rave backgrounds represent the raw sensory experience of electronic music events — the environments where all four archetypes converge.
+-->
 
 ---
 

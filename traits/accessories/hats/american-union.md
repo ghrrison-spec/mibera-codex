@@ -20,9 +20,11 @@ Dominant colors: Blue, red, white.
 
 Ron Hardy, a pioneering Chicago DJ, shaped house music at The Music Box club in the 1980s. Known for his high-energy, experimental style, he mixed disco, soul, and early house tracks, often playing them at fast tempos or backwards, creating an electrifying atmosphere. His innovative edits and residency at the club, which featured unique amenities like a fruit bar, helped define Chicago's house music scene.
 
+<!-- justification
 ## Justification
 
 The fisherman hat channels working-class Americana through the lens of Chicago house — Ron Hardy and The Music Box rewired what a night out could be, and this hat tips to that spirit.
+-->
 
 ---
 

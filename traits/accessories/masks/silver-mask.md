@@ -20,9 +20,11 @@ Dominant colors: Silver.
 
 Featureless metallic masks have appeared across UK drill, grime, and electronic music scenes as tools of anonymity, particularly in contexts where performers face legal scrutiny. In the free party scene, silver masks carry additional resonance as industrial-looking objects that match the warehouse and factory environments where tekno events take place.
 
+<!-- justification
 ## Justification
 
 A silver mask in the freetekno context is not costume, it is operational security. When the sound system is illegal, so is the identity behind it.
+-->
 
 ---
 

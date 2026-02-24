@@ -18,11 +18,13 @@ Dominant colors: Milky white, red, brown.
 
 ## Cultural Context
 
-Ohabera is a Berachain community expression combining Japanese honorific conventions with the Bera bear identity. Jani is the founder of The Honey Jar. This shirt renders the project lead as a kawaii bear character with Japanese text, bridging Japanese internet culture with the Berachain ecosystem.
+"Ohabera" was a slogan of Project Puru-Puru. The character on the shirt is "APAC Jani" — a mascot version of Jani (Mibera's founder) rendered as a kawaii bear in a purple durag and red jacket, with Japanese text in a speech bubble. The mascot design bridges Japanese internet culture with the Berachain ecosystem's bear identity.
 
+<!-- justification
 ## Justification
 
 The project founder as a cute anime-style bear with Japanese text. This shirt is where the Milady Japanese aesthetic meets Berachain community culture.
+-->
 
 ---
 

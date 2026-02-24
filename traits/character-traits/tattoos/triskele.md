@@ -19,12 +19,11 @@ Dominant colors: Black.
 ## Cultural Context
 
 Irish druids / Celtic culture
-
-Era: Ancient
-
+<!-- justification
 ## Justification
 
 Older than the pyramids and still instantly recognizable -- the triskele is the Irish Druid ancestor lineage distilled into its most ancient and enduring form.
+-->
 
 ---
 

@@ -17,14 +17,13 @@ Simple shape made of lines, irregular outline resembling an Ox, with a slight cu
 Dominant colors: Black.
 
 ## Cultural Context
-
-Era: Ancient
-
 The Indus Valley Civilization (ca. 2500 BCE) relied heavily on agriculture, supported by greater rainfall and annual Indus River flooding, which enriched the soil. Primary crops included wheat and barley, grown using rabi cultivation (sown in November, harvested before April floods). Oxen were key for plowing and carts, while cows provided milk and meat. Other domesticated animals like asses, Bactrian camels, water buffaloes, goats, sheep, and pigs aided farming and food supply, reflecting a diverse agricultural economy.
 
+<!-- justification
 ## Justification
 
 The ox was the engine of one of humanity's first great civilizations -- putting it on skin connects the Punjabi ancestor lineage to the agricultural foundations that made cities, trade, and culture possible.
+-->
 
 ---
 

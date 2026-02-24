@@ -16,9 +16,11 @@ a glass of creamy white beverage with decorative mini umbrella, a slice of pinea
 
 The pina colada evokes tropical escapism and vacation hedonism, a lighter and more playful counterpart to the collection's heavier substances. Sometimes the rave is just a beach party.
 
+<!-- justification
 ## Justification
 
 The collection needs a beach — this is it. Not every substance reference has to be heavy.
+-->
 
 ---
 

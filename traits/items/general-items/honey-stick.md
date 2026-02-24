@@ -18,9 +18,11 @@ Dominant colors: yellow, rainbow-coloured
 
 A honey stirrer (honey dipper) — a wooden stick with grooved ridges used to drizzle honey. Part of the collection's recurring honey motif tied to Berachain and The Honey Jar ecosystem.
 
+<!-- justification
 ## Justification
 
 Humble kitchen utensil that grounds the honey motif in something ordinary and tactile.
+-->
 
 ---
 

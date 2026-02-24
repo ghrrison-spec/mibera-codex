@@ -18,9 +18,11 @@ Dark shades of purple glasses with dark grey framing.
 
 YY references Yohji Yamamoto, the Japanese fashion designer known for avant-garde, predominantly black clothing that deconstructs Western fashion conventions. His eyewear line features angular, sculptural frames that blur the line between accessory and art object.
 
+<!-- justification
 ## Justification
 
 Yohji Yamamoto is the designer for people who think fashion should ask questions, not answer them. The Milady archetype operates in the same register: oblique, deliberate, and allergic to the obvious.
+-->
 
 ---
 

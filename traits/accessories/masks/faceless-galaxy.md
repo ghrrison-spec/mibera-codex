@@ -20,9 +20,11 @@ Dominant colors: Dark blue, magenta.
 
 The faceless or void-face motif appears across mythology and contemporary art, representing the dissolution of individual identity into something larger. In psychedelic and rave culture, the experience of ego dissolution on the dancefloor is a recurring theme, where personal identity gives way to collective energy.
 
+<!-- justification
 ## Justification
 
 Replacing a face with a galaxy is about as direct a visual metaphor for ego death as you can get. The acid house dancefloor dissolves the individual into the cosmic, and this mask captures that exact moment.
+-->
 
 ---
 

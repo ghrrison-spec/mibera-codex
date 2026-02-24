@@ -18,9 +18,11 @@ Dominant colors: Leafy green
 
 Gummy bears are often laced with drugs.
 
+<!-- justification
 ## Justification
 
 A playful double reference -- gummy bears as a well-known vehicle for laced substances in party culture, plus a nod to Gumi, the project's co-creator.
+-->
 
 ---
 

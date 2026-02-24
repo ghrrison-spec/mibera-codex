@@ -20,9 +20,11 @@ Dominant colors: shades of brown, white
 
 Bozito is a character and project within the Berachain ecosystem. The "cave off" variant features a dead bear head hood, a darker and more surreal take on the typically cute bear aesthetics of the Berachain community. The patched-up, lifeless eyes give it a post-apocalyptic or outsider art quality.
 
+<!-- justification
 ## Justification
 
 Bozito went dark mode — a dead bear hood at swag score 4 for the Miberas who like their Berachain ecosystem references a little unhinged.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: light beige
 
 Otyken is a Siberian indigenous music group from the Chulym people of Russia. This carved wooden honey vessel references both the group's cultural heritage and Berachain's honey motif. The connection was sourced by team member Jani.
 
+<!-- justification
 ## Justification
 
 Siberian indigenous vessel discovered by the team, connecting the honey motif to a living Central Asian cultural tradition.
+-->
 
 ---
 

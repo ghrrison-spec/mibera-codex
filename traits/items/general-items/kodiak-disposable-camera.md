@@ -17,9 +17,11 @@ Dominant colors: black, red, yellow
 
 Kodiak is a decentralized exchange (DEX) on Berachain. The disposable camera format plays on the similarity between "Kodiak" and "Kodak," the film company. The item merges ecosystem infrastructure branding with a nostalgic analog photography object.
 
+<!-- justification
 ## Justification
 
 A pun made physical — "Kodiak" the Berachain DEX rendered as a "Kodak" disposable camera. Ecosystem branding meets retro analog nostalgia.
+-->
 
 ---
 

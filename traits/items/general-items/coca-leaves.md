@@ -18,9 +18,11 @@ Dominant colors: red, green
 
 Coca leaves have been chewed by Andean peoples for thousands of years to combat altitude sickness and fatigue. Before being refined into cocaine, the plant was a sacred everyday staple, and its inclusion highlights the distance between traditional use and modern excess.
 
+<!-- justification
 ## Justification
 
 The collection traces substances from sacred origin to modern excess. Coca leaves are the starting point of that journey — millennia of Andean tradition before the nightclub bathroom.
+-->
 
 ---
 

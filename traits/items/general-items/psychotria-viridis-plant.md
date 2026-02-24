@@ -18,9 +18,11 @@ Dominant colors: green
 
 Psychotria viridis, known as chacruna, is the DMT-containing plant in traditional Amazonian ayahuasca brews. Indigenous peoples discovered its precise pharmacological pairing with the ayahuasca vine centuries before modern science could explain why it works.
 
+<!-- justification
 ## Justification
 
 One half of the ayahuasca equation. Including the raw botanical alongside the prepared brew shows the collection cares about the science, not just the experience.
+-->
 
 ---
 

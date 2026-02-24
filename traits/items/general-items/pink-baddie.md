@@ -18,9 +18,11 @@ Dominant colors: shades of pink
 
 Baddies is an NFT collection within the Berachain ecosystem featuring feminine bear characters with distinctive masks. The pink color variant provides visual differentiation within the Baddie lineup, with the same design elements: feminine eyes, heart nose, red lips, and ear ribbon.
 
+<!-- justification
 ## Justification
 
 Color variant of the Baddie bear mask. Multiple variants reflect how NFT collections use visual differentiation to create tiers within a single identity.
+-->
 
 ---
 

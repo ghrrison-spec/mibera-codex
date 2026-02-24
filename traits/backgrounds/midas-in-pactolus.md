@@ -20,9 +20,11 @@ King Midas, granted his wish to turn everything he touched to gold, found it a c
 
 A parable about the curse of turning everything to gold — resonant for a crypto-native project. Based on the Poussin painting, one of the first artworks acquired by The Met in 1871.
 
+<!-- justification
 ## Justification
 
 The myth of King Midas connects to the Greek ancestor lineage — one of the foundational mythological traditions in the Mibera system.
+-->
 
 ---
 

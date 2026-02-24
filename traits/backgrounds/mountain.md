@@ -18,9 +18,11 @@ Dominant colors: Black / dark grey, green, blue
 
 Based on one of Milady's background assets
 
+<!-- justification
 ## Justification
 
 Natural landscape associated with the Milady archetype's visual vocabulary.
+-->
 
 ---
 

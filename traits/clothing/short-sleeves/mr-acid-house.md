@@ -18,11 +18,13 @@ Dominant colors: White, blue.
 
 ## Cultural Context
 
-The acid house smiley face became the defining symbol of the Second Summer of Love in 1988 Britain, when MDMA-fueled warehouse raves transformed youth culture. The yellow smiley was adopted from the 1960s Have a Nice Day design and repurposed as the unofficial logo of an entire movement.
+A play on the Mr. Men series — the beloved British children's book characters created by Roger Hargreaves in 1971, each named "Mr." followed by a personality trait (Mr. Happy, Mr. Grumpy, etc.). This shirt reimagines the format with the acid house smiley face as "Mr. Acid House," merging a wholesome British cultural institution with the Second Summer of Love's defining symbol.
 
+<!-- justification
 ## Justification
 
 Mr. Acid House personifies the smiley face that defined an entire era. This shirt puts a name to the most recognizable symbol in rave history.
+-->
 
 ---
 

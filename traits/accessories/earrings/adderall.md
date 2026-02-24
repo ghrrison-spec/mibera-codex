@@ -18,9 +18,11 @@ Dominant colors: Soft-blue
 
 Adderall is a prescription medication containing amphetamine and dextroamphetamine, used to treat ADHD and narcolepsy. It stimulates the central nervous system, improving focus, attention, and impulse control, but can cause side effects like insomnia, anxiety, or addiction with misuse. In rave culture Adderall is often taken for its stimulant effects, enhancing energy and focus during long dance events.
 
+<!-- justification
 ## Justification
 
 Drugs are core to Mibera's identity, and Adderall sits at the intersection of prescription culture and recreational rave use -- a stimulant that keeps you locked in when the night goes long.
+-->
 
 ---
 

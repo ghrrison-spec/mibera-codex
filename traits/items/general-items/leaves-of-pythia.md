@@ -18,9 +18,11 @@ Dominant colors: green
 
 The Pythia was the Oracle at Delphi, who delivered prophecies while inhaling vapors from a chasm in the earth. Some scholars believe these vapors were psychoactive, making the Oracle one of the earliest documented cases of divination through altered states.
 
+<!-- justification
 ## Justification
 
 Represents the ancient precedent for chemically-assisted prophecy, linking the collection's drug theme to a lineage older than any modern psychedelic movement.
+-->
 
 ---
 

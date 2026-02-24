@@ -18,9 +18,11 @@ Dominant colors: Deep magenta
 
 The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
+<!-- justification
 ## Justification
 
 Same iconic dancing bear, different colorway. The Grateful Dead's influence on rave and counterculture is deep enough to warrant multiple variants in the collection.
+-->
 
 ---
 

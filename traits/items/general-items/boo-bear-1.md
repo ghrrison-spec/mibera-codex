@@ -16,9 +16,11 @@ a doll of a bear with pale green fur that looks almost rotten with 2 nails on it
 
 Boo Bear is a four-part series of horror-themed bear plushies. This first variant features pale green rotting fur, nails, and body stitches, styled after Frankenstein's monster or zombie aesthetics.
 
+<!-- justification
 ## Justification
 
 References a key Berachain rebase.
+-->
 
 ---
 

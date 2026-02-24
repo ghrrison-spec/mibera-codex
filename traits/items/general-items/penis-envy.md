@@ -18,9 +18,11 @@ Dominant colors: light brown / beige, creamy white
 
 Penis Envy is a notably potent strain of Psilocybe cubensis, reportedly developed by Terrence McKenna from specimens collected in the Amazon. Its name and exaggerated shape have made it a meme within psychedelic culture, blurring the line between serious mycology and internet humor.
 
+<!-- justification
 ## Justification
 
 Where serious mycology meets internet meme culture. Its McKenna origin story and absurd name make it the most recognizable strain in online psychedelic communities.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: white, black, grey, dirty white
 
 A panda plushie in a grey hat and long coat, the most casual of the four Bond Bear variants. 
 
+<!-- justification
 ## Justification
 
 References a key Berachain rebase.
+-->
 
 ---
 

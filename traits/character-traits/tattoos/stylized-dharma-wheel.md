@@ -19,12 +19,11 @@ Dominant colors: Light brown.
 ## Cultural Context
 
 Dharma Wheel (Dharmachakra), a key Buddhist symbol representing the Buddha’s teachings and the path to enlightenment. With eight spokes symbolizing the Noble Eightfold Path (right view, intention, speech, action, livelihood, effort, mindfulness, and concentration), it signifies the "Wheel of Law" turning to spread wisdom.
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 The Dharmachakra is the most concise visual summary of Buddhist teaching -- eight spokes for the Eightfold Path, one wheel for the entire doctrine. It anchors the Buddhist ancestor lineage in a symbol that has meant the same thing for 2,500 years.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: brown, red, white
 
 A bear plushie in a Santa hat and striped red-white sleeves with spectacles. The Christmas theme creates an odd contrast within the otherwise horror-themed Boo Bear series.
 
+<!-- justification
 ## Justification
 
 References a key Berachain rebase.
+-->
 
 ---
 

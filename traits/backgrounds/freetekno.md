@@ -18,9 +18,11 @@ Dominant colors: Dark purple, light sandy brown, light teal, green
 
 Freetekno is one of Mibera's four founding archetypes -- representing free parties, teknivals, DIY sound systems, and the anarchist ethos of unlicensed raves. The anarchy symbol and stacked speaker system in this background are the visual language of the movement, from Spiral Tribe to the Czech teknival scene.
 
+<!-- justification
 ## Justification
 
 Direct representation of one of Mibera's four founding archetypes.
+-->
 
 ---
 

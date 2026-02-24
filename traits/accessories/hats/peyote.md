@@ -20,9 +20,11 @@ Dominant colors: Red, blue, orange, red, yellow, grey
 
 Peyote is seen as a divine teacher, fostering unity and heart-opening experiences, requiring respect and ethical sourcing due to its slow growth and cultural significance. Peyote ceremony is a sacred, Indigenous ritual using the peyote cactus, a spiritual medicine containing mescaline. Conducted by tribes like the Huichol and Native American Church, it involves all-night ceremonies with prayer, music, and introspection for emotional and spiritual healing.
 
+<!-- justification
 ## Justification
 
 The ornate peyote ceremony hat with feathers and pompoms — a full ceremonial headpiece that carries the spiritual weight of Indigenous plant medicine tradition into the freetekno archetype.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Part of the autism-themed slogan tee series in the collection, these shirts emerge from the same post-ironic internet culture that produced Milady Maker and much of crypto Twitter's visual identity.
 
+<!-- justification
 ## Justification
 
 This is the most high-swag autism tee in the collection because it is the most unapologetic. The internet speaks in extremes, and so does this shirt.
+-->
 
 ---
 

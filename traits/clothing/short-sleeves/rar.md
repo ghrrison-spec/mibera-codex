@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 RAR (Rave Age Records) references the record label and rave culture infrastructure that supported the UK free party scene. The star and pigeon imagery borrows from revolutionary and peace movement graphics, connecting rave culture to broader traditions of political dissent.
 
+<!-- justification
 ## Justification
 
 Rave Age Records represents the DIY label infrastructure that kept the scene alive. In a collection about music subcultures, the labels and record shops are as important as the artists.
+-->
 
 ---
 

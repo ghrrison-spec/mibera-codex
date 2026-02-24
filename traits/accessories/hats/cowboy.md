@@ -20,9 +20,11 @@ Dominant colors: Brown, light beige
 
 The cowboy hat is one of the most recognizable pieces of American headwear, originating in the 1860s cattle ranching culture of the Western United States. It has been adopted and recontextualized by countless subcultures — from country music to punk to queer culture — becoming a symbol of rugged individualism and performative Americana.
 
+<!-- justification
 ## Justification
 
 The cowboy hat transcends every subculture it touches — on a Milady it reads as ironic Americana, yeehaw energy for the terminally online.
+-->
 
 ---
 

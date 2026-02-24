@@ -20,9 +20,11 @@ Dominant colors: Pink, black
 
 FRUiTS was a legendary Japanese street fashion magazine founded by Shoichi Aoki in 1997, documenting the wildly creative styles of Harajuku's youth culture. Remilia Corporation is the entity behind Milady Maker, a prominent NFT project. This cap merges both references — the sparkly-eyed face evokes the kawaii aesthetic that bridges Harajuku fashion and Milady internet culture.
 
+<!-- justification
 ## Justification
 
 The Milady-coded variant of the FRUiTS x Remilia crossover — sparkly eyes and a cat mouth on pink, direct from the aesthetic pipeline that feeds the timeline.
+-->
 
 ---
 

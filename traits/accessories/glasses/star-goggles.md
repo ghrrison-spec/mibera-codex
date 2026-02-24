@@ -18,9 +18,11 @@ Black goggles with a white star on one side.
 
 Star-emblazoned goggles and accessories became iconic in the free party and teknival scene across Europe, particularly in the Czech, French, and British underground movements of the 1990s and 2000s. Stars and other simple geometric symbols were adopted as anti-brand markers, standing in opposition to corporate logos.
 
+<!-- justification
 ## Justification
 
 The star on these goggles is not a brand. It is the opposite of a brand. Freetekno culture rejected corporate identity in favor of symbols anyone could replicate on DIY gear.
+-->
 
 ---
 

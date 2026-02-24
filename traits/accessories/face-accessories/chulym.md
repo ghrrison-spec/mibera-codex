@@ -20,9 +20,11 @@ Dominant colors: White with a pinkish hue
 
 The Chulym people are a small Turkic-speaking indigenous group in Siberia, Russia, with a population of around 350. Their cultural practices, including face painting and traditional music, have gained wider visibility through the Otyken music group, formed in 2015, which blends traditional Siberian folk instruments and languages with modern pop and electronic production. Otyken's viral performances have introduced Chulym and other Siberian indigenous aesthetics to a global audience.
 
+<!-- justification
 ## Justification
 
 The Chulym face paint connects one of the world's smallest indigenous groups to a global audience through music -- it represents the idea that no culture is too small to matter in the Mibera universe.
+-->
 
 ---
 

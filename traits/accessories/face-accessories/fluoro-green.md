@@ -20,9 +20,11 @@ Dominant colors: neon-green
 
 In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality. Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral to the rave look.
 
+<!-- justification
 ## Justification
 
 Neon green face paint glowing under UV is one of the most iconic visuals of 90s rave culture. It grounds the Freetekno archetype in the literal look of the free party movement.
+-->
 
 ---
 

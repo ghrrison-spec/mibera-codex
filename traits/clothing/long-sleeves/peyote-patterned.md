@@ -20,9 +20,11 @@ Dominant colors: Dark grey / muted brown, beige, black, creamy white
 
 Peyote is a small, spineless cactus (Lophophora williamsii) native to the southwestern U.S. and Mexico, containing the hallucinogenic alkaloid mescaline, used for millennia by indigenous peoples in religious and medicinal rituals.
 
+<!-- justification
 ## Justification
 
 Peyote has been central to indigenous spiritual practice for millennia, and its patterns are among the oldest psychedelic visual traditions on earth. This garment connects the collection to the deep roots of altered-state culture.
+-->
 
 ---
 

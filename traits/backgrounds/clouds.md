@@ -18,9 +18,11 @@ Dominant colors: Blue, white, and green
 
 Sourced from Milady Maker's background assets. Worth noting that fields under open sky are reminiscent of where the freetekno tribe gathers — from Castlemorton Common to Czech teknivals.
 
+<!-- justification
 ## Justification
 
 Shared visual lineage with Milady Maker.
+-->
 
 ---
 

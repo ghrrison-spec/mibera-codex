@@ -20,9 +20,11 @@ Dominant colors: Indigo, teal, red.
 
 The GOLA jacket is directly referenced from a header photo in an article by DJ Mag about Irish acts and underground talents.
 
+<!-- justification
 ## Justification
 
 Sourced from a DJ Mag photo of the Irish underground scene. The tracksuit is a staple of European rave culture, and Gola is one of the working-class sportswear brands that defined it.
+-->
 
 ---
 

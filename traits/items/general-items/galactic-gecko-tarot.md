@@ -18,9 +18,11 @@ Dominant colors: black, white, pink
 
 Galactic Geckos is an NFT collection. This item merges its gecko character with the tarot card format that appears throughout the Mibera collection, creating a cross-community reference in the visual language of divination.
 
+<!-- justification
 ## Justification
 
 Cross-community NFT reference merged with the collection's tarot visual language. Divination as a format for rendering outside characters.
+-->
 
 ---
 

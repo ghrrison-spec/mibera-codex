@@ -18,9 +18,11 @@ Dominant colors: green, porcelain, brown
 
 Radbro is a character from the broader Milady ecosystem, representing a laid-back, positive energy. The plushie format connects NFT culture to the tradition of physical mascot collectibles.
 
+<!-- justification
 ## Justification
 
 Direct cross-reference to the Remilia ecosystem's Radbro character, sourced from an actual plush toy store.
+-->
 
 ---
 

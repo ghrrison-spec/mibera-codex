@@ -18,9 +18,11 @@ Dominant colors: rosegold, white
 
 References The Honey Jar's (THJ) Honeycomb NFT, one of the most widely held asset in the Berachain ecosystem. Honeycomb acts as a perks aggregator — holders receive whitelists, airdrops, and benefits from THJ's 96+ partner projects. 
 
+<!-- justification
 ## Justification
 
 THJ's Honeycomb NFT is the entry point to THJ DAO membership and the most widely held asset in the ecosystem. This is the object that connects holder to community.
+-->
 
 ---
 

@@ -18,12 +18,11 @@ Dominant colors: —
 Token 2024, Singapore
 
 One of only two masks in the entire 10,000 Mibera collection directly tied to the founder. Jani had two custom masks made for the Token conference in Singapore — both were subsequently stolen. The masks became an artifact of real-world loss woven into the generative collection. Both Singapore Jani masks landed on Rank D Miberas, compounding the bad luck that followed these pieces from Singapore.
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 One of the rarest masks in the collection and one with a real-world story: custom-made, worn at a crypto conference, stolen, and then immortalized in the generative output. The fact that it landed on a Rank D Mibera only adds to the legend.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Sagittarius, the ninth zodiac sign (November 22 - December 21), is a fire sign r
 
 Zodiac constellation background. Sagittarius — adventure, freedom, restless seeking.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

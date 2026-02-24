@@ -20,9 +20,11 @@ Dominant colors: Brown, transparent white.
 
 The Rubberbandits is an Irish comedy hip-hop duo from Limerick, consisting of Blindboy Boatclub (Dave Chambers) and Mr Chrome (Bob McGlynn), who perform with plastic bag masks to conceal their identities. Their work critiques Irish urban youth issues like drug abuse and republicanism.
 
+<!-- justification
 ## Justification
 
 The Rubberbandits turned plastic bags into the most recognizable masks in Irish comedy. In a collection that celebrates DIY anonymity across music cultures, a literal shopping bag over the head is the most punk choice possible.
+-->
 
 ---
 

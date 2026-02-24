@@ -20,9 +20,11 @@ Dominant colors: White, soft- orange.
 
 Ruggy appears to be a bear-themed character from the Berachain ecosystem, rendered in a soft, cartoon style. The name plays on rug (as in rug pull) while the cute bear graphic softens the crypto slang into something approachable and mascot-like.
 
+<!-- justification
 ## Justification
 
 A cute bear character whose name references rug pulls. It captures the Berachain community's ability to turn even the darkest parts of crypto culture into something endearing.
+-->
 
 ---
 

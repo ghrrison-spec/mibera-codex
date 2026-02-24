@@ -20,9 +20,11 @@ Dominant colors: Blood red
 
 Blood splatter as a face accessory references the aesthetic of conflict, violence, and survival that runs through multiple visual cultures -- from war photography to slasher films to the post-ironic 'warcore' aesthetic that emerged on Twitter and Tumblr in the early 2020s. Warcore blends military and combat imagery with fashion and internet culture, embracing the visual language of violence as a stylistic choice rather than a literal statement.
 
+<!-- justification
 ## Justification
 
 Blood splatter on the face is the warcore aesthetic at its most literal -- a Milady archetype trait that treats the imagery of conflict as fashion, which is either deeply honest or deeply provocative depending on who you ask.
+-->
 
 ---
 

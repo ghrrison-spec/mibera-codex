@@ -18,9 +18,11 @@ Red scarf draping down and folded around the bottom part.
 
 The Pythia; the priestess of the Oracle of Apollo at Delphi in ancient Greece, revered as a prophetess who delivered cryptic prophecies while in a trance, often induced by vapors or rituals. Chosen from local women, she served as a divine intermediary, guiding decisions for individuals and city-states from the 8th century BCE until the 4th century CE, when the oracle declined under Roman rule and Christianity.
 
+<!-- justification
 ## Justification
 
 The Oracle at Delphi delivered prophecies in a trance state for over a thousand years — this robe connects the Chicago Detroit archetype to the ancient Greek tradition of altered consciousness as divine communication.
+-->
 
 ---
 

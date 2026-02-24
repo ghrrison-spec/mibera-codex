@@ -20,9 +20,11 @@ Dominant colors: black, white.
 
 Old School as a term in electronic music refers to the foundational era of house and techno in the 1980s and early 1990s, before the scene commercialized. Tank tops and vests were standard club attire in this period, especially in Chicago's house clubs where the heat from dancing made minimal clothing practical.
 
+<!-- justification
 ## Justification
 
 Old School is both a label and a badge of honor in electronic music. The tank top format grounds it in the sweaty, crowded clubs where house music was actually born.
+-->
 
 ---
 

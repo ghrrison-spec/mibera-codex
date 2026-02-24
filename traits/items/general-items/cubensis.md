@@ -18,9 +18,11 @@ Dominant colors: white, light brown
 
 Psilocybe cubensis is the most commonly cultivated magic mushroom species worldwide, found naturally across tropical climates. Its accessibility made it the gateway to psilocybin for millions and a cornerstone of the global psychedelic movement.
 
+<!-- justification
 ## Justification
 
 The species that democratized psilocybin. Easy to grow, hard to misidentify, it made magic mushrooms accessible worldwide and belongs in any psychedelic collection.
+-->
 
 ---
 

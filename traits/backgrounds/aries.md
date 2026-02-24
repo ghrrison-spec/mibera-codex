@@ -20,9 +20,11 @@ Aries, the first zodiac sign (March 21 - April 19), is a fire sign ruled by Mars
 
 Zodiac constellation background. Aries — boldness, initiative, first movers.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: black, blue, white
 
 The Mog hand references Mog Coin ($MOG), a memecoin associated with the "mogging" internet slang (dominating or outshining others). The hand cutout with blue visors is the token's signature visual. $MOG gained traction in 2024 on Ethereum.
 
+<!-- justification
 ## Justification
 
 Memecoin cross-reference capturing the "mogging" moment of 2024 crypto culture as a held cutout prop.
+-->
 
 ---
 

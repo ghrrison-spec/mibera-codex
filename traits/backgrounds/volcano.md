@@ -18,9 +18,11 @@ Dominant colors: Bright red, dark grey, muted pale blue
 
 Raw energy bursting through the surface.
 
+<!-- justification
 ## Justification
 
 Raw geological energy as atmospheric backdrop — elemental force breaking through the surface.
+-->
 
 ---
 

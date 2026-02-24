@@ -16,9 +16,11 @@ a chunk of root with a bunch of leaves and rounded green fruits extending from t
 
 Mandrake has been surrounded by myth since antiquity, with its human-shaped root believed to scream when pulled from the ground. Its hallucinogenic alkaloids were used in ancient love potions and sleeping draughts, connecting it to the long history of plants that blur the line between medicine, magic, and intoxication.
 
+<!-- justification
 ## Justification
 
 The root that screams. Mandrake connects ancient occult practice to the collection's broader fascination with plants that humans turned into myth.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: Gold, red
 
 Gold hoop earrings are among the oldest forms of jewelry, with examples dating back to ancient Sumeria around 2500 BCE. In ancient Greece, gold hoops with gemstone accents were worn as symbols of wealth and divine favor. The style persisted through Roman, Byzantine, and Renaissance periods before becoming a staple of 20th-century fashion across diverse cultural communities.
 
+<!-- justification
 ## Justification
 
 Ancient Greek gold hoops with gemstones -- this earring literally wears its ancestor lineage, connecting the Acidhouse archetype to one of Mibera's oldest cultural threads.
+-->
 
 ---
 

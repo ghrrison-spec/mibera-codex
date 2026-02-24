@@ -18,9 +18,11 @@ Dominant colors: white, black
 
 White gloves became part of rave culture through multiple channels: Mickey Mouse's iconic four-fingered gloves, the white-glove aesthetic of early house music performers, and the emergence of "gloving" as a distinct art form. Gloving involves performing intricate finger movements with LED-equipped gloves to create light shows for people on the dance floor, and it developed its own competitive scene and technique vocabulary.
 
+<!-- justification
 ## Justification
 
 Gloving evolved from a party accessory into a competitive performance art form, making it one of the few art disciplines born entirely from rave culture.
+-->
 
 ---
 

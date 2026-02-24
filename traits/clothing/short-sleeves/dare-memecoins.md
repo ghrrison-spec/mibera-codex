@@ -20,9 +20,11 @@ Dominant colors: Black, magenta, white.
 
 D.A.R.E. (Drug Abuse Resistance Education) is a widely recognized American anti-drug program founded in 1983 by the Los Angeles Police Department. Its logo and t-shirts became ironic fashion staples in rave and counterculture, worn by the very communities the program targeted. This variant replaces drugs with memecoins.
 
+<!-- justification
 ## Justification
 
 The D.A.R.E. parody format is one of the most recycled templates in counterculture merch. Swapping drugs for memecoins updates the joke for the crypto era while keeping the same ironic energy.
+-->
 
 ---
 

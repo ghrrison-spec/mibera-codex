@@ -18,9 +18,11 @@ Dominant colors: clear white, brown.
 
 Whiskey is one of the oldest distilled spirits, with deep roots in Scottish, Irish, and American culture. As a nightlife staple that predates rave culture by centuries, it connects the modern dance floor to much older traditions of communal drinking.
 
+<!-- justification
 ## Justification
 
 Not every substance in the collection arrived with electronic music. Whiskey grounds the drug taxonomy in the longer history of communal intoxication — the tavern before the warehouse.
+-->
 
 ---
 

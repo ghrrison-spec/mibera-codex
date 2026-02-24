@@ -20,9 +20,11 @@ Libra, the seventh zodiac sign (September 23 - October 22), is an air sign ruled
 
 Zodiac constellation background. Libra — balance and harmony.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Green.
 
 Illegal Covid Raves
 
+<!-- justification
 ## Justification
 
 Another artifact from the illegal COVID rave era. A featureless green mask at an underground party is equal parts practical, eerie, and committed to the bit.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Silver mask with a lot of defined edges, depths, and unique shape. Covering half
 
 MF doom
 
+<!-- justification
 ## Justification
 
 DOOM proved that a mask could be more recognizable than a face. In a collection built around music, anonymity, and crypto-native pseudonymity, his influence is foundational.
+-->
 
 ---
 

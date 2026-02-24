@@ -20,9 +20,11 @@ Dominant colors: Light brown, dark brown, green, yellow.
 
 The Mibera-branded McDonald's cap replaces the golden arches' "M" with "mibera" text, blending corporate fast food aesthetics with NFT community identity. The burger-stripe colorway references the Big Mac, while the overall design channels the irreverent brand-parody tradition common in both streetwear and internet culture.
 
+<!-- justification
 ## Justification
 
 McDonald's but make it Mibera — the Big Mac color scheme with the collection's name where the brand should be. Corporate parody as community identity.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: White, navy blue, orange
 
 Erowid.org is an online library and journal founded in 1995 as a non-profit resource providing accurate, non-judgmental information on psychoactive plants, chemicals, and related topics. Its mission is to promote harm reduction and healthier relationships with these substances through education on effects, chemistry, dosage, legal status, health risks, and cultural/spiritual uses. Key features include over 50,000 documents, 24,000+ user-submitted experience reports, and substance-specific guides, all maintained by a small staff and volunteers. Funded by donations, it serves millions of visitors annually without ads.
 
+<!-- justification
 ## Justification
 
 Erowid is the internet's most important harm reduction resource, serving millions with unbiased drug information since 1995. In a collection built around drug culture, an Erowid shirt is practically mandatory.
+-->
 
 ---
 

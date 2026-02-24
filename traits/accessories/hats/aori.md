@@ -20,9 +20,11 @@ Dominant colors: black, white
 
 Aori is a brand and creative entity in the crypto-native fashion space, associated with the post-ironic aesthetic communities around NFT culture. The minimalist logo design reflects the clean, graphic-forward style common in web3-adjacent streetwear.
 
+<!-- justification
 ## Justification
 
 Crypto-native streetwear brought into the collection — Aori represents the overlap between web3 culture and fashion that Mibera lives in.
+-->
 
 ---
 

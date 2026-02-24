@@ -20,9 +20,11 @@ Virgo, the sixth zodiac sign (August 23 - September 22), is an earth sign ruled 
 
 Mibera visually and astrologically explores all 12 zodiac signs.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

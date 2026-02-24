@@ -18,9 +18,11 @@ Dominant colors: white, black
 
 The "Male Tears" mug became an iconic accessory of online feminist culture in the 2010s, designed to provoke and amuse in equal measure. Its inclusion places internet-era gender politics alongside the collection's other countercultural artifacts.
 
+<!-- justification
 ## Justification
 
 Internet-era provocation sitting next to ancient plants and rave gear. The collection doesn't just look backward; it includes the culture wars of the 2010s too.
+-->
 
 ---
 

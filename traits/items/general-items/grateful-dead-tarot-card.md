@@ -18,9 +18,11 @@ Dominant colors: gold, blue, pale terracotta..
 
 Tarot cards have been used for divination and self-reflection for centuries, and the Grateful Dead's connection to psychedelic mysticism makes this pairing a natural fit. It represents the overlap between countercultural music and occult practice.
 
+<!-- justification
 ## Justification
 
 A bear walking a sunlit path on a tarot card merges Berachain iconography with the Dead's psychedelic mysticism in a single image.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Brown, transparent white.
 
 Beekeeping veils and masks are among the oldest protective garments in agriculture, with depictions dating back to ancient Egypt. The DIY construction of this mask echoes both the handmade ethos of underground music scenes and the bee/honey motifs central to the Berachain ecosystem, where The Honey Jar (THJ) serves as a core community hub.
 
+<!-- justification
 ## Justification
 
 Homemade, bee-themed, and rough around the edges. This mask sits at the intersection of Berachain identity, DIY culture, and the Milady love of objects that are charming precisely because they are imperfect.
+-->
 
 ---
 

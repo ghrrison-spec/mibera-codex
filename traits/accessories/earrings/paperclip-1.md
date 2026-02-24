@@ -18,9 +18,11 @@ Dominant colors: Silver / grey
 
 Safety pin and paperclip jewelry originated in 1970s punk culture, where everyday office supplies were repurposed as fashion statements of anti-establishment identity. The practice embodied the DIY ethos central to punk and later to the free party movement, where making something from nothing was both necessity and ideology. Mixed sets combining pins, clips, and studs became characteristic of the Freetekno scene.
 
+<!-- justification
 ## Justification
 
 Paperclips and safety pins turned into earrings -- the purest expression of Freetekno's DIY spirit, where you make jewelry from whatever's in the junk drawer.
+-->
 
 ---
 

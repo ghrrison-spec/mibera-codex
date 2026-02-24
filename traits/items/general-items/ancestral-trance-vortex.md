@@ -17,9 +17,11 @@ Dominant colors: blue, white
 
 Spiral and vortex imagery appears across cultures as a representation of altered states of consciousness, from Aboriginal dreamtime art to Haitian Vodou veves to Sufi whirling. The visual motif of being pulled into a central point recurs in descriptions of deep meditation, psychedelic experience, and shamanic trance across unrelated traditions.
 
+<!-- justification
 ## Justification
 
 The visual motif that ties the collection together: rave culture's altered states are just the latest iteration of something humans have been chasing since prehistory.
+-->
 
 ---
 

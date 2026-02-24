@@ -20,9 +20,11 @@ Dominant colors: Light grey, yellow, white
 
 The Honey Jar (THJ) is the central community hub and validator of the Berachain ecosystem. The bucket hat featuring a bear eating honey surrounded by bees encapsulates core Berachain imagery — bears, honey, and the industrious bee metaphor that defines the chain's community ethos. THJ has been instrumental in building Berachain's pre-launch community and ecosystem coordination.
 
+<!-- justification
 ## Justification
 
 THJ is the heart of the Berachain ecosystem — this bucket hat with a honey-eating bear and bees is basically the chain's coat of arms as wearable headwear.
+-->
 
 ---
 

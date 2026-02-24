@@ -18,13 +18,13 @@ Dominant colors: Black and white
 
 ## Cultural Context
 
-Part of the kigurumi (着ぐるみ) series. The panda variant bridges the bear motif (Berachain) with East Asian cultural symbolism — the giant panda as icon of China and conservation. In rave fashion, the high-contrast black-and-white palette makes this kigu particularly striking under strobe lighting.
+Part of the kigurumi (着ぐるみ) series. The panda variant bridges the bear motif (Berachain) with East Asian cultural symbolism — the giant panda as icon of China and conservation.
 
-Era: 2000s-present (Japanese street fashion)
-
+<!-- justification
 ## Justification
 
-The panda kigu bridges East Asian symbolism with the Berachain bear motif. Its high-contrast black-and-white look is also the most visually striking of the kigurumi series under strobe lights.
+The panda kigu bridges East Asian symbolism with the Berachain bear motif.
+-->
 
 ---
 

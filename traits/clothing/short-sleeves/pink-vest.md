@@ -20,9 +20,11 @@ Dominant colors: Pink
 
 Pink tank tops and vests were common in early Chicago house clubs, where the heat of packed dancefloors made minimal, lightweight clothing a practical necessity. The color pink in this context carries no particular subcultural signal -- it is simply a garment color referenced from period photography of Chicago's house scene.
 
+<!-- justification
 ## Justification
 
 Sourced from Chicago house scene photography. The plain pink vest is what people actually wore to the clubs where this music was invented -- no logos, no slogans, just color and movement.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 K-holing refers to the dissociative state caused by high doses of ketamine, where the user experiences intense hallucinations and a feeling of detachment from reality. The term is widely used in rave and club culture. This shirt is part of the Milady Rave souvenir tee series.
 
+<!-- justification
 ## Justification
 
 Part of the Milady Rave confessional tee set. K-holing at a rave is a specific, visceral experience that a lot of people in this community can relate to.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: White
 
 In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality. Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral to the rave look.
 
+<!-- justification
 ## Justification
 
 White face paint is the DIY free party look -- covered in paint from setting up rigs and decorations, or deliberately painted for UV glow. It is the Freetekno archetype in its most authentic, hands-dirty form.
+-->
 
 ---
 

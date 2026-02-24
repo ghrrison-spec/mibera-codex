@@ -17,12 +17,11 @@ Simple straight writing of ‘beloved’ in Greek language and alphabet ‘αγ�
 Dominant colors: Red
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 A love letter written in the language of philosophy -- it ties the Greek ancestor lineage directly to the skin.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Purple, white, red, green, yellow
 
 Marsha P Johnson; a Black transgender activist and drag performer, pivotal in the gay liberation movement. A key figure at the 1969 Stonewall uprising, she co-founded the Gay Liberation Front and STAR (Street Transvestite Action Revolutionaries) to support homeless queer youth. Known for her vibrant personality and advocacy for transgender rights.
 
+<!-- justification
 ## Justification
 
 Marsha P. Johnson's flower crowns were as iconic as her activism — this hat honors a pioneer of queer liberation whose style was inseparable from her fight.
+-->
 
 ---
 

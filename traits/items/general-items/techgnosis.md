@@ -18,9 +18,11 @@ Dominant colors: blue, black, white
 
 TechGnosis by Erik Davis explores the mystical and occult undercurrents running through the history of technology, from the telegraph to the internet. It provides the intellectual framework connecting rave culture's techno-spirituality to deeper traditions of seeking transcendence through machines.
 
+<!-- justification
 ## Justification
 
 Erik Davis mapped the occult undercurrents running through the entire history of technology. Jani recommended it as a grounded alternative to Nick Land for understanding the techno-spiritual thread the collection weaves.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: red, green
 
 The tomato has a long history as a projectile of protest and disapproval. Holding one at a rave suggests a readiness to critique as much as to celebrate.
 
+<!-- justification
 ## Justification
 
 The classic projectile of disapproval. A readiness to critique as much as celebrate — the collection includes objects of dissent alongside objects of devotion.
+-->
 
 ---
 

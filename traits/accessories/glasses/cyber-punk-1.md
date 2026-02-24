@@ -18,9 +18,11 @@ Round glasses with a unique framing of a straight line only at the top part acti
 
 Cyberpunk fashion draws from the literary genre pioneered by William Gibson and Bruce Sterling in the 1980s, blending industrial minimalism with dystopian futurism. The aesthetic has influenced underground electronic music scenes, particularly free party and tekno culture, where DIY ethos meets technological resistance.
 
+<!-- justification
 ## Justification
 
 Freetekno lives at the intersection of technology and resistance. Cyberpunk glasses are not cosplay here; they are a statement about building your own infrastructure outside the system.
+-->
 
 ---
 

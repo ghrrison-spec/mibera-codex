@@ -20,9 +20,11 @@ Leo, the fifth zodiac sign (July 23 - August 22), is a fire sign ruled by the Su
 
 Zodiac constellation background. Leo — boldness, charisma, presence.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

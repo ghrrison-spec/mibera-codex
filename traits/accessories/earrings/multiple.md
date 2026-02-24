@@ -18,9 +18,11 @@ Dominant colors: Black
 
 Heavy piercing sets combining industrial bars and multiple studs emerged from punk and industrial music subcultures in the 1980s before crossing into rave and free party scenes. In the Freetekno movement, aggressive body modification was part of the visual identity -- a deliberate rejection of conventional appearance that mirrored the music's anti-establishment stance.
 
+<!-- justification
 ## Justification
 
 A full ear loaded with industrial bars and studs is the Freetekno uniform -- maximum hardware for maximum rebellion.
+-->
 
 ---
 

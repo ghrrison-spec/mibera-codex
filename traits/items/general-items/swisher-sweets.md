@@ -18,9 +18,11 @@ Dominant colors: yellow, red
 
 Swisher Sweets are cheap flavored cigars widely used as blunt wraps in American cannabis culture. They became so associated with weed that buying them at a gas station turned into a cultural signal of its own.
 
+<!-- justification
 ## Justification
 
 The 99-cent price tag is the point. Swishers are the cheapest possible entry into blunt culture — gas station counterculture, accessible to anyone with pocket change.
+-->
 
 ---
 

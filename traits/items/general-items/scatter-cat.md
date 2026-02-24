@@ -18,9 +18,11 @@ Dominant colors: light brown, very dark navy (almost black), light yellow
 
 A cartoonish black cat in a box. Cats are a recurring motif in internet culture and the broader Milady aesthetic. The "scatter" name and box presentation suggest a collectible or gacha-style figure.
 
+<!-- justification
 ## Justification
 
 Gacha-style boxed figure adding feline energy to a collection dominated by bear and anime plushies.
+-->
 
 ---
 

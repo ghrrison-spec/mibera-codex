@@ -18,9 +18,11 @@ Dominant colors: white, black, light beige
 
 Aum Shinrikyo was a Japanese doomsday cult that carried out the 1995 Tokyo subway sarin gas attack. The group's apocalyptic blend of religion, science, and violence represents one of the darkest manifestations of cult-like thinking, serving as a cautionary counterpoint to the collection's more utopian countercultural references.
 
+<!-- justification
 ## Justification
 
 Marks the outer boundary of the collection's countercultural spectrum — where ideology turns lethal.
+-->
 
 ---
 

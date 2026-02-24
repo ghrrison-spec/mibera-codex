@@ -18,9 +18,11 @@ Dominant colors: green, white
 
 Brahmi is a nootropic herb used in Ayurvedic medicine for thousands of years to enhance memory and cognitive function. It connects ancient plant wisdom to the modern interest in cognitive enhancement and "smart drugs."
 
+<!-- justification
 ## Justification
 
 The collection traces psychoactive plants across civilizations. Brahmi anchors the Ayurvedic end of that spectrum — cognitive enhancement as spiritual practice, thousands of years before Silicon Valley called it nootropics.
+-->
 
 ---
 

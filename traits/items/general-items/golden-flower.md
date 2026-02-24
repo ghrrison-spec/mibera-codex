@@ -18,9 +18,11 @@ Dominant colors: golden, light yellow
 
 The Secret of the Golden Flower is a Chinese Taoist alchemical text about meditation and spiritual transformation. It connects to the collection's recurring theme of ancient practices that sought transcendence and altered consciousness.
 
+<!-- justification
 ## Justification
 
 Taoist meditation manual as a held object, placing inner alchemy alongside the collection's chemical alchemy.
+-->
 
 ---
 

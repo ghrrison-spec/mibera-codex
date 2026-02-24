@@ -20,9 +20,11 @@ Dominant colors: White, black.
 
 Shock-value slogan tees are a staple of internet edgelord culture and the broader post-ironic aesthetic. These shirts deliberately cross lines of taste to provoke reaction, functioning as wearable shitposts.
 
+<!-- justification
 ## Justification
 
 The collection does not shy away from the uncomfortable edges of internet humor. This shirt exists because the community that made Mibera communicates in exactly this register.
+-->
 
 ---
 

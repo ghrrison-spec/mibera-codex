@@ -18,9 +18,11 @@ Glasses with light blue lenses and thick blue frames.
 
 The Mottega glasses are an homage to Bottega Veneta, the Italian luxury house known for its understated, artisan-driven aesthetic. Thick-framed tinted glasses became a signature of the brand during its Daniel Lee era (2018-2023), widely adopted in fashion-forward internet communities.
 
+<!-- justification
 ## Justification
 
 Milady culture lives where high fashion and shitposting coexist. Referencing Bottega through a playful rename is an act of affectionate subversion.
+-->
 
 ---
 

@@ -16,9 +16,11 @@ a terracotta coloured maracas.
 
 Maracas are rooted in Indigenous Caribbean and Latin American percussion traditions. They connect the rhythmic foundations of global dance music to the cultural exchanges that have always driven new musical forms.
 
+<!-- justification
 ## Justification
 
 Rhythm instruments from Indigenous Caribbean traditions represent the cross-cultural musical exchange that eventually fed into electronic dance music.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black
 
 William Gibson is a speculative fiction writer and essayist widely credited with pioneering the science fiction subgenre known as cyberpunk.
 
+<!-- justification
 ## Justification
 
 William Gibson coined the word cyberspace and invented the cyberpunk genre. His bomber jacket belongs in a collection about the intersection of technology, counterculture, and the underground.
+-->
 
 ---
 

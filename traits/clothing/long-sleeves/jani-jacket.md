@@ -18,13 +18,12 @@ Dominant colors: Red, white, golden.
 
 ## Cultural Context
 
-Named for Jani, founder of The Honey Jar and a principal architect of Mibera's lore and creative direction. The red tracksuit with white stripes recalls the Adidas track jacket — a garment with deep roots in hip-hop, grime, and European casual culture, from Run-DMC to UK garage to Eastern European gopnik fashion. The peace symbol chain nods to the 1960s counterculture that preceded rave.
-
-Era: Contemporary (personal reference)
-
+Named for Jani, founder of The Honey Jar and a principal architect of Mibera's lore and creative direction. The red tracksuit with white stripes recalls the Adidas track jacket — the same track jacket that Jani's Bong Bear 96 wears. 
+<!-- justification
 ## Justification
 
-Named for the founder of The Honey Jar, this tracksuit is a personal artifact from the person who shaped Mibera's creative direction. Every collection needs its creator's fingerprint.
+This is the tracksuit of our founder.
+-->
 
 ---
 

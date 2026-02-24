@@ -18,9 +18,11 @@ Dominant colors: Grey, blue, green
 
 Sourced from Milady Maker's asset library. Anchors Mibera within the Milady archetype.
 
+<!-- justification
 ## Justification
 
 Shared visual lineage with Milady Maker.
+-->
 
 ---
 

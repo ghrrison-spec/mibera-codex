@@ -18,9 +18,11 @@ Dominant colors: blue, yellow, red
 
 Sprodcast appears to be a podcast or media project within the Berachain community. The blue creature plushie with its sleepy expression and exaggerated fingers reflects the laid-back, absurdist tone common in crypto community media.
 
+<!-- justification
 ## Justification
 
 Represents community media creators within the Berachain ecosystem. Content creation is how crypto communities build culture, and this plushie gives that labor a physical form.
+-->
 
 ---
 

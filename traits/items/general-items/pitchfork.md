@@ -18,9 +18,11 @@ Dominant colors: dark grey, brown
 
 The pitchfork is a symbol of populist uprising and rural rebellion, from medieval peasant revolts to American frontier justice. It represents the power of the crowd to challenge established order.
 
+<!-- justification
 ## Justification
 
 Mob justice, peasant revolt, rural rage. The freetekno movement was built on the same "us versus them" energy, just pointed at the Criminal Justice Act instead of landlords.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Top signal in crypto refers to indicators that a market has peaked, often marked by absurd behavior like unsustainably high APY numbers. The astronomical APY figure on this shirt parodies the DeFi yield farming frenzy where projects advertised impossibly high returns to attract liquidity.
 
+<!-- justification
 ## Justification
 
 An APY number so absurd it can only be a joke about DeFi yield farming. This shirt is a top signal about top signals, and everyone in the community gets it immediately.
+-->
 
 ---
 

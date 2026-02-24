@@ -20,9 +20,11 @@ Dominant colors: black, white
 
 DarkFi is an anonymous, decentralized layer-1 blockchain project focused on privacy, censorship resistance, and peer-to-peer interaction. It supports Tor and Nym integration for network-level anonymity. The project represents the cypherpunk wing of crypto culture, prioritizing privacy and decentralization as political values rather than just technical features.
 
+<!-- justification
 ## Justification
 
 DarkFi is the cypherpunk dream made real — privacy-first, censorship-resistant, and exactly the kind of project Mibera wants to signal-boost with a hat.
+-->
 
 ---
 

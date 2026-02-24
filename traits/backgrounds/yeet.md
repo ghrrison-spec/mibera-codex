@@ -18,9 +18,11 @@ Dominant colors: golden yellow
 
 Highly engaging chaotic project with a cult-like community, founded by Lord Pemberton, the project launched an NFT collection and a ponzi game design.
 
+<!-- justification
 ## Justification
 
 Berachain ecosystem partner background — representing the chaotic, community-driven culture that Mibera exists within.
+-->
 
 ---
 

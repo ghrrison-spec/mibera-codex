@@ -18,9 +18,11 @@ Blue circular swimming goggles
 
 90s rave culture
 
+<!-- justification
 ## Justification
 
 Swimming goggles at raves became one of those unexplainable but universally recognized customs of 1990s dance culture. Nobody remembers who started it, but everyone remembers seeing them.
+-->
 
 ---
 

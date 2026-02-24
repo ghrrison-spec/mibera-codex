@@ -18,9 +18,11 @@ Dominant colors: light brown, muted teal, blue
 
 Bullas is an NFT collection within the Berachain ecosystem featuring anthropomorphic bulls. The bull is a natural counterpart to bears in financial market terminology, and the plush format follows the collection's pattern for rendering partner projects.
 
+<!-- justification
 ## Justification
 
 Bulls versus bears is the oldest metaphor in financial markets. Bullas brings the bull side of that equation into a bear-dominated ecosystem.
+-->
 
 ---
 

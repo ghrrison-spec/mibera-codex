@@ -20,9 +20,11 @@ Dominant colors: white, red
 
 Ramen Finance is a DeFi project in the Berachain ecosystem, playing on the crypto meme that during bear markets, degens survive on ramen noodles. The upside-down bowl as headwear is a playful nod to this survival narrative, turning the symbol of crypto poverty into wearable ecosystem identity.
 
+<!-- justification
 ## Justification
 
 Ramen Finance turned the bear market survival meme into a Berachain ecosystem project — wearing the bowl on your head means you ate the ramen and stayed.
+-->
 
 ---
 

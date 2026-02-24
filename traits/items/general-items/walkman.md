@@ -20,9 +20,11 @@ The Sony Walkman made music portable and personal for the first time, changing h
 
 Walkman is Sony's iconic portable cassette player, launched July 1, 1979. It revolutionized music by letting people listen to cassettes privately with lightweight headphones anywhere. Instantly popular, it sold millions, spawned countless imitators, and popularized the verb "Walkman" for any portable music player. The brand later expanded to CD (Discman), MiniDisc, and digital MP3 players until it was phased out in the 2010s as smartphones took over. A cultural symbol of the 80s and personal audio freedom.
 
+<!-- justification
 ## Justification
 
 The first device that let you carry the rave home in your pocket. Personal, portable, private music was a revolution before it became normal.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black, white
 
 YAYO Corporation; a subsidiary of Remilia Corporation, launched its first NFT project, YAYO NFT, on the Canto network on February 11, 2023. The collection features 4,000 digital action figures with real-world vehicles, weapons, and backgrounds, reflecting YAYO’s aggressive business ethos and themes of masculinity, power, and speed.
 
+<!-- justification
 ## Justification
 
 YAYO Corporation is Remilia's hypermasculine alter ego — action figures, weapons, and speed against Milady's effeminate aesthetic. This hat brings the full spectrum of Remilia's creative universe into the collection.
+-->
 
 ---
 

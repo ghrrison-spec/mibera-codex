@@ -18,9 +18,11 @@ Dominant colors: green, black, yellow
 
 Mucuna pruriens, the velvet bean, naturally contains L-DOPA, a direct precursor to dopamine. It has been used in Ayurvedic medicine for centuries to treat mood and neurological conditions, connecting ancient plant knowledge to modern neurochemistry.
 
+<!-- justification
 ## Justification
 
 A plant that naturally produces a dopamine precursor represents the collection's thesis that neurochemistry and botany have always been entangled.
+-->
 
 ---
 

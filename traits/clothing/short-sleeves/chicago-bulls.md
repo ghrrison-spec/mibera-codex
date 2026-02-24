@@ -20,9 +20,11 @@ Dominant colors: Black, red.
 
 The Chicago Bulls are one of the most iconic franchises in NBA history, led by Michael Jordan during their 1990s dynasty. The Bulls logo and merchandise became global streetwear staples, transcending basketball to become symbols of Chicago itself.
 
+<!-- justification
 ## Justification
 
 Bulls and Bears are Chicago's two iconic sports mascots, and both share the city with house music's birthplace. On Berachain, a Bears-and-Bulls city is home turf.
+-->
 
 ---
 

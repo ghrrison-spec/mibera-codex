@@ -18,9 +18,11 @@ Classic aviator with black and white reflections on its lenses and thin black fr
 
 Reflective aviator sunglasses have been a symbol of cool detachment since their adoption by military pilots in the 1930s and later by counterculture icons from Hunter S. Thompson to hip-hop artists. In electronic music culture, mirrored lenses serve a dual purpose: shielding the eyes and reflecting the light show back at the crowd.
 
+<!-- justification
 ## Justification
 
 Mirrored lenses let you watch the room without the room watching you back. In Chicago and Detroit, where the DJ booth is a pulpit, that kind of controlled observation is a power move.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black
 
 Yung Singh; a British-Punjabi DJ and producer known for blending UK garage, jungle, grime, and Punjabi music. Rising to fame with his 2020 Punjabi Garage Mix, he won DJ Mag’s Breakthrough DJ of 2021. His eclectic sets, featured at festivals like Glastonbury and Boiler Room, fuse dance music with South Asian influences.
 
+<!-- justification
 ## Justification
 
 Yung Singh proved that Punjabi music and UK dance culture are the same conversation — this turban channels the energy of the DJ who blended garage, jungle, and bhangra into something entirely new.
+-->
 
 ---
 

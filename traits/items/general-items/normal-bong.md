@@ -18,9 +18,11 @@ Dominant colors: glassy white / slight silver
 
 The bong uses water filtration to cool and filter smoke, a principle that originated in Asia centuries ago. It has become one of the most recognizable symbols of cannabis culture worldwide.
 
+<!-- justification
 ## Justification
 
 The baseline bong in a four-variant set. No custom color, no art-glass flourish — just the most universally recognized piece of cannabis paraphernalia, doing its job.
+-->
 
 ---
 

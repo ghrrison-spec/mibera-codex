@@ -18,9 +18,11 @@ Dominant colors: black, blue, dusky pink
 
 Puffpaw is a vaping-related project within the Berachain ecosystem. This Mibera-branded variant features female characters on the device, representing the direct partnership between Puffpaw and the Mibera collection.
 
+<!-- justification
 ## Justification
 
 Direct partnership artifact — Mibera characters printed on a Puffpaw vape device. The vaping form factor ties the Berachain ecosystem to the collection's substance culture.
+-->
 
 ---
 

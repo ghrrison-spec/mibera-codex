@@ -18,9 +18,11 @@ Dominant colors: black, blue, red
 
 PiHKAL (Phenethylamines I Have Known And Loved) is Alexander and Ann Shulgin's 1991 book cataloging over 170 psychoactive compounds they personally synthesized and tested. It is the encyclopedia of psychedelic chemistry and a foundational text for harm reduction.
 
+<!-- justification
 ## Justification
 
 The cookbook that changed everything. If the collection tracks humanity's relationship with psychoactive substances, this is the modern Rosetta Stone.
+-->
 
 ---
 

@@ -17,12 +17,11 @@ White t-shirt with white text that reads “-IBERATION FRONT text rounding a gra
 Dominant colors: White, red.
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 The GLF emerged from Stonewall, and house music emerged from the same queer Black and Latino communities in Chicago and New York. This shirt honors the direct lineage between LGBTQ liberation and electronic music.
+-->
 
 ---
 

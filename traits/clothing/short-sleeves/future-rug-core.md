@@ -20,9 +20,11 @@ Dominant colors: Black, red.
 
 Rugcore is a tongue-in-cheek aesthetic movement within crypto culture that embraces the chaotic, scam-adjacent energy of memecoin trading. The term rug refers to a rug pull, where a token creator drains liquidity and disappears with investor funds.
 
+<!-- justification
 ## Justification
 
 Declaring the future is rugcore is crypto culture laughing at itself. In a collection that documents the full spectrum of web3 culture, the scam aesthetic gets a shirt too.
+-->
 
 ---
 

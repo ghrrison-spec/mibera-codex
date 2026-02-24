@@ -18,9 +18,11 @@ Dominant colors: Brown, light brown / beige
 
 Cave art is one of the oldest known forms of human creative expression, found across every inhabited continent — from Lascaux in France and Altamira in Spain to sites in Indonesia, Southern Africa, and South America. The earliest examples date back over 40,000 years. The impulse to gather and create is as old as humanity.
 
+<!-- justification
 ## Justification
 
 Cave art represents the earliest human drive to create — the shared origin point for every ancestor culture in the Mibera system.
+-->
 
 ---
 

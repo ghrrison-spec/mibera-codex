@@ -18,9 +18,11 @@ Dominant colors: white, soft pink, brown
 
 Pudgy Penguins is a major NFT collection that expanded into physical plush toys sold at retail. This item combines the Pudgy Penguin form with a bear hat.
 
+<!-- justification
 ## Justification
 
 Cross-community artifact merging two NFT ecosystems — Pudgy Penguins and Berachain — into a single plushie. Gumi streamed on Abstract for a bit.
+-->
 
 ---
 

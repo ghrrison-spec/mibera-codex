@@ -18,9 +18,11 @@ Dominant colors: reddish brown, light yellow, green
 
 Nutmeg contains myristicin, a compound that in large doses produces psychoactive effects sometimes compared to MDMA. It has been used as a folk intoxicant for centuries by people without access to other substances, from medieval Europeans to prisoners.
 
+<!-- justification
 ## Justification
 
 A kitchen spice that doubles as a psychoactive in high doses. Represents the ethnobotanical depth of the collection's pharmacological catalog — substances hiding in plain sight.
+-->
 
 ---
 

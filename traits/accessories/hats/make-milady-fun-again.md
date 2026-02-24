@@ -20,9 +20,11 @@ Dominant colors: Navy blue, white, black
 
 The "Make X Great/Fun Again" format parodies Donald Trump's "Make America Great Again" (MAGA) slogan and red cap, which became one of the most recognizable political symbols of the 2010s. The format has been endlessly remixed by internet communities, with "Make Milady Fun Again" reflecting intra-community sentiment about the direction of Milady culture.
 
+<!-- justification
 ## Justification
 
 The MAGA hat format remixed for Milady discourse — when the community has feelings about vibes, they put it on a cap.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: Green / teal-ish
 
 Owen is the octopus mascot of Sudoswap, a decentralized NFT trading protocol on Ethereum. Sudoswap pioneered on-chain NFT AMM (automated market maker) pools. The plushie format is consistent with the collection's pattern of turning crypto project mascots into held collectibles.
 
+<!-- justification
 ## Justification
 
 DeFi protocol mascot rendered as a plushie, part of the collection's pattern of turning crypto partners into kawaii collectibles.
+-->
 
 ---
 

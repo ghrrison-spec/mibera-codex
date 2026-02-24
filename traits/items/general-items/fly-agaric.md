@@ -18,9 +18,11 @@ Dominant colors: red, white
 
 The fly agaric (Amanita muscaria) is the iconic red-and-white mushroom of fairy tales and folklore. Unlike psilocybin mushrooms, it contains muscimol and produces a deliriant rather than psychedelic experience. Some scholars believe it may be the ancient soma described in Vedic texts.
 
+<!-- justification
 ## Justification
 
 The most visually iconic mushroom in human culture doubles as a candidate for soma, the divine intoxicant of the Vedas. Pure archetype.
+-->
 
 ---
 

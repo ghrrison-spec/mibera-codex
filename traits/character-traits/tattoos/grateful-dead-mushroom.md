@@ -20,9 +20,11 @@ Dominant colors: Pink, red, white.
 
 Grateful Dead Mushroom, formed in 1965 in Palo Alto, California, was a pioneering psychedelic rock band led by Jerry Garcia, Bob Weir, and Phil Lesh. Known for their improvisational live performances, eclectic style blending rock, folk, and jazz, and a devoted fanbase ("Deadheads"), they released 13 studio albums, with hits like "Truckin'" and "Touch of Grey."
 
+<!-- justification
 ## Justification
 
 The Grateful Dead were the house band of the psychedelic counterculture, and their dancing bear mascot paired with mushrooms collapses fifty years of festival culture into a single tattoo. It bridges the gap between 1960s acid culture and the rave lineages Mibera draws from.
+-->
 
 ---
 

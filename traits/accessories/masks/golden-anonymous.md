@@ -20,9 +20,11 @@ Dominant colors: Golden, black.
 
 Illegal Covid Rave
 
+<!-- justification
 ## Justification
 
 During COVID lockdowns, underground raves went fully illegal again for the first time in decades. The golden Anonymous mask at one of these events is defiance layered on defiance: anonymous, unlawful, and dressed to impress.
+-->
 
 ---
 

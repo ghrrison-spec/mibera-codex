@@ -20,9 +20,11 @@ Dominant colors: Shades of green, white
 
 Mongolian shamanic traditions involve elaborate headdresses used in ritual ceremonies, often featuring feathers, animal motifs, and symbolic face imagery. These headdresses serve as conduits between the physical and spiritual worlds in Tengriist practice. Modern interest in Mongolian shamanism has grown alongside the global psychedelic and spiritual revival movements.
 
+<!-- justification
 ## Justification
 
 Mongolian shamanic headgear channels the oldest form of altered consciousness — feathers and spirit faces from the steppe, connecting ancestral practice to acid house transcendence.
+-->
 
 ---
 

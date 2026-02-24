@@ -19,12 +19,11 @@ Dominant colors: Brown
 ## Cultural Context
 
 Pythia
-
-Era: Ancient
-
+<!-- justification
 ## Justification
 
 The Oracle of Delphi was arguably the first person in recorded history to get high and say important things. The Pythia represents the ancient lineage of altered-state wisdom that the collection traces through history.
+-->
 
 ---
 

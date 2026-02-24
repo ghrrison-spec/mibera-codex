@@ -18,11 +18,13 @@ Dominant colors: Black, white.
 
 ## Cultural Context
 
-Remilia Scarlet (Touhou)
+Remilia Corporation Ltd printed on a VN-style sprite tee is the Milady universe at its most self-referential. The visual novel aesthetic is core to how this community sees itself.
 
+<!-- justification
 ## Justification
 
 Remilia Corporation Ltd printed on a VN-style sprite tee is the Milady universe at its most self-referential. The visual novel aesthetic is core to how this community sees itself.
+-->
 
 ---
 

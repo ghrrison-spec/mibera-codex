@@ -19,9 +19,11 @@ Dominant colors: Red
 
 Red is the color of urgency, passion, and political action. In rave culture, red lighting and red clothing carry associations with intensity and the peak of the night.
 
+<!-- justification
 ## Justification
 
 Red is the most intense color in the simple set. It brings heat and energy to any Mibera outfit without needing a slogan or graphic to do it.
+-->
 
 ---
 

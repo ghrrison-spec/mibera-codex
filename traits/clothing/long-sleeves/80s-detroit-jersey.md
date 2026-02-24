@@ -19,12 +19,11 @@ Dominant colors: Blue, white, red.
 ## Cultural Context
 
 The Detroit Pistons-inspired basketball jersey references the 'Bad Boys' era (1988-1990), which ran parallel to the rise of Detroit techno. Both phenomena emerged from the same city at the same time — the Pistons' aggressive, blue-collar style mirroring the raw, industrial sound of Juan Atkins, Derrick May, and Kevin Saunderson. Basketball culture and electronic music shared venues, audiences, and attitude in late-1980s Detroit.
-
-Era: 1980s
-
+<!-- justification
 ## Justification
 
 Detroit techno and the Pistons both defined the city in the late 1980s. This jersey is a time capsule of the moment when the Belleville Three were rewiring music while the Bad Boys were rewiring basketball.
+-->
 
 ---
 

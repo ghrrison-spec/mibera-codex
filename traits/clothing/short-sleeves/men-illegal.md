@@ -20,9 +20,11 @@ Dominant colors: White, black
 
 Provocative feminist slogan tees have circulated in activist and underground fashion since the riot grrrl movement of the early 1990s. The partially obscured text format adds an element of mystery that forces the reader to fill in the blanks.
 
+<!-- justification
 ## Justification
 
 The partially hidden text forces you to read it twice and think about it. Provocative feminist slogans are part of the same counterculture lineage as every other protest shirt in the collection.
+-->
 
 ---
 

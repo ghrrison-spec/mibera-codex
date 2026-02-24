@@ -20,9 +20,11 @@ Dominant colors: Blue, brown
 
 Baddies is a Berachain ecosystem project featuring bear-themed characters with a cute, kawaii-influenced aesthetic. The teddy bear with a ribbon and flower reflects the soft, feminine styling common in both Milady-adjacent culture and the broader Berachain community aesthetic.
 
+<!-- justification
 ## Justification
 
 Baddies brings kawaii bear energy to the Berachain ecosystem — the blue variant is the chill one in the duo.
+-->
 
 ---
 

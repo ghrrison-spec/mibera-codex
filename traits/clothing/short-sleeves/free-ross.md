@@ -22,9 +22,11 @@ Silk Road, Ross Ulbricht.
 
 Ross Ulbricht (born 1984) is an American convicted of creating and operating Silk Road, a dark web marketplace (2011–2013) that facilitated anonymous sales of drugs, fake IDs, and other illicit goods using Bitcoin.
 
+<!-- justification
 ## Justification
 
 The Silk Road is the single biggest inspiration for Mibera's Honey Road marketplace aesthetic. Free Ross is the crypto community's most iconic cause, and this shirt is a direct artifact of that movement.
+-->
 
 ---
 

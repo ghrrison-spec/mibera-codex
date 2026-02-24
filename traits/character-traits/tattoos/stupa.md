@@ -17,12 +17,11 @@ Black and white drawing of a shrine with shading.
 Dominant colors: Black, grey.
 
 ## Cultural Context
-
-Era: Ancient
-
+<!-- justification
 ## Justification
 
 The stupa is Buddhism's most fundamental architectural form, and Nepal's examples are among the oldest and most sacred in the world. It connects the Nepal ancestor lineage to a tradition of sacred space that predates written history.
+-->
 
 ---
 

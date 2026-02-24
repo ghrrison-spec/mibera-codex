@@ -18,9 +18,11 @@ Dominant colors: creamy white, brown
 
 Kwao krua is a Thai medicinal plant traditionally used for vitality and rejuvenation. Its inclusion represents the Southeast Asian thread in the collection's global map of ethnobotany.
 
+<!-- justification
 ## Justification
 
 Obscure Thai rejuvenation plant that most viewers will have to look up — the collection as ethnobotanical education.
+-->
 
 ---
 

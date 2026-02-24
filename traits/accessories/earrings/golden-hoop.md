@@ -16,9 +16,11 @@ Golden hoop / circular earring
 
 DiY crew; a Nottingham-based collective, co-founded by Harry Harrison, Rick "Digs" Down, Simon "DK" Smith, and Pete "Woosh" Birch in 1989. They hold a big role in bridging hippy free parties and urban club culture, resisting commercialization and police crackdowns, notably during the 1992 Castlemorton rave and the 1994 Criminal Justice Act. The piece notes their utopian yet hedonistic legacy, marked by drug-related challenges and occasional milestone free parties, as detailed in Harrison’s book Dreaming in Yellow.
 
+<!-- justification
 ## Justification
 
 Hoop earrings were everywhere in the 90s rave scene, and this one specifically references the DiY crew -- the Nottingham collective that helped bridge free parties and club culture.
+-->
 
 ---
 

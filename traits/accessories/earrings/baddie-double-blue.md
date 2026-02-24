@@ -18,9 +18,11 @@ Dominant colors: Bright blue, aquatic
 
 Bera Baddies is a community-driven project led and focused on providing a supportive and exclusive space for the female in the Berachain ecosystem.
 
+<!-- justification
 ## Justification
 
 A direct nod to Bera Baddies, one of the Berachain ecosystem's community projects -- representing the women who helped shape the culture from the inside.
+-->
 
 ---
 

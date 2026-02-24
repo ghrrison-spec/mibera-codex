@@ -12,7 +12,7 @@ date_added: "2024-06-22"
 
 ![Ai Weiwei Assange](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)
 
-Hot fuschia t-shirt with a semi-realism graphic of 2 guys with their middle fingers up, and the text “FREE ASSANGE” under it..
+Hot fuschia t-shirt with a semi-realism graphic of Julian Assange and Ai Weiwei with their middle fingers up, and the text “FREE ASSANGE” under it..
 
 Dominant colors: Fuschia, black
 
@@ -20,9 +20,11 @@ Dominant colors: Fuschia, black
 
 Ai Weiwei is a Chinese contemporary artist and activist known for his outspoken criticism of government censorship and human rights abuses. Julian Assange is the founder of WikiLeaks who spent years in asylum and prison for publishing classified documents. Together they represent the intersection of art, transparency activism, and political defiance.
 
+<!-- justification
 ## Justification
 
 Two of the most prominent figures in the fight for free information, flipping the bird together on a fuschia tee. This shirt sits at the exact crossroads of art, activism, and the anti-censorship ethos that crypto was built on.
+-->
 
 ---
 

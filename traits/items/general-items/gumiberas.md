@@ -18,9 +18,11 @@ Dominant colors: golden, yellow
 
 A golden pack of gummy bears branded "Gumiberas," combining the Mibera project name with gummy bear candy. Gummy bears were invented in 1922 by Hans Riegel in Bonn, Germany. The bear-shaped candy is a natural fit for Berachain's bear-themed ecosystem.
 
+<!-- justification
 ## Justification
 
 Self-referential item named after the project's artist Gumibera, doubling as a bear-shaped candy pun.
+-->
 
 ---
 

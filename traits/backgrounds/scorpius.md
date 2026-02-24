@@ -20,9 +20,11 @@ Scorpio, the eighth zodiac sign (October 23 - November 21), is a water sign rule
 
 Zodiac constellation background. Scorpio — intensity, secrecy, transformation.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

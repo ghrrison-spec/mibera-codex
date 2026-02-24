@@ -17,9 +17,11 @@ Dominant colors: Blue, brown, yellow
 
 Nyan Cat is an iconic internet meme originating from a 2011 YouTube video that went viral, featuring an animated GIF of a cat with a Pop-Tart body flying through space while trailing a rainbow, set to the looping Japanese song "Nyanyanyanyanyanyanya!" Created by artist Christopher Torres (aka prguitarman) and uploaded by user saraj00n, it amassed over 205 million views by 2023, inspiring remixes, games, apps, and even a cryptocurrency (Nyancoin).
 
+<!-- justification
 ## Justification
 
 Nyan Cat was one of the first memes sold as an NFT, and this Berachain remix replaces the cat with a bear. It sits at the exact intersection of internet culture, crypto art history, and the Bera identity.
+-->
 
 ---
 

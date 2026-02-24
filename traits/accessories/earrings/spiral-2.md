@@ -18,9 +18,11 @@ Dominant colors: Black, white
 
 Spiral Tribe is a free party sound system and collective that emerged in the early 1990s in West London. Known for their nomadic lifestyle and anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
 
+<!-- justification
 ## Justification
 
 The tribal line-art on this spiral variant merges the Spiral Tribe reference with Aboriginal artistic traditions -- two nomadic cultures meeting through the earring's design.
+-->
 
 ---
 

@@ -16,9 +16,11 @@ a smoking white joint.
 
 The joint is the simplest and most universal way to consume cannabis, requiring nothing but rolling paper and herb. Its democratic simplicity mirrors the rave ethos that the experience should be accessible to everyone.
 
+<!-- justification
 ## Justification
 
 The most democratic way to get high. No glass, no battery, no brand — just paper and plant. Its simplicity mirrors the rave ethos that the experience should cost you nothing but showing up.
+-->
 
 ---
 

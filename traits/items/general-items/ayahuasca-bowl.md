@@ -18,9 +18,11 @@ Dominant colors: dark brown, light brown
 
 The ayahuasca bowl is the ceremonial vessel in which the brew is traditionally served, marking the experience as something structured and guided rather than recreational. The container itself signals that context and intention are part of the medicine.
 
+<!-- justification
 ## Justification
 
 The vessel matters as much as the brew. Including the bowl says this collection takes set and setting seriously, not just the substance.
+-->
 
 ---
 

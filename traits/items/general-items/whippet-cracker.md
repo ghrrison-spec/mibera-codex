@@ -18,9 +18,11 @@ Dominant colors: black, grey, clear white
 
 Nitrous oxide crackers release laughing gas from small canisters, producing a brief, intense dissociative high. Nitrous has been a fixture at raves and festivals since the 1990s, occupying a legal gray zone between party drug and dental anesthetic.
 
+<!-- justification
 ## Justification
 
 The device that turns a dental anesthetic into a 30-second dissociative high, occupying the legal gray zone that rave culture has always thrived in.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: brown, green.
 
 Beramonium is a gaming project built on Berachain, featuring bear characters in a fantasy setting. The wooden armor and shield place it in the action RPG genre, representing the intersection of blockchain gaming and the Berachain ecosystem.
 
+<!-- justification
 ## Justification
 
 Gaming meets blockchain in bear form. Represents the on-chain gaming sector within the Berachain ecosystem.
+-->
 
 ---
 

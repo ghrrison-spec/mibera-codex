@@ -18,9 +18,11 @@ Red dot
 
 Traditional forehead mark in South Asian cultures, especially India, often a red dot made from vermilion or adorned with decorative stickers. Rooted in Hinduism, it marks the ajna chakra ("third eye"), symbolizing wisdom, protection, and spiritual energy. For married women, a red bindi signifies marital status, while colors vary for unmarried women or men. Worn during rituals, festivals, or daily, its use has evolved into a fashion statement globally
 
+<!-- justification
 ## Justification
 
 The bindi is one of the most widely recognized marks in South Asian visual culture, and placing it on a Milady-archetype character bridges Nepali spiritual tradition with the aesthetic maximalism that defines the Milady look.
+-->
 
 ---
 

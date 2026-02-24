@@ -18,9 +18,11 @@ Dominant colors: Blue
 
 The physical backbone of the internet — hidden infrastructure that makes crypto networks and online communities possible. A severed cable.
 
+<!-- justification
 ## Justification
 
 The physical infrastructure of the internet — the hidden architecture that makes cryptocurrency and decentralized culture possible.
+-->
 
 ---
 

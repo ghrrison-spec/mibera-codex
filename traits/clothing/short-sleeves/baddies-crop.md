@@ -20,9 +20,11 @@ Dominant colors: White, dark brown.
 
 Crop tops and tank tops have been standard rave attire since the early 1990s, particularly for women. The cropped silhouette with a bear graphic merges club fashion with the Berachain bear motif, while the skirt pairing references the femme-forward styling of Y2K party culture.
 
+<!-- justification
 ## Justification
 
 Rave fashion has always had a femme lane, and the crop top with a bear ribbon graphic is Mibera's version of it. The baddie aesthetic is as real on the dancefloor as anywhere else.
+-->
 
 ---
 

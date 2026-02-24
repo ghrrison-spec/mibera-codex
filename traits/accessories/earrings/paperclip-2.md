@@ -18,9 +18,11 @@ Dominant colors: Light grey / silver
 
 Paper-clip symbolizes resilience, strength, and overcoming challenges while embracing one's unique identity.
 
+<!-- justification
 ## Justification
 
 Safety pins and paperclips are the DIY punk jewelry that crossed over into free party culture. Freetekno kids wore what they had, and that resourcefulness became its own aesthetic.
+-->
 
 ---
 

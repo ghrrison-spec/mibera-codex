@@ -18,9 +18,11 @@ Dominant colors: black, blue, dusky pink
 
 Kittykaki is a character from the Berachain ecosystem, depicted as a pale female figure with blue hair and cat-like features. The plushie format follows the collection's pattern of rendering ecosystem mascots as kawaii collectibles.
 
+<!-- justification
 ## Justification
 
 Berachain ecosystem character bridging the bear world with anime cat-girl aesthetics.
+-->
 
 ---
 

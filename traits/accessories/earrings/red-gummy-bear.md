@@ -18,9 +18,11 @@ Dominant colors: Bright red
 
 Gummy bears are often laced with drugs.
 
+<!-- justification
 ## Justification
 
 Same concept as the green variant -- gummy bears as a sly drug culture reference and a tip of the hat to co-creator Gumi's name.
+-->
 
 ---
 

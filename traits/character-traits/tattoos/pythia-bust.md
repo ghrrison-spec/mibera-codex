@@ -19,14 +19,13 @@ Dominant colors: Black
 ## Cultural Context
 
 Pythia
-
-Era: Ancient - https://en.wikipedia.org/wiki/Pythia
-
 The Pythia was the oracle of Apollo at Delphi in ancient Greece, serving as a priestess who delivered prophecies. Seated on a tripod in the temple, she entered a trance-like state, possibly induced by vapors or chewing laurel leaves, to channel divine messages. Her cryptic responses influenced major decisions in Greek society, from politics to warfare. The role was held by women, often chosen for their purity, and the oracle’s prominence lasted from the 8th century BCE until the decline of pagan practices in the 4th century CE.
 
+<!-- justification
 ## Justification
 
 The Pythia was the original oracle -- her shadowed profile as a tattoo anchors the Pythia ancestor lineage in the mystery of prophecy, where the messenger matters as much as the message.
+-->
 
 ---
 

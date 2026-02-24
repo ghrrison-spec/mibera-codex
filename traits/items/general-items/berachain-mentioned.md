@@ -18,9 +18,11 @@ Dominant colors: green, gold, light green, black
 
 "Berachain mentioned" is a community meme triggered whenever Berachain receives mainstream attention. The champagne bottle with bear-and-chain silhouettes renders this running joke as a physical celebration item.
 
+<!-- justification
 ## Justification
 
 Materializes the "Berachain mentioned" community meme as a prop you can hold. Every ecosystem needs its inside jokes rendered in physical form.
+-->
 
 ---
 

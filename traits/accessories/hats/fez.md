@@ -20,9 +20,11 @@ Dominant colors: Red, yellow
 
 Fez hat; Originating in Morocco in the 17th century, it became a symbol of Ottoman identity and later spread across the Muslim world and beyond, often associated with cultural or religious significance.
 
+<!-- justification
 ## Justification
 
 A hat that traveled from Morocco through the Ottoman Empire to become a global symbol — the fez carries centuries of cultural crossroads in its simple red cylinder.
+-->
 
 ---
 

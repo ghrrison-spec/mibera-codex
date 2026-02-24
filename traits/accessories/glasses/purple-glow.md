@@ -18,9 +18,11 @@ Glow glasses mainly in purple, with yellow on the center and sides.
 
 LED and EL-wire glow accessories became synonymous with 1990s rave culture, where dancers wore luminescent gear to enhance the sensory experience under strobe lights and UV. Glow sticks, glow glasses, and light-up jewelry were staples at warehouse parties across Chicago, Detroit, and the UK.
 
+<!-- justification
 ## Justification
 
 Purple glow carries a psychedelic edge. Under UV light, these become the most visible object in the room, which is either exactly what you want or a terrible idea.
+-->
 
 ---
 

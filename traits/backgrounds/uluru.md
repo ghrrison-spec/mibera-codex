@@ -20,9 +20,11 @@ Massive sandstone rock formation in the southern part of the Northern Territory,
 
 Sacred site central to Aboriginal Dreamtime cosmology, stretching back tens of thousands of years. Ties to Mibera's Australian geographic references and ancestor system.
 
+<!-- justification
 ## Justification
 
 Uluru connects to the Aboriginal ancestor lineage — one of the most sacred sites in Indigenous Australian culture.
+-->
 
 ---
 

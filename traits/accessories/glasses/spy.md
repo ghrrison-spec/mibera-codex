@@ -18,9 +18,11 @@ big sunglasses with vibrant green lenses and thick black frames, with a mic atta
 
 Spy-themed eyewear with integrated microphones or cameras has been a recurring motif in popular culture since the James Bond franchise and 1960s spy-fi television. In internet culture, the surveillance aesthetic has been reappropriated as both a privacy commentary and an ironic fashion statement.
 
+<!-- justification
 ## Justification
 
 Surveillance chic meets post-ironic cool. The Milady archetype loves accessories that ask whether you are the watcher or the watched, and refuses to answer.
+-->
 
 ---
 

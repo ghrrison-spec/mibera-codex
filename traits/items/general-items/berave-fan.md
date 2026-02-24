@@ -18,9 +18,11 @@ Dominant colors: white, pink, black
 
 A hand fan branded "Berave," a portmanteau of "Bera" (Berachain) and "rave." Hand fans are practical accessories at raves and music festivals for cooling down. The pink character design is Mila, a mascot designed by Gumi and Tez. 
 
+<!-- justification
 ## Justification
 
 Real merch from the Singapore Berave event, making this a documented physical artifact from Berachain history.
+-->
 
 ---
 

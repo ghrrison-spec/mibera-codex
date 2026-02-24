@@ -18,9 +18,11 @@ Dominant colors: Brown, red.
 
 Berachain is an EVM-compatible Layer 1 blockchain launched on February 6, 2025, designed for DeFi with a unique Proof-of-Liquidity (PoL)
 
+<!-- justification
 ## Justification
 
 Bears are the mascot of the entire Berachain ecosystem, and this little bear clutching a heart is about as on-the-nose as ecosystem pride gets.
+-->
 
 ---
 

@@ -17,12 +17,11 @@ Script written in Gurmukhi, “Nirbhau-Nirvair” ( ) meaning ਿਨਰਭਉਿ
 ## Cultural Context
 
 Sikhism / the Punjabis
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 The opening words of Sikh scripture tattooed in Gurmukhi -- it carries the Punjabi ancestor lineage through a phrase that doubles as a life philosophy and a dare.
+-->
 
 ---
 

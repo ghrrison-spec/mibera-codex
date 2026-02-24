@@ -16,9 +16,11 @@ Gold rectangular earring with hints of blue and a few stripes inside of a line-f
 
 Both Mayan and Egyptian civilizations built pyramids as sacred structures, symbolizing their connection to the cosmos, aligned with astronomical events, reflecting advanced mathematical and cosmological knowledge.
 
+<!-- justification
 ## Justification
 
 Ancient Egypt is one of Mibera's ancestor civilizations, and this earring channels that lineage through gold and geometric precision -- connecting the Milady archetype to deep-time aesthetics.
+-->
 
 ---
 

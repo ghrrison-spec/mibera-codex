@@ -20,9 +20,11 @@ Dominant colors: Black, white
 
 Criminal Records references the record shop and label culture that was central to Chicago house and Detroit techno distribution. The name plays on the double meaning of criminal records as both vinyl and rap sheets.
 
+<!-- justification
 ## Justification
 
 Record shops were where you discovered new music before the internet existed. The Criminal Records name captures the outlaw energy of early house and techno distribution.
+-->
 
 ---
 

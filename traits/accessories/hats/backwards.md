@@ -20,9 +20,11 @@ Dominant colors: Light greyish beige
 
 The backwards cap has been a staple of youth culture since the 1990s, popularized by hip-hop artists, skaters, and ravers alike. In rave culture specifically, wearing a cap backwards became associated with the carefree, anti-establishment attitude of warehouse parties and illegal raves, where dress codes were nonexistent and comfort trumped convention.
 
+<!-- justification
 ## Justification
 
 The backwards cap is the universal uniform of not giving a damn — every rave, every era, someone is wearing their hat the wrong way around and looking better for it.
+-->
 
 ---
 

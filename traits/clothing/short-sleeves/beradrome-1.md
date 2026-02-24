@@ -20,9 +20,11 @@ Dominant colors: Black, brown, purple.
 
 Beradrome is a decentralized exchange and liquidity hub in the Berachain ecosystem. The name is a portmanteau of Bera and Velodrome, referencing the cycling-themed DEX model. The bear head with a bike helmet reflects this cycling motif.
 
+<!-- justification
 ## Justification
 
 Beradrome is core Berachain DeFi infrastructure. Representing ecosystem protocols as wearable merch documents the community's financial layer alongside its cultural one.
+-->
 
 ---
 

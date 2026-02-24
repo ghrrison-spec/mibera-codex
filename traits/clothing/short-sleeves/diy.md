@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 DiY (Do It Yourself) was a legendary free party sound system collective based in Nottingham, UK, active from 1989 onwards. They were central to the UK free party scene, organizing illegal raves in fields, warehouses, and disused buildings. The collective embodied the anarchic, self-organized ethos that defined freetekno culture.
 
+<!-- justification
 ## Justification
 
 DiY is not just a slogan -- it is the name of one of the UK's most important free party sound systems. This shirt represents the literal founding ethos of the entire freetekno movement.
+-->
 
 ---
 

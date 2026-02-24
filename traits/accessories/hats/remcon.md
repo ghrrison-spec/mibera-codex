@@ -20,9 +20,11 @@ Dominant colors: Pink, white, black
 
 Inspired by a merch from Remilia-con that was held in Tokyo in 2023.
 
+<!-- justification
 ## Justification
 
 Remilia-Con Tokyo 2023 was the IRL convergence of Milady internet culture — a real convention in Tokyo, and this cap is the merch that proves you were there (or wish you were).
+-->
 
 ---
 

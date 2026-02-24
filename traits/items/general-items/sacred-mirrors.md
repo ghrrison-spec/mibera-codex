@@ -18,9 +18,11 @@ Dominant colors: black, bright orange
 
 The Sacred Mirrors are a series of paintings by Alex Grey depicting the human body in increasingly transcendent layers, from skeleton to universal energy. Grey's visionary art has become the dominant visual language of psychedelic culture, appearing on everything from album covers to festival stages.
 
+<!-- justification
 ## Justification
 
 Alex Grey defined the visual language that psychedelic culture still uses today. A direct bridge between visionary art and the rave scene the collection documents.
+-->
 
 ---
 

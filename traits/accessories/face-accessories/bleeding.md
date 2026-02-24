@@ -20,9 +20,11 @@ Dominant colors: Red
 
 The bleeding cut as a face accessory draws from multiple visual traditions: anime's wounded warriors, punk culture's celebration of physical damage, and the e-girl/post-ironic aesthetic where injury is rendered as decoration. In generative PFP collections, bleeding effects add dramatic rarity and visual intensity to character designs.
 
+<!-- justification
 ## Justification
 
 Blood on the face makes any character look like they have a story worth hearing. In the Milady archetype, it captures the post-ironic aesthetic where damage is worn proudly as a badge.
+-->
 
 ---
 

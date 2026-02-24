@@ -20,9 +20,11 @@ Dominant colors: Pink, brown
 
 Baddies is a Berachain ecosystem project featuring bear-themed characters with a cute, kawaii-influenced aesthetic. The pink variant of the Baddies cap uses the same teddy bear design as the blue version, with the bright pink colorway adding a more playful, Y2K-inspired energy.
 
+<!-- justification
 ## Justification
 
 The pink Baddies cap turns the cuteness up — same bear, louder color, full Berachain ecosystem energy.
+-->
 
 ---
 

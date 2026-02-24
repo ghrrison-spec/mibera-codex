@@ -20,9 +20,11 @@ Dominant colors: Black, rainbow.
 
 The design parodies Apple's Think Different campaign by replacing the Apple logo bite mark with a psychedelic mushroom. The mashup of Silicon Valley branding with psychedelic culture reflects a real historical connection -- Steve Jobs credited LSD as one of the most important experiences of his life.
 
+<!-- justification
 ## Justification
 
 Steve Jobs openly credited psychedelics for shaping his worldview. This shirt makes the connection between Silicon Valley and psychedelic culture explicit in the most visual way possible.
+-->
 
 ---
 

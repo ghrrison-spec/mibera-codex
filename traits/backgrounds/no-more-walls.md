@@ -20,9 +20,11 @@ Ross Ulbricht
 
 It’s a 1:1 drawing reflecting one of Ross Ulbricht’s tweets shortly after his release from the prison. Ross is a huge influence to Mibera’s lore and culture.
 
+<!-- justification
 ## Justification
 
 Ross Ulbricht and the cypherpunk ethos of freedom from institutional control — a core value that runs through the Mibera project.
+-->
 
 ---
 

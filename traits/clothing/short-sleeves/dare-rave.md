@@ -20,9 +20,11 @@ Dominant colors: Black, red, white.
 
 D.A.R.E. (Drug Abuse Resistance Education) was a 1983 anti-drug program whose merchandise was widely co-opted by rave culture as ironic fashion. This variant spells out Drug Abuse Raves Ethereum, merging rave culture and crypto.
 
+<!-- justification
 ## Justification
 
 D.A.R.E. shirts worn ironically at raves have been a thing since the 1990s. Adding Ethereum to the acronym connects a classic rave culture joke to the crypto world Mibera lives in.
+-->
 
 ---
 

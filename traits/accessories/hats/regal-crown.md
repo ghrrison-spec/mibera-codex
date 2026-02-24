@@ -20,9 +20,11 @@ Dominant colors: golden, red, white.
 
 Royal crowns have been symbols of sovereign authority for millennia, with the gold-and-ruby style represented here evoking European monarchical tradition. In the context of generative NFT collections, crowns are typically among the rarest and most desirable traits, serving as visual markers of status within the collection hierarchy.
 
+<!-- justification
 ## Justification
 
 Every generative collection needs its crown — hand-painted by Gumi at the community's request, this regal crown at swag score 5 is the hat you want to pull.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ an oversized bear head in the colour of bright beige / light shade of brown.
 
 Devon is a county in southwest England that became a significant hub for the UK free party and teknival scene in the 1990s and 2000s. The rural landscape provided ideal locations for illegal raves, and the area developed a strong sound system culture. The oversized bear head nods to both the Berachain bear motif and the wild, larger-than-life energy of Devon free parties.
 
+<!-- justification
 ## Justification
 
 Devon is sacred ground for UK free party culture — this oversized bear head channels the go-big-or-go-home energy of southwest England teknivals.
+-->
 
 ---
 

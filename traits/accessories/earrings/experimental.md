@@ -18,9 +18,11 @@ Dominant colors: Bright green
 
 Laboratory flask imagery evokes both pharmaceutical drug synthesis and the broader ethos of chemical experimentation. The Erlenmeyer flask, with its characteristic wide base and narrow neck, has been a symbol of scientific inquiry since its invention in 1860 by Emil Erlenmeyer. In counterculture, lab equipment iconography became associated with the clandestine production of psychedelic and club drugs.
 
+<!-- justification
 ## Justification
 
 A lab flask dangling from your ear is a wink at the chemistry behind every substance in the collection -- Mibera doesn't just reference drugs, it tips its hat to the people who made them.
+-->
 
 ---
 

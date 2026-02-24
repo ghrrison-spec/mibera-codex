@@ -18,9 +18,11 @@ Orange fruit with a tiny stem and one leaf.
 
 The shoulder orange is a playful, surrealist accessory — a literal fruit balanced on the head as if it just appeared there. Fruit as headwear has a long history from Carmen Miranda's elaborately fruit-laden turbans to modern festival and rave culture's embrace of absurdist accessories.
 
+<!-- justification
 ## Justification
 
 Sometimes you just have an orange on your head and nobody knows why — the kind of unexplained accessory that makes generative collections delightful.
+-->
 
 ---
 

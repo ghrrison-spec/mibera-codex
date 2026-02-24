@@ -18,9 +18,11 @@ Dominant colors: brown, white, yellow, red
 
 The feather fan is used in Native American Church peyote ceremonies to direct prayers and cleanse the ritual space. It connects the psychedelic experience to a framework of spiritual discipline rather than recreation.
 
+<!-- justification
 ## Justification
 
 Represents the ritual container around psychedelic experience. The fan isn't the drug; it's the discipline and prayer that frame its use.
+-->
 
 ---
 

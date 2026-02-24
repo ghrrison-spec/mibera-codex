@@ -20,9 +20,11 @@ Dominant colors: White, yellow
 
 Aum Shinrikyo, founded in 1984 by Shoko Asahara in Japan, was a doomsday cult blending Buddhist, Hindu, and Christian apocalyptic beliefs. Initially a spiritual group, it gained legal religious status in 1989, growing to tens of thousands of followers. The cult turned violent after a failed 1990 election bid, engaging in crimes like extortion, murder, and chemical weapons production. Notable attacks include the 1994 Matsumoto sarin gas attack and the 1995 Tokyo subway sarin attack. Asahara and key members were executed in 2018. The group, now called Aleph and Hikari no Wa, remains active but is monitored as a "dangerous religion" in Japan.
 
+<!-- justification
 ## Justification
 
 Aum Shinrikyo is one of the darkest chapters in Japanese counterculture history — this headwear is a reminder that subcultures can go to very dark places, and the collection does not look away.
+-->
 
 ---
 

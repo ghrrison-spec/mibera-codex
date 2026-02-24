@@ -16,9 +16,11 @@ a light grey fanny pack, with some graphics in a white rectangular shape on it a
 
 Fanny packs (or bum bags in the UK) became a practical staple of rave culture because they keep hands free on the dance floor. The style fell out of mainstream fashion in the late 1990s but never left the free party scene, and has since cycled back into streetwear. This version is branded with Babybera, a Berachain community project.
 
+<!-- justification
 ## Justification
 
-Berachain community crossover. A fanny pack is standard rave kit; branding it Babybera plants the collection's on-chain lineage inside a real-world artifact.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

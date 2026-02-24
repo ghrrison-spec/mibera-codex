@@ -18,9 +18,11 @@ Pointed all black sunglasses.
 
 Angular, aggressive sunglasses became a defining look of late 1980s and early 1990s rave culture, particularly in the UK acid house scene. The pointed frames evoked a futuristic edge that matched the forward-looking sound of the music, worn by both DJs and ravers at events from Shoom to Sunrise.
 
+<!-- justification
 ## Justification
 
 Squad shades are the kind of thing an entire crew shows up wearing to a rave, and nobody planned it. When the energy is right, the accessories synchronize on their own.
+-->
 
 ---
 

@@ -17,9 +17,11 @@ Dominant colors: dark puprle, white.
 
 Ironic confession tees are a staple of internet humor culture, particularly within the post-ironic online communities adjacent to Milady. These shirts weaponize vulnerability as comedy, turning private anxieties into public statements.
 
+<!-- justification
 ## Justification
 
 The collection embraces the full range of internet confession culture. This shirt is the kind of brutally honest, self-deprecating humor that defines crypto Twitter.
+-->
 
 ---
 

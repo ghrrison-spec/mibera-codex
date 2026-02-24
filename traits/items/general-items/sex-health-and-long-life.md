@@ -18,9 +18,11 @@ Thomas Cleary
 
 This translation of classical Chinese Taoist texts by Thomas Cleary covers longevity, sexuality, and holistic wellness. It connects to the collection's thread of ancient wisdom traditions that sought altered states and transcendence through the body.
 
+<!-- justification
 ## Justification
 
 Taoist longevity text placing bodily transcendence and sexuality alongside the collection's chemical routes to altered states.
+-->
 
 ---
 

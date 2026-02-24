@@ -20,9 +20,11 @@ Dominant colors: Black, red, blue, yellow
 
 HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a meme-based cryptocurrency on Ethereum (ERC-20) and Binance Smart Chain (BSC), launched around late 2021. The token employs reflection, liquidity pool acquisition, and burn functions in trades.
 
+<!-- justification
 ## Justification
 
 The premium version of the HPOS10I hat — more graphics, higher swag score, same glorious memecoin chaos energy.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: black, red, white
 
 A black book titled "How to Stay in Hell." The title functions as dark humor and post-ironic commentary, consistent with the Milady aesthetic's tendency to treat morbid or extreme subject matter with deadpan sincerity.
 
+<!-- justification
 ## Justification
 
 Deadpan transgressive book title that says the quiet part loud — peak Milady post-ironic humor as a held prop.
+-->
 
 ---
 

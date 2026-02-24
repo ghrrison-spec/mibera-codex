@@ -16,9 +16,11 @@ a plushie of a brown bear, medium to big in size.
 
 Bear plushies are a recurring motif in the Mibera collection, referencing Berachain's bear-themed branding. The "baby" variants emphasize the kawaii (cute) aesthetic central to the Milady archetype.
 
+<!-- justification
 ## Justification
 
 The default Berachain plushie — the most direct way to put the ecosystem's mascot in a Mibera's hands.
+-->
 
 ---
 

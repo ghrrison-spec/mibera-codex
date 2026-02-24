@@ -18,9 +18,11 @@ Dominant colors: white, dark red / purple
 
 Umeboshi (pickled plum) onigiri is a classic Japanese rice ball variety with sour, salty flavor. It deepens the collection's connection to Japanese food culture and the anime aesthetic embedded in the Milady lineage.
 
+<!-- justification
 ## Justification
 
 Umeboshi variant giving the onigiri a second colorway and a deeper cut into Japanese food specifics.
+-->
 
 ---
 

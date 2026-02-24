@@ -18,9 +18,11 @@ Dominant colors: Neon green.
 
 New York rave flyers document the city's unique electronic music scene, which blended warehouse parties, club culture, and the downtown art world. They capture a time when the city's nightlife was both genuinely dangerous and genuinely transformative.
 
+<!-- justification
 ## Justification
 
 Primary-source artifacts. These flyers are the receipts — physical proof that a scene existed before it was documented, commercialized, or remembered correctly.
+-->
 
 ---
 

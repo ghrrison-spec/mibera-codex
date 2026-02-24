@@ -18,9 +18,11 @@ Dominant colors: clear
 
 The Sherlock pipe's distinctive curved shape has been transformed by modern glass artists into elaborate functional art. Glass pipes represent the intersection of craft, beauty, and drug culture.
 
+<!-- justification
 ## Justification
 
 Glass pipe-making is one of the few craft traditions that exists purely because of drug culture. The Sherlock shape connects Victorian aesthetics to modern functional art.
+-->
 
 ---
 

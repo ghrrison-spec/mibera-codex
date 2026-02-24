@@ -18,11 +18,13 @@ Dominant colors: Black, green.
 
 ## Cultural Context
 
-Japan's Sacred Techno Buddhist Grounds is an immersive event blending ancient Buddhist rituals with modern techno music in Tokyo's historic temples. Scheduled for October 2025, it features DJ sets amid chanting monks, lantern-lit ceremonies, and electronic soundscapes, celebrating spiritual-tech fusion for 500 attendees.
+This outfit is a direct reference to Gyosen Asakura, a Japanese Buddhist monk and techno DJ who performs in traditional Buddhist robes. Asakura bridges ancient spiritual practice with electronic music, spinning techno sets while dressed in full monastic attire, embodying the convergence of repetitive beats and meditative ritual.
 
+<!-- justification
 ## Justification
 
-Sacred spaces and sound systems are not as far apart as people think. Buddhist techno events in Tokyo temples are proof that repetitive beats and spiritual practice have been converging for decades.
+This is Gyosen Asakura's outfit — a Buddhist monk who DJs techno in his robes, proving that the dancefloor and the temple have always been closer than anyone admits.
+-->
 
 ---
 

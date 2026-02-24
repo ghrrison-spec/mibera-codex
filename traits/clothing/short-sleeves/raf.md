@@ -22,9 +22,11 @@ Red Army Faction / Rote Armee Fraktion
 
 RAF's violent legacy (assassinations, kidnappings) symbolized anti-capitalist resistance. Berlin's techno scene emerged from abandoned spaces (e.g., bunkers, factories) tied to Cold War scars and RAF-era radicalism. Clubs like Tresor (opened 1991) embodied a "no future" ethos echoing RAF's nihilism, fostering a DIY, anti-authoritarian vibe. Techno raves were seen as modern "urban guerrilla" acts against conformity.
 
+<!-- justification
 ## Justification
 
 The Red Army Faction's anti-capitalist violence and Berlin's techno scene both emerged from the same post-war German underground. Techno raves in abandoned Cold War infrastructure were the countercultural heir to RAF-era radicalism.
+-->
 
 ---
 

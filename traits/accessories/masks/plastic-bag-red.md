@@ -18,9 +18,11 @@ Dominant colors: White, red.
 
 The Blindboy Podcast, hosted by Blindboy Boatclub (Dave Chambers) of the Rubberbandits, is an eclectic Irish podcast launched in 2017. It blends short fiction, interviews, and comedy, exploring topics like mental health, politics, culture, and history, often with personal stories and absurdist commentary. It has since then gained a cult-following.
 
+<!-- justification
 ## Justification
 
 The Blindboy Podcast proved that a man in a plastic bag could be one of the most thoughtful voices in Irish media. The red strokes on this variant mark it as the Freetekno edition, connecting Irish counterculture directly to the free party movement.
+-->
 
 ---
 

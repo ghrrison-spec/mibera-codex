@@ -17,12 +17,11 @@ The star and crescent of Turkey’s flag, directly on top of Mibera’s hand. It
 Dominant colors: Red
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 The Turkish flag as hand ink -- it turns a national symbol into a personal statement, anchoring the Turkey ancestor lineage in the most visible possible location.
+-->
 
 ---
 

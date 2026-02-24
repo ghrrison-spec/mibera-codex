@@ -20,9 +20,11 @@ Dominant colors: Beige / light tan, red
 
 The non la (leaf hat) or rice paddy hat is a traditional conical hat from East and Southeast Asia, most commonly associated with Vietnam, China, Japan, and Korea. Made from palm leaves or straw, it has been used for centuries by farmers and laborers as protection from sun and rain. The hat has become a widely recognized symbol of Asian agricultural culture and rural life.
 
+<!-- justification
 ## Justification
 
 The rice paddy hat connects the acid house archetype to Asian agricultural traditions — a hat worn by billions across centuries, now part of the collection's global headwear vocabulary.
+-->
 
 ---
 

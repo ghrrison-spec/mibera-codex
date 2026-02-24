@@ -18,9 +18,11 @@ Dominant colors: clear
 
 The clear pill sits alongside the red, blue, and black pills of internet culture as a provocation about perception and ideology. In the collection's framework, it suggests seeing through all narratives rather than choosing between them.
 
+<!-- justification
 ## Justification
 
 The nihilist's answer to the red/blue pill binary — reject all narratives instead of choosing one.
+-->
 
 ---
 

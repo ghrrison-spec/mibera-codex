@@ -20,9 +20,11 @@ Dominant colors: Brown, light beige
 
 Lee "Scratch" Perry (1936–2021) was a Jamaican music producer, singer, and songwriter, renowned for pioneering dub music in the 1970s. His innovative studio techniques, including remixing and sound effects, reshaped reggae, influencing artists like Bob Marley, The Clash, and Beastie Boys. Known for his eccentric persona, Perry won a Grammy in 2003 and continued creating until his death in Jamaica at age 85.
 
+<!-- justification
 ## Justification
 
 Lee "Scratch" Perry invented dub and rewired how we think about the studio as an instrument — this gem-encrusted hat channels his legendary eccentric style.
+-->
 
 ---
 

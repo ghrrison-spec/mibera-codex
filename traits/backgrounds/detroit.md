@@ -18,9 +18,11 @@ Dominant colors: Brick red, grey, white, bright blue.
 
 Detroit is one of the four archetype cities — birthplace of techno through Juan Atkins, Derrick May, and Kevin Saunderson (the Belleville Three). The red brick industrial buildings are the literal architecture where this sonic revolution began.
 
+<!-- justification
 ## Justification
 
 Detroit is one of the four archetype cities in the Mibera system — birthplace of techno.
+-->
 
 ---
 

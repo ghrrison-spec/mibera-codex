@@ -16,9 +16,11 @@ a peyote plant; a round-shaped fat plant in green.
 
 Peyote is a small cactus containing mescaline, used ceremonially by Indigenous peoples of the Americas for thousands of years. It represents one of humanity's oldest relationships with psychedelic plants.
 
+<!-- justification
 ## Justification
 
 Anchors the collection's psychedelic thread in the oldest documented tradition. If you're going to map humanity's relationship with plant medicine, you start here.
+-->
 
 ---
 

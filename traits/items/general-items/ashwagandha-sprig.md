@@ -18,9 +18,11 @@ Dominant colors: green, red, yellow
 
 Ashwagandha is an adaptogenic herb central to Ayurvedic medicine, used for thousands of years to reduce stress and enhance vitality. Its inclusion represents the recovery and wellness side of drug culture, where healing is as important as the high.
 
+<!-- justification
 ## Justification
 
 Anchors the Hindu ancestor's healing traditions in the collection, balancing the heavier psychoactive items with a wellness counterpart.
+-->
 
 ---
 

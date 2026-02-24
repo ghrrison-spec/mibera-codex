@@ -18,9 +18,11 @@ Dominant colors: silver, magenta / pink
 
 apDAO is a decentralized autonomous organization operating within the Berachain ecosystem. This second ring variant, distinguished by its pink gem, provides visual differentiation for a different tier or role within the DAO's membership structure.
 
+<!-- justification
 ## Justification
 
 A second tier or role within apDAO's structure, distinguished by a pink gem. Variant items like this mirror how on-chain roles create visual differentiation in communities.
+-->
 
 ---
 

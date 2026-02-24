@@ -16,9 +16,11 @@ a small plain mushroom in pale grey / blueish colour.
 
 Blue Meanie can refer to either a potent Psilocybe cubensis strain or Panaeolus cyanescens, a distinct species. The name nods to the Beatles' Yellow Submarine, connecting psychedelic mushroom culture to the psychedelic music era.
 
+<!-- justification
 ## Justification
 
 Named after the Beatles' Yellow Submarine villains, it is a direct bridge between the 1960s psychedelic rock era and the mushroom culture that followed.
+-->
 
 ---
 

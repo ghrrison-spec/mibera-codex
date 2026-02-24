@@ -18,9 +18,11 @@ White t-shirt with a thin graphic made of circles and lines connected to one ano
 
 Yin is a Chinese-American cryptographer and independent security consultant known for significant contributions to cryptography. Yin is recognized for breaking the SHA-1 cryptographic hash function with Wang Xiaoyun and Hongbo Yu in 2005, demonstrating its vulnerabilities.
 
+<!-- justification
 ## Justification
 
 Yiqun Lisa Yin helped break SHA-1 alongside Wang Xiaoyun. The cryptographers who exposed the vulnerabilities in the systems that protect digital communication are unsung heroes of the cypherpunk story.
+-->
 
 ---
 

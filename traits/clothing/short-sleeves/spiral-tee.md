@@ -20,9 +20,11 @@ Dominant colors: Black, white
 
 The spiral is a recurring symbol in psychedelic and rave culture, representing altered states of consciousness, hypnotic patterns, and the cyclical nature of the dancefloor experience. In the Mibera context, spirals also reference Spiral Tribe, the legendary UK free party sound system. The Mibera logo at the center anchors the design to the project.
 
+<!-- justification
 ## Justification
 
 A spiral leading to the Mibera logo at the center. The spiral is the visual language of trance states, and Spiral Tribe is one of the most important names in free party history.
+-->
 
 ---
 

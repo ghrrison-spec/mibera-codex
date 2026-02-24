@@ -18,9 +18,11 @@ Dominant colors: Green, black, white, pink.
 
 In May 1992, Castlemorton Common hosted the UK's largest illegal rave, drawing 20,000-40,000 people for a week-long free festival sparked by New Age travellers and ravers. Sound systems like Spiral Tribe and DiY set up, fueled by acid house and word-of-mouth. The event’s scale led to the Criminal Justice and Public Order Act 1994, banning unlicensed raves with “repetitive beats.” Photographer Alan Lodge, a former paramedic turned traveller, documented the vibrant subculture and police tensions, capturing a pivotal moment in UK dance music history
 
+<!-- justification
 ## Justification
 
 Castlemorton is the single event that defined UK free party culture and triggered the legislation that the freetekno movement has resisted ever since.
+-->
 
 ---
 

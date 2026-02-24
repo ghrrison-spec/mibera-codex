@@ -22,9 +22,11 @@ Sari / Saree
 
 Sari (or saree) is a traditional South Asian women's garment, consisting of a single unstitched strip of cloth, draped elegantly around the body over a petticoat and blouse. Worn primarily in India, Bangladesh, Nepal, and Sri Lanka, it varies by region in fabric (cotton, silk, chiffon), draping style (e.g., Nivi, Bengali, Gujarati), and occasion. Dating back over 5,000 years, it symbolizes cultural identity and versatility.
 
+<!-- justification
 ## Justification
 
 The sari is one of the oldest continuously worn garments on earth, with over 5,000 years of history. It represents the South Asian cultural tradition that fed into Goa trance and the global psychedelic music scene.
+-->
 
 ---
 

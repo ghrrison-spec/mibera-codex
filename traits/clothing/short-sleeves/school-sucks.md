@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Anti-school sentiment is a perennial theme in youth counterculture, from punk's rejection of institutional authority to the crypto community's skepticism of traditional education. The plain black tee with bold white text follows the standard format of protest slogan shirts.
 
+<!-- justification
 ## Justification
 
 School Sucks is the most basic, most universal countercultural opinion. It belongs in the collection because it is the first rebellious thought most people ever have.
+-->
 
 ---
 

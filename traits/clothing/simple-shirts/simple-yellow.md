@@ -19,9 +19,11 @@ Dominant colors: Yellow
 
 Yellow is the color of the acid house smiley face, the most iconic symbol in rave history. Even as a plain shirt, yellow carries the unmistakable association with the Second Summer of Love.
 
+<!-- justification
 ## Justification
 
 You cannot wear a yellow t-shirt in this context without evoking acid house. The smiley face does not even need to be printed on it.
+-->
 
 ---
 

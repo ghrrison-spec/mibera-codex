@@ -18,9 +18,11 @@ Dominant colors: grey, purple
 
 Beramarket is an NFT marketplace on Berachain. The oversized brain is a reference to the "big brain" internet meme, used to denote shrewd or galaxy-brained trading strategies. The item combines ecosystem infrastructure with crypto trader culture.
 
+<!-- justification
 ## Justification
 
 NFT marketplace infrastructure meets crypto trader meme culture. The oversized brain is self-aware bragging about galaxy-brained trading strategies.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: silver, black, white
 
 Chrome Hearts is a luxury brand known for its gothic silver jewelry and leather goods, beloved in both streetwear and music culture. Its presence connects the collection to the high-fashion side of nightlife, where designer accessories meet the dance floor.
 
+<!-- justification
 ## Justification
 
 Luxury streetwear accessory placing the Milady archetype in the high-fashion nightlife lane.
+-->
 
 ---
 

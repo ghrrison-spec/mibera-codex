@@ -18,9 +18,11 @@ Dominant colors: brown, light grey, black, white
 
 Bond Bear is a series of four bear plushies dressed in suits, referencing the James Bond film franchise. Each variant wears a different suit style. The series was noted by team members for its level of detail.
 
+<!-- justification
 ## Justification
 
 References a key Berachain rebase.
+-->
 
 ---
 

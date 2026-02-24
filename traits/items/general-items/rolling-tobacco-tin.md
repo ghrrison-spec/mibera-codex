@@ -18,9 +18,11 @@ Dominant colors: tin yellow
 
 Hand-rolled cigarettes are a staple of European free party culture, cheaper and more communal to share than manufactured ones. The tin itself becomes a ritual object, passed around at after-parties.
 
+<!-- justification
 ## Justification
 
 The social currency of the European free party scene. You don't buy a pack; you roll your own and pass the tin.
+-->
 
 ---
 

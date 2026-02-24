@@ -20,9 +20,11 @@ Dominant colors: Soft blue, light blue
 
 Bow-adorned hats have a long history in feminine fashion, from Victorian bonnets to mid-century pillbox hats. The soft blue colorway and delicate bow evoke a vintage, ladylike aesthetic that contrasts with the harder edges of rave and streetwear culture, creating the kind of unexpected juxtaposition that defines generative art collections.
 
+<!-- justification
 ## Justification
 
 Soft, feminine, deliberately out of place in a rave collection — the blue bow hat is the kind of contrast piece that makes a generative set interesting.
+-->
 
 ---
 

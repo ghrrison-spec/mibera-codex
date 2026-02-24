@@ -18,9 +18,11 @@ Dominant colors: Leafy green
 
 Rave culture is closely tied to drugs like MDMA, but often leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either coated or infused to disguise it as candy for easier transport and consumption at events
 
+<!-- justification
 ## Justification
 
 Lollipops are a functional rave accessory as much as a fashion statement -- anyone who's been on a dancefloor at 4am knows why you'd want one.
+-->
 
 ---
 

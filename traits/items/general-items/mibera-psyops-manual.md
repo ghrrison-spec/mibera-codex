@@ -18,9 +18,11 @@ Dominant colors: light pale orange, red, black
 
 "Psyop" entered internet slang from military terminology for psychological operations, meaning campaigns designed to influence perception. In crypto and NFT culture, "psyop" is used semi-ironically to describe projects that spread through memes, narrative, and social engineering rather than conventional marketing. The Mibera Psyops Manual is a fictional book that makes this dynamic explicit, treating the collection's own memetic spread as a deliberate operation.
 
+<!-- justification
 ## Justification
 
 The collection breaking the fourth wall. A fictional handbook for its own memetic spread, acknowledging that every NFT project is, on some level, a psyop.
+-->
 
 ---
 

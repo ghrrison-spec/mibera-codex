@@ -18,9 +18,11 @@ Dominant colors: light orange, blue
 
 Club-Mate is a caffeinated mate tea that became the unofficial drink of Berlin's techno scene and hacker culture. It fuels late-night coding sessions and all-night raves equally, symbolizing the overlap between tech and electronic music.
 
+<!-- justification
 ## Justification
 
 Where techno culture and hacker culture share a fridge. Mibera sits at the same intersection of music, tech, and late-night obsession.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: black, purple, blue
 
 Paracelsus (1493-1541) was a Swiss physician and alchemist who established the principle that "the dose makes the poison," founding modern toxicology and pharmacology. "The Rose of Paracelsus" by William Leonard Pickard is a novel about the LSD underground, connecting Renaissance alchemy to modern psychedelic chemistry. Its inclusion ties together the collection's alchemical, pharmaceutical, and counterculture threads.
 
+<!-- justification
 ## Justification
 
 William Leonard Pickard's novel about the LSD underground, named for the Renaissance alchemist who founded toxicology. Ties together the collection's alchemical, pharmaceutical, and counterculture threads in a single title.
+-->
 
 ---
 

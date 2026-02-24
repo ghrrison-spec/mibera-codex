@@ -20,9 +20,11 @@ Dominant colors: White, black
 
 Kai Whiston’s upbringing in the New Age Traveller community. Set in Shaftesbury, Dorset, it traces the grassroots, neo-hippy rave scene led by groups like Spiral Tribe in the 1980s and 1990s, against Thatcher’s Britain. It also touches on folkloric traditions inspiring modern “rave mysticism” in electronic music.
 
+<!-- justification
 ## Justification
 
 Kai Whiston's traveller upbringing, Spiral Tribe's free party legacy, and Thatcher-era Britain all condensed into one line on a cap — the acid house archetype's manifesto in lowercase.
+-->
 
 ---
 

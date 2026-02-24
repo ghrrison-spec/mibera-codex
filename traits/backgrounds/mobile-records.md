@@ -20,9 +20,11 @@ Charlie Ace, born Valdene Dixon in 1945, was a pivotal figure in Jamaican music,
 
 One of the earliest examples of taking music directly to the streets — a proto-sound system on wheels. Jamaican sound system culture is the root ancestor of all rave sound systems.
 
+<!-- justification
 ## Justification
 
 Charlie Ace's mobile record shop brought Jamaican music to London — a direct ancestor of the sound system culture that fed into freetekno.
+-->
 
 ---
 

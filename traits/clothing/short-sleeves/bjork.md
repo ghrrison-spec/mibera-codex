@@ -20,9 +20,11 @@ Dominant colors: Red, white.
 
 Bjork Gudmundsdottir is an Icelandic singer, songwriter, and multimedia artist known for boundary-pushing music that blends electronic, classical, and avant-garde elements. The "Enjoy Cock" parody tee in the Coca-Cola font style has circulated as bootleg merch associated with provocative pop culture since the early 2000s.
 
+<!-- justification
 ## Justification
 
 Named for a style of provocative bootleg tee that has circulated in underground scenes for decades. The Coca-Cola font parody format is one of the most recognizable templates in countercultural merch.
+-->
 
 ---
 

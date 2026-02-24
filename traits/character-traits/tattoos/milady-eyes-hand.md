@@ -20,9 +20,11 @@ Dominant colors: Black
 
 Milady Maker is a collection of 10,000 generative profile picture NFTs on the Ethereum blockchain, launched in August 2021 by the Remilia Collective. Inspired by 2000s Tokyo street fashion and the "neochibi" aesthetic, it features anime-style avatars with randomized accessories, rated by a "Drip Score" for stylishness. Popular on Crypto Twitter, it gained fame after Elon Musk’s tweet in 2023, boosting its floor price. The project includes community events like raves, VRtube avatars, and a Minecraft metaverse.
 
+<!-- justification
 ## Justification
 
 Milady Maker's oversized eyes are the most instantly recognizable element of the neochibi aesthetic that inspired Mibera's Milady archetype. Tattooing them as a hand piece is a permanent pledge of allegiance to the culture.
+-->
 
 ---
 

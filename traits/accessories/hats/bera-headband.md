@@ -20,9 +20,11 @@ Dominant colors: Brown, light pale brown
 
 Animal ear headbands have been a staple of kawaii fashion and festival culture, bridging Japanese street style and Western rave aesthetics. Bear ear headbands specifically nod to Berachain's ursine identity, turning ecosystem branding into a wearable accessory.
 
+<!-- justification
 ## Justification
 
 Bear ears on a headband — the simplest possible way to rep Berachain culture, straight from the kawaii-meets-crypto playbook.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: Green, blue.
 
 Source of opium, one of humanity's oldest psychoactive substances.
 
+<!-- justification
 ## Justification
 
 The poppy is the source of opium, one of humanity's oldest psychoactive substances — a direct reference in the drug-molecule dimension.
+-->
 
 ---
 

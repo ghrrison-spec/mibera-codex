@@ -18,9 +18,11 @@ Star-shaped rimless glasses in deep dark pink.
 
 Star-shaped novelty glasses have been a staple of party culture since the 1970s, worn by glam rock fans, disco dancers, and later rave attendees. In the free party scene, the playful aesthetic of star glasses contrasts with the often harsh industrial environments where teknivals take place.
 
+<!-- justification
 ## Justification
 
 Wearing star-shaped glasses at a muddy teknival in a forest is the kind of joyful absurdity that defines freetekno. The environment is brutal; the accessories are not.
+-->
 
 ---
 

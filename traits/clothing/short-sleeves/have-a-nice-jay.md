@@ -20,9 +20,11 @@ Dominant colors: Bone-white, yellow
 
 A play on the classic Have a Nice Day smiley face, replacing Day with Jay (slang for joint). The smiley face with bear ears smoking a blunt merges the acid house smiley tradition with cannabis culture.
 
+<!-- justification
 ## Justification
 
 The acid house smiley, bear ears, and a joint -- this shirt layers three core Mibera references into one image. It is the collection's visual language distilled into a single pun.
+-->
 
 ---
 

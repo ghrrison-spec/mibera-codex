@@ -18,9 +18,11 @@ Dominant colors: white / grey, red copper
 
 References the lab equipment of Augustus Owsley Stanley III ("Bear"), the first private individual to mass-produce LSD in the 1960s. Owsley supplied the Grateful Dead and the Merry Pranksters, manufacturing an estimated 1.25 million doses. His nickname "Bear" makes this a double reference — Owsley's chemistry gear rendered as Berachain bear iconography.
 
+<!-- justification
 ## Justification
 
 Owsley "Bear" Stanley's nickname makes this a perfect double reference: the most famous clandestine LSD chemist shares his name with Berachain's mascot.
+-->
 
 ---
 

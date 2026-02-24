@@ -18,9 +18,11 @@ Dominant colors: Milky white
 
 Dog Bone Village was made and spread mainly by the Milady Maker NFT community to refer to poverty or people struggling with it. But there has also been a lot of made-up content and lore in regards to the original term.
 
+<!-- justification
 ## Justification
 
 A direct reference to the Milady Maker community's "Dog Bone Village" meme -- the kind of insider lore that only makes sense if you were terminally online at the right time.
+-->
 
 ---
 

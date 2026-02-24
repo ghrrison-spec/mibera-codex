@@ -18,9 +18,11 @@ Dominant colors: black, blue
 
 The Remilia phone case is branded merchandise from the parent Remilia ecosystem. Turning a utilitarian tech accessory into a held item collapses the boundary between personal device, brand loyalty, and collection trait.
 
+<!-- justification
 ## Justification
 
 Remilia branding on a personal everyday object, collapsing merch, identity, and trait into one item.
+-->
 
 ---
 

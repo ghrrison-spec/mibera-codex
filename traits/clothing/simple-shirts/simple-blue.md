@@ -19,9 +19,11 @@ Dominant colors: Blue
 
 Blue is a versatile, neutral color that codes calm and accessibility. In the collection, it provides a cool-toned alternative to the default black without adding cultural signal.
 
+<!-- justification
 ## Justification
 
 A simple blue tee rounds out the palette of base-layer options. Not every Mibera needs to make a statement with their shirt.
+-->
 
 ---
 

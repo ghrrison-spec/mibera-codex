@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Wicked in UK rave slang means excellent or amazing, used as an exclamation of approval since the late 1980s. The graffiti-style typography connects to the street art and urban visual culture that ran parallel to the UK rave scene.
 
+<!-- justification
 ## Justification
 
 Wicked is the one-word review of every great night out. In graffiti lettering on a black tee, it captures the UK rave scene's verbal shorthand in its most visual form.
+-->
 
 ---
 

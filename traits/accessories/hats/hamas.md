@@ -20,9 +20,11 @@ Dominant colors: red, white, dark army green
 
 The keffiyeh face covering with Arabic script headband is associated with Palestinian resistance movements and has become one of the most politically charged pieces of headwear in the world. The keffiyeh itself has a longer history as traditional Middle Eastern headwear, but its use as a face covering with militant insignia carries specific political connotations related to the Israeli-Palestinian conflict.
 
+<!-- justification
 ## Justification
 
 The most provocative hat in the collection at swag score 5 — Mibera does not shy away from the imagery that defines real-world conflict and resistance, even when it makes people uncomfortable.
+-->
 
 ---
 

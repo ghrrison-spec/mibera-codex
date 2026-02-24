@@ -20,9 +20,11 @@ Dominant colors: White / grey, orange, green
 
 Universal waypoint of late-night rave culture. The sort of place you end up at 4am for water, snacks, and cigarettes between sets.
 
+<!-- justification
 ## Justification
 
 Convenience store culture as a touchpoint for the everyday mundane backdrop of subcultural life.
+-->
 
 ---
 

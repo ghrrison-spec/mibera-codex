@@ -18,9 +18,11 @@ white snow goggles with drawings that look like a mask / eye holes.
 
 Snow goggles have been used by Arctic and Inuit peoples for thousands of years, carved from bone, antler, or wood with narrow slits to prevent snow blindness. Modern ski goggles evolved from this ancient technology. In crypto culture, bear-themed snow goggles carry additional resonance, connecting winter sports aesthetics with the Berachain bear identity.
 
+<!-- justification
 ## Justification
 
 Bears and snow goggles go together. The Berachain community embraced winter aesthetics early, and goggles became part of the visual vocabulary alongside hibernation and ski masks.
+-->
 
 ---
 

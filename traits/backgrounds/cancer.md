@@ -20,9 +20,11 @@ Cancer, the fourth zodiac sign (June 22 - July 22), is a water sign ruled by the
 
 Zodiac constellation background. Cancer — home, family, protection.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

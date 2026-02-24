@@ -18,9 +18,11 @@ Rounded glasses with slightly dark glasses and golden framing.
 
 Yung Singh
 
+<!-- justification
 ## Justification
 
 Yung Singh is a Punjabi-British DJ who has become a figurehead for the South Asian electronic music diaspora, blending bhangra with house and techno. His signature rounded gold-frame shades are as much a part of his identity as his sets.
+-->
 
 ---
 

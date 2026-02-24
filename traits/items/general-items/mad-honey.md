@@ -18,9 +18,11 @@ Dominant colors: shades of yellow
 
 Mad honey is produced by bees that feed on rhododendron nectar in Turkey's Black Sea region and Nepal. It contains grayanotoxin, which in small doses causes a mild intoxication, and has been used as both a weapon and a delicacy since the time of the ancient Greeks.
 
+<!-- justification
 ## Justification
 
 The item where the collection's honey motif and drug catalog collide — honey that gets you high.
+-->
 
 ---
 

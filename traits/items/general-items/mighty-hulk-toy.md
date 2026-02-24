@@ -18,9 +18,11 @@ Dominant colors: green
 
 Tribe Called Red
 
+<!-- justification
 ## Justification
 
 A mainstream toy sitting among sacred plants and revolutionary texts. The absurd juxtaposition is the point; free party culture doesn't curate its influences.
+-->
 
 ---
 

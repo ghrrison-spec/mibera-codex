@@ -16,9 +16,11 @@ a piece of leaf in dark green facing down.
 
 Ayahuasca is a psychedelic brew combining DMT-containing plants with MAO inhibitors, developed by Indigenous Amazonian peoples over centuries. The fact that they discovered this precise pharmacological combination without modern chemistry speaks to a depth of botanical knowledge that science is still catching up to.
 
+<!-- justification
 ## Justification
 
 Proof that Indigenous pharmacology was centuries ahead of Western chemistry. The collection honors the source traditions, not just the modern rediscovery.
+-->
 
 ---
 

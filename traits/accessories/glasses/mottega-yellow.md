@@ -18,9 +18,11 @@ Glasses with dark lenses and thick yellow frames.
 
 Inspired trait from the Milady Maker NFT collection.
 
+<!-- justification
 ## Justification
 
 A color variant of the Mottega series, doubling down on the Milady move of taking luxury house aesthetics and remixing them into something the original brand would never sanction.
+-->
 
 ---
 

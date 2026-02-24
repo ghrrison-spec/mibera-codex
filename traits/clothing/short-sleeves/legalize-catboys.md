@@ -20,9 +20,11 @@ Dominant colors: Light grey, white, black
 
 Daniel Howell is an English YouTuber, comedian, author, and former radio host. He rose to fame in the early 2010s under the handle "danisnotonfire," amassing over 6 million subscribers on his main channel (now simply Daniel Howell).
 
+<!-- justification
 ## Justification
 
 Catboy culture sits at the intersection of anime fandom, queer identity, and the Milady aesthetic. This shirt takes a niche internet subculture and gives it the activist slogan treatment.
+-->
 
 ---
 

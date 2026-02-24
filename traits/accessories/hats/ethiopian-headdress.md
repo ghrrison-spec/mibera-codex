@@ -20,9 +20,11 @@ Dominant colors: Green, yellow, white.
 
 The Suri tribe in Ethiopia’s Omo Valley is known for their intricate face paint and stunning floral headpieces, using natural materials like clay, mud, and flowers to create artistic designs. These traditions, showcased for tourists, reflect their deep connection to nature amid challenges like regional violence and cattle raiding.
 
+<!-- justification
 ## Justification
 
 The Suri floral headdress is living art — natural materials turned into wearable beauty, connecting Mibera to one of Africa's most visually striking cultural traditions.
+-->
 
 ---
 

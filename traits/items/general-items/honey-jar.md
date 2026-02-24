@@ -18,9 +18,11 @@ Dominant colors: yellow, brown, white
 
 A jar of honey sealed with brown paper and string. Honey is a foundational symbol in the Berachain ecosystem, most prominently through The Honey Jar (THJ).
 
+<!-- justification
 ## Justification
 
 Core Berachain ecosystem symbol — the most fundamental honey item in the collection.
+-->
 
 ---
 

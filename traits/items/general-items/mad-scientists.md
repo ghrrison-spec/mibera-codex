@@ -14,9 +14,11 @@ date_added: null
 
 The Mad Scientist is a potent strain of Psilocybe cubensis known for producing intense, sometimes unpredictable experiences. The name captures the experimental spirit that connects underground mycology to underground music.
 
+<!-- justification
 ## Justification
 
 Duplicate entry for the Mad Scientist mushroom strain. Same cultural reference as mad-scientist.md.
+-->
 
 ---
 

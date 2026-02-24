@@ -18,9 +18,11 @@ Dominant colors: Yellow
 
 The smiley face became the defining symbol of acid house culture after it was adopted by London promoters and ravers in 1988 during the Second Summer of Love. Originally a generic 1960s graphic design, the yellow smiley was repurposed as shorthand for the euphoric MDMA-fueled warehouse rave experience. The name 'Beramilia' fuses Berachain's bear identity with the Remilia Collective, creators of Milady Maker.
 
+<!-- justification
 ## Justification
 
 This earring is a triple-layer reference: the acid house smiley, the Berachain bear, and Remilia's Milady aesthetic all collapsed into one glowing charm.
+-->
 
 ---
 

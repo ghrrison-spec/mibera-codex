@@ -20,9 +20,11 @@ Dominant colors: Yellow, white, black, red
 
 Jake the Dog is a main character from the animated series Adventure Time (2010-2018), created by Pendleton Ward for Cartoon Network. The show became a cultural touchstone for millennials and Gen Z, blending psychedelic imagery, existential themes, and absurdist humor. Jake's stretchy, easygoing character and iconic yellow design made him one of the most recognizable cartoon characters of the 2010s.
 
+<!-- justification
 ## Justification
 
 Adventure Time is the cartoon that raised a generation on psychedelic absurdism — Jake the Dog as a hat is a perfect fit for the acid house archetype's playful side.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Part of the Milady Rave souvenir tee series. Finding true love at a rave is one of the most common narratives in dance music culture -- the heightened emotional state of the dancefloor has launched countless real relationships.
 
+<!-- justification
 ## Justification
 
 People genuinely do find true love at raves. This shirt documents the romantic dimension of the dancefloor alongside the spiritual, chemical, and identity-based dimensions.
+-->
 
 ---
 

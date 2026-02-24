@@ -16,9 +16,11 @@ a bright neon green glowstick.
 
 Glowsticks became synonymous with rave culture in the 1990s, used for dancing, tracing light trails, and marking pathways through dark warehouses. Their cheap, temporary glow perfectly matched the ephemeral nature of the rave itself.
 
+<!-- justification
 ## Justification
 
 Disposable light for disposable nights. The glowstick's planned obsolescence mirrors the ephemeral, you-had-to-be-there nature of the rave itself.
+-->
 
 ---
 

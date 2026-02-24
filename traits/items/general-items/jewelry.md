@@ -18,9 +18,11 @@ Dominant colors: black, teal
 
 Kandi is the name for the brightly colored beaded jewelry exchanged at raves, typically pony bead bracelets traded through a ritual handshake called PLUR (Peace, Love, Unity, Respect). The practice originated in the early 1990s American rave scene and became one of its most distinctive social customs, turning cheap craft beads into symbols of shared experience and community.
 
+<!-- justification
 ## Justification
 
 Kandi trading is one of the only rituals unique to rave culture — cheap beads made sacred by the act of exchange between strangers.
+-->
 
 ---
 

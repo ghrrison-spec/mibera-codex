@@ -17,12 +17,11 @@ date_added: "2024-08-10"
 Dominant colors: black
 
 ## Cultural Context
-
-Era: Ancient
-
+<!-- justification
 ## Justification
 
 Time rendered through a Mongolian lens reflects the nomadic worldview where cycles matter more than endpoints -- it grounds the Mongolian ancestor lineage in a philosophy of eternal movement.
+-->
 
 ---
 

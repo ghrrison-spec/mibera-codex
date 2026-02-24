@@ -20,9 +20,11 @@ Dominant colors: Purple, brown, yellow
 
 Fable platform is a decentralized media platform, created to be the entertainment hub on Berachain. The hub was meant to host games, stories, and other forms of media.
 
+<!-- justification
 ## Justification
 
-Fable is a Berachain-native decentralized media platform. Ecosystem project merch in the collection documents the community that formed around the chain before and after launch.
+Fable is a part of the Berachain eco and were partners at the time the trait was created.
+-->
 
 ---
 

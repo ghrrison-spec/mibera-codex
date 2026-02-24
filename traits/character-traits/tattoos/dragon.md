@@ -17,12 +17,11 @@ The traditional hanzi alphabet of the word ‘lóng’ in red.(龍)
 Dominant colors: Red
 
 ## Cultural Context
-
-Era: Ancient
-
+<!-- justification
 ## Justification
 
 The dragon is the single most important mythological figure in Chinese culture, and writing it in hanzi rather than as a picture makes this tattoo about language and heritage rather than just imagery.
+-->
 
 ---
 

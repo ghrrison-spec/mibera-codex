@@ -20,9 +20,11 @@ Dominant colors: White, black
 
 The "I Could Be Abusive" trucker cap is a product from the Remilia Corporation bootleg merchandise line, sold through their official store. It exemplifies the deliberately provocative, irony-laden aesthetic that defines the Milady-adjacent internet culture space.
 
+<!-- justification
 ## Justification
 
 Peak post-ironic merch energy — Remilia bootleg culture turned into wearable shitposting. If you know, you know.
+-->
 
 ---
 

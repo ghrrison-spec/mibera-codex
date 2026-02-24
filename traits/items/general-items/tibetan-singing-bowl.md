@@ -18,9 +18,11 @@ Dominant colors: golden yellow
 
 Tibetan singing bowls produce harmonic overtones used in meditation and sound healing practices. Their resonant frequencies are said to induce altered states of consciousness, connecting them to the broader theme of achieving transcendence through sound.
 
+<!-- justification
 ## Justification
 
 Links the acid house ethos of transcendence through sound to a centuries-old practice of achieving altered states with resonant frequencies alone — no chemistry required.
+-->
 
 ---
 

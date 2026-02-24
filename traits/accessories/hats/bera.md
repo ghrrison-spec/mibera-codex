@@ -20,9 +20,11 @@ Dominant colors: Brown, light beige
 
 The Bera cap is a direct reference to Berachain, the Layer 1 blockchain where the Mibera collection lives. The bear face design with sparkly eyes reflects the playful, community-driven branding that defines Berachain's culture, where bear imagery is central to ecosystem identity.
 
+<!-- justification
 ## Justification
 
 The flagship Berachain hat — a bear-face cap at swag score 4 because repping the home chain at maximum cuteness deserves top marks.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: Bright yellow.
 
 Lightning Bolt shaped accessory was a very common rave accessory.
 
+<!-- justification
 ## Justification
 
 Lightning bolts are one of rave culture's most recycled visual motifs -- energy, electricity, and a subtle Zeus reference that ties into Mibera's ancient ancestor threads.
+-->
 
 ---
 

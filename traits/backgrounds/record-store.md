@@ -18,9 +18,11 @@ Dominant colors: Black and white with a slight hue of sepia.
 
 Where DJs discovered tracks and scenes cross-pollinated — from Detroit's Record Time to London's Black Market Records.
 
+<!-- justification
 ## Justification
 
 Record stores are where DJs discovered tracks and scenes cross-pollinated — the physical nodes in the network that connected Chicago, Detroit, London, and Berlin.
+-->
 
 ---
 

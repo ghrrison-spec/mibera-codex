@@ -18,9 +18,11 @@ Dominant colors: white, black
 
 A plain white bear plushie with an "O" for one eye and an "X" for the other. The name "Ursadom" combines "ursa" (Latin for bear) with "dom" (domain/dominion). The minimalist X-O face is a common design shorthand in plush toys and mascot culture.
 
+<!-- justification
 ## Justification
 
 Minimalist X-O face bear plushie from the Berachain ecosystem, stripped to the simplest possible mascot form.
+-->
 
 ---
 

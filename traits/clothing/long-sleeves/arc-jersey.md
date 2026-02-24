@@ -18,13 +18,13 @@ Dominant colors: Black, purple, lightgrey
 
 ## Cultural Context
 
-The number 69 carries dual significance — as a countercultural symbol and as the year 1969, the single most concentrated birth year in the Mibera timeline with 222 births. The jersey format and bold numbering reference both sports culture and the numbered rave flyers of the early 1990s. The dark colorway with purple accents grounds it in the nocturnal palette of club culture.
+ARC Stellars is a generative NFT collection that features futsal-inspired jerseys as one of its signature traits. The Arc Jersey in Mibera directly references ARC Stellars' Futsal Jersey trait, with the "ARC" text and sporty striped sleeves paying homage to the original design. Futsal — the fast-paced, small-sided version of football — has deep roots in South American and European street culture, and its jerseys have crossed over into streetwear and NFT fashion.
 
-Era: Contemporary
-
+<!-- justification
 ## Justification
 
-A numbered jersey that codes both sports and rave culture, with 69 marking the single most populated birth year in the Mibera timeline. It belongs here because it bridges the athletic and the nocturnal.
+This is a direct cross-collection tribute to ARC Stellars.
+-->
 
 ---
 
@@ -32,4 +32,5 @@ A numbered jersey that codes both sports and rave culture, with 69 marking the s
 
 **Swag Score:** 3
 **Date Added:** 2025-03-22
-**Introduced By:** Zergucci
+**Introduced By:** Jani
+**Team Notes:** Jani (deepname99) owns ARC Stellars #852, which has the Futsal Jersey trait this piece references.

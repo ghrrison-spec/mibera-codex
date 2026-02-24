@@ -17,12 +17,11 @@ Thick brush stroke that goes in nearly full circle.
 Dominant colors: Black.
 
 ## Cultural Context
-
-Era: Ancient
-
+<!-- justification
 ## Justification
 
 One brushstroke that captures an entire philosophy -- the enso is the Buddhist ancestor lineage distilled to its most essential gesture.
+-->
 
 ---
 

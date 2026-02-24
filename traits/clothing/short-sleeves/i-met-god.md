@@ -20,9 +20,11 @@ Dominant colors: Black, white
 
 Part of the Milady Rave souvenir tee series, a set of shirts that read like confessional postcards from a night out. Each shirt describes a different transformative experience at a Milady rave, ranging from spiritual to romantic to chemical.
 
+<!-- justification
 ## Justification
 
 Meeting God at a rave is not metaphorical for a lot of people. This shirt captures the transcendent experience that keeps people coming back to the dancefloor.
+-->
 
 ---
 

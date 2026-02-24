@@ -18,9 +18,11 @@ Dominant colors: dark green, light lime green
 
 Mead, fermented honey wine, is one of the oldest alcoholic drinks in human history, dating back at least 9,000 years. It ties the collection's honey and bear themes to the deep past of communal intoxication.
 
+<!-- justification
 ## Justification
 
 Honey fermented into humanity's oldest intoxicant is a triple-lock on Berachain identity: bears, honey, and the 9,000-year lineage of getting drunk together.
+-->
 
 ---
 

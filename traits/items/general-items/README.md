@@ -279,7 +279,7 @@ Items are handheld objects that Miberas carry, ranging from drug paraphernalia t
 - [Blue Meanie](blue-meanie.md)
 - [Mad Scientists](mad-scientists.md)
 - [Band Bear 1](band-bear-1.md)
-- [Sakae Na Plant](sakae-naa-plant.md)
+- [sakae naa](sakae-naa.md)
 - [Grateful Dead Tarot](grateful-dead-tarot.md)
 - [Weed Nug](weed-nug.md)
 - [Adam Back](adam-back.md)

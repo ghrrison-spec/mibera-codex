@@ -18,9 +18,11 @@ Dominant colors: yellow, rainbow-coloured
 
 Jani is a founding team member and creator of Mibera, responsible for much of the collection's philosophical and cultural direction. This representation of Jani is from Project Puru-Puru
 
+<!-- justification
 ## Justification
 
 Gumi worked on Project Puru-Puru while drawing Mibera. This is Jani's character from that project embedded as a crossover item.
+-->
 
 ---
 

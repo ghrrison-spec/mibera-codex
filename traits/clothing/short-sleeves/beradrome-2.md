@@ -20,9 +20,11 @@ Dominant colors: Vibrant purple, brown.
 
 The second Beradrome tee features the German word Fahrradfahreranzug (cyclist outfit), a nod to the cycling-themed DEX's European roots and the Kraftwerk tradition of German-language technology references in electronic music culture.
 
+<!-- justification
 ## Justification
 
 A second Beradrome variant with German text deepens the Kraftwerk connection that runs through the collection. The cycling metaphor for DeFi liquidity is surprisingly apt.
+-->
 
 ---
 

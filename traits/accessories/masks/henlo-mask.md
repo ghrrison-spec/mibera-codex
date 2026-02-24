@@ -18,9 +18,11 @@ Dominant colors: Army green.
 
 Was created for an irl Mibera rave. [look up context gumi]
 
+<!-- justification
 ## Justification
 
 Created for a real-world Mibera rave, this mask bridges the gap between on-chain identity and IRL community. The chains, rings, and ear details turn a standard balaclava into wearable lore.
+-->
 
 ---
 

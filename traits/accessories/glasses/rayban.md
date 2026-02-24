@@ -18,9 +18,11 @@ Rectangular-shaped glasses with clear lenses and thick black frames.
 
 Ron Hardy
 
+<!-- justification
 ## Justification
 
 Ron Hardy, the legendary Music Box DJ, helped define the raw, ecstatic sound of Chicago house. His eyewear became as iconic as his mixing style. Putting Ray-Bans in the collection is a direct tribute to the man and the era.
+-->
 
 ---
 

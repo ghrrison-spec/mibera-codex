@@ -20,9 +20,11 @@ Ophiuchus, sometimes called the 13th zodiac sign (November 29 - December 17), is
 
 The hidden 13th sign, rejected by mainstream astrology. Associated with healing and transformation through serpent wisdom.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Ophiuchus is the unofficial 13th sign.
+-->
 
 ---
 

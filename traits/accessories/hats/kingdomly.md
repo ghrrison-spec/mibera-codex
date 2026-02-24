@@ -20,9 +20,11 @@ Dominant colors: Grey, red, brown
 
 an NFT mint platform on Berachain that recently went multi-chain.
 
+<!-- justification
 ## Justification
 
 Kingdomly is a Berachain-native NFT mint platform turned multi-chain — the knight helmet with bear ears is ecosystem infrastructure wearing its identity on its head.
+-->
 
 ---
 

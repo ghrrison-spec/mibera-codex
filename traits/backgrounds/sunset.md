@@ -18,9 +18,11 @@ Dominant colors: Green, sky-blue, hue of yellow.
 
 Sourced from Milady Maker's background assets. The sunset over greenery also evokes the beginning of a rave — the transition from daylight into the nocturnal world of the dancefloor.
 
+<!-- justification
 ## Justification
 
 Shared visual lineage with Milady Maker.
+-->
 
 ---
 

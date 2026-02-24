@@ -18,9 +18,11 @@ All-black cyberpunk style glasses
 
 The cyberpunk visual language of dark, utilitarian eyewear has been adopted across underground music scenes, from industrial and EBM to hardcore tekno. The all-black aesthetic signals both anonymity and defiance, central themes in the free party movement.
 
+<!-- justification
 ## Justification
 
 Darker, heavier, more utilitarian than its sibling variant. For the kind of tekno party where the sound system matters more than the venue.
+-->
 
 ---
 

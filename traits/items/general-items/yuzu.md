@@ -18,9 +18,11 @@ Dominant colors: orange / ginger, black, white
 
 Yuzu appears to be a project or character within the Berachain ecosystem or its partner network. The fox plushie form, distinct from the typical bear motif, suggests a separate identity within the broader community.
 
+<!-- justification
 ## Justification
 
 A fox plushie in a bear-dominated ecosystem — a deliberately distinct identity within the broader Berachain community.
+-->
 
 ---
 

@@ -19,12 +19,11 @@ Dominant colors: Black
 ## Cultural Context
 
 Mayan Tribe; a Mayan jaguar tattoo generally symbolizes strength, power, and transformation, reflecting the jaguar's revered status in Mayan culture as a sacred animal and guardian of the spirit world. Associated with courage, protection, and rebirth, it was often linked to warriors and nobles who wore jaguar skins for battle prowess.
-
-Era: Ancient
-
+<!-- justification
 ## Justification
 
 The jaguar was the most powerful spiritual animal in Mesoamerican cosmology, worn by warriors and kings as proof of divine favor. It anchors the Mayan ancestor lineage in a symbol that has meant power for three thousand years.
+-->
 
 ---
 

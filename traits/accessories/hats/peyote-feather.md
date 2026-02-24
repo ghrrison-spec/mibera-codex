@@ -20,9 +20,11 @@ Dominant colors: Dirty bone-white, black
 
 Feathered headbands are traditional adornments across many Indigenous American cultures, with specific feathers carrying spiritual significance related to honor, bravery, and connection to the natural world. In the context of peyote ceremonies, the combination of feathered headwear and sacred medicine represents a complete spiritual practice that predates European contact by millennia.
 
+<!-- justification
 ## Justification
 
 A feathered headband rooted in Indigenous ceremony — the freetekno archetype draws a line from ancient spiritual practice to modern free party culture, and this hat sits right on that line.
+-->
 
 ---
 

@@ -17,9 +17,11 @@ Dominant colors: baby teal, baby pink, black
 
 BabyBera and Beradrome are both projects in the Berachain ecosystem. Beradrome is a decentralized exchange (DEX) on Berachain, and this collaborative helmet merges the playful BabyBera aesthetic with Beradrome's identity. Cross-project collaborations are common in the Berachain community, reflecting its tight-knit ecosystem culture.
 
+<!-- justification
 ## Justification
 
-A collab between two Berachain ecosystem projects turned into headwear — this is what happens when DeFi protocols and NFT communities actually like each other.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

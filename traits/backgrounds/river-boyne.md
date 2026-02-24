@@ -20,9 +20,11 @@ River Boyne is located in Eastern Ireland, notably as the site of the 1690 Battl
 
 Flows past Newgrange and the Boyne Valley's Neolithic monuments — 5,000-year-old ceremonial sites. Irish roots.
 
+<!-- justification
 ## Justification
 
 The River Boyne connects to the Celtic/Irish ancestor lineage and the landscape around Newgrange.
+-->
 
 ---
 

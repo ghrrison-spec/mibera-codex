@@ -18,9 +18,11 @@ Dominant colors: Light soft-pink.
 
 The pink variant of the Bera Ski mask recolors the bear-eared balaclava in soft pink, a color choice that references both kawaii aesthetics and the playful side of Berachain community culture. Pink balaclavas gained visibility in protest movements and internet culture as a subversion of the traditionally aggressive ski mask image.
 
+<!-- justification
 ## Justification
 
 Same bear-eared anonymity as the original Bera Ski, but in pink. It softens the edge without losing the point: you still do not know who is under there.
+-->
 
 ---
 

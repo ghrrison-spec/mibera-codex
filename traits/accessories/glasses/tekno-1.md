@@ -18,9 +18,11 @@ all-black round glasses.
 
 Round dark glasses have been a signature look of the European free party and tekno scene since the early 1990s, worn at outdoor teknivals and squat parties across France, the Czech Republic, and the UK. The all-black aesthetic channels the movement's anti-establishment, anonymous ethos.
 
+<!-- justification
 ## Justification
 
 All-black round glasses are the unofficial uniform of European tekno sound systems. They say nothing about who you are and everything about what you are there for.
+-->
 
 ---
 

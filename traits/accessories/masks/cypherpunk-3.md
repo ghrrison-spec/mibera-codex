@@ -20,9 +20,11 @@ Cypherpunk; a movement of activists, technologists, and cryptographers, originat
 
 Cypherpunk is an individual who uses strong cryptography to enhance privacy and resist surveillance, rooted in a libertarian philosophy that values decentralization and freedom from centralized authority. The movement emerged in the late 1980s, gaining traction with the 1992 Cypherpunks mailing list, where activists and technologists discussed privacy tools and strategies. It has influenced technologies like Bitcoin and Tor, emphasizing practical solutions through coding over policy debates.
 
+<!-- justification
 ## Justification
 
 10D7C7 is a hex color code for a muted teal. Encoding a color as an identity marker on a featureless white mask is a quietly brilliant cypherpunk statement: your identity is a hash, not a face.
+-->
 
 ---
 

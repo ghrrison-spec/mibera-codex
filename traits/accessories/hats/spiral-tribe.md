@@ -20,9 +20,11 @@ Dominant colors: Black, white
 
 Spiral Tribe was a UK-based free party sound system and arts collective formed in 1990, pivotal in the teknival movement. After the Castlemorton Common Festival in 1992 — the largest illegal rave in UK history — and subsequent legal battles, they relocated to mainland Europe and became legendary across the continental free party scene. Their ethos of "free music for free people" defined a generation of underground electronic music culture.
 
+<!-- justification
 ## Justification
 
 Spiral Tribe is the soul of the free party movement — their tribal bear logo on a Mibera cap connects the collection directly to one of the most important sound systems in rave history.
+-->
 
 ---
 

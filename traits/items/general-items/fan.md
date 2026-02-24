@@ -18,9 +18,11 @@ Dominant colors: black, white
 
 Fans are both a practical and expressive accessory in rave culture, used to cool down on crowded dance floors and as flow toys for visual performance. They bridge centuries of Asian cultural tradition with modern electronic music scenes.
 
+<!-- justification
 ## Justification
 
 A dance floor survival tool that doubles as a performance prop. The fan bridges practical rave gear with centuries of East Asian cultural tradition.
+-->
 
 ---
 

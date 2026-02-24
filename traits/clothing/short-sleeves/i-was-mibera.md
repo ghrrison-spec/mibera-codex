@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Part of the Milady Rave souvenir tee series. This variant claims the wearer was literally Mibera at the rave, blurring the line between identity and avatar in the way that NFT culture does by design.
 
+<!-- justification
 ## Justification
 
 The identity claim -- I was Mibera -- captures the way NFT holders identify with their digital avatars. On the dancefloor, the mask becomes the person.
+-->
 
 ---
 

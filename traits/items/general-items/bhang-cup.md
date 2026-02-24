@@ -16,9 +16,11 @@ a grey cup with bright clear liquid.
 
 Bhang is a cannabis-infused drink consumed in India for centuries, especially during the Hindu festival of Holi. It represents one of the world's oldest traditions of communal intoxication tied to celebration and spiritual practice.
 
+<!-- justification
 ## Justification
 
 Anchors the collection's drug theme to ancient tradition — communal intoxication tied to Hindu religious celebration predating modern prohibition by millennia.
+-->
 
 ---
 

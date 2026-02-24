@@ -20,9 +20,11 @@ Dominant colors: Gold
 
 Grime, hip-hop, Punjabi garage party scene.
 
+<!-- justification
 ## Justification
 
 Nose chains sit where grime, hip-hop, and Punjabi party culture overlap. The Milady archetype feeds on these cross-cultural collisions, wearing borrowed aesthetics without pretending to own them.
+-->
 
 ---
 

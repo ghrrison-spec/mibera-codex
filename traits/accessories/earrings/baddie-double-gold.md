@@ -18,9 +18,11 @@ Dominant colors: Gold
 
 Bera Baddies is a community-driven project led and focused on providing a supportive and exclusive space for the female in the Berachain ecosystem.
 
+<!-- justification
 ## Justification
 
 The gold variant gives Bera Baddies a second colorway in the collection, because one pair of studs wasn't enough to represent the ecosystem's most visible women-led community.
+-->
 
 ---
 

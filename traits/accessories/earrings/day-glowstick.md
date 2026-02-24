@@ -18,9 +18,11 @@ Dominant colors: Neon yellow
 
 Glowstick earring, especially vibrant neon or “day glow” styles are iconic accessories in rave culture popularized since the 1990s. Their bright, dynamic glow aligns with the subculture’s focus on creating immersive, communal experiences at events like Electric Daisy Carnival or underground raves.
 
+<!-- justification
 ## Justification
 
 If you went to a rave in the 90s and didn't come home with a glowstick somewhere on your body, you weren't really there. This is Acidhouse DNA.
+-->
 
 ---
 

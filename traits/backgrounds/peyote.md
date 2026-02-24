@@ -20,9 +20,11 @@ The Native American Church (NAC) is a syncretic religious organization combining
 
 One of the oldest known psychedelic sacraments, used for millennia in Indigenous ceremony. Acidhouse archetype.
 
+<!-- justification
 ## Justification
 
 Peyote connects to the Native American ancestor lineage and the Native American Church's sacramental traditions within the drug-molecule dimension.
+-->
 
 ---
 

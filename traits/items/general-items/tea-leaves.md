@@ -16,9 +16,11 @@ two pieces of green leaves.
 
 Tea is one of the oldest psychoactive beverages in the world, with a history of communal consumption stretching back thousands of years across Asia. The Japanese tea ceremony elevated stimulant use into a meditative art form, connecting the act of getting a buzz to mindfulness and presence.
 
+<!-- justification
 ## Justification
 
 The substance where stimulant culture meets meditative ceremony — caffeine wrapped in thousands of years of ritual.
+-->
 
 ---
 

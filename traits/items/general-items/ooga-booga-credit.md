@@ -18,9 +18,11 @@ Dominant colors: silver, black
 
 Ooga Booga is a decentralized exchange aggregator on Berachain. The "Ooga Booga Express" credit card parodies traditional financial instruments, a common joke format in crypto communities that highlights the tension between decentralized finance and legacy banking.
 
+<!-- justification
 ## Justification
 
 DeFi rendered as a parody of traditional finance — a credit card for a decentralized exchange. The joke format highlights the tension between old money and new money.
+-->
 
 ---
 

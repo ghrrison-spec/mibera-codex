@@ -18,9 +18,11 @@ Dominant colors: Black
 
 The Founders Mask is one of two custom masks worn by Jani (deepname99) at Token 2049 Singapore, a major crypto conference. In the Berachain and broader crypto community, founders often maintain pseudonymous identities, with masks serving as both practical anonymity tools and symbolic objects.
 
+<!-- justification
 ## Justification
 
 Only two masks in the entire 10,000-piece collection are directly tied to the founder. This is a piece of Mibera origin mythology made wearable.
+-->
 
 ---
 

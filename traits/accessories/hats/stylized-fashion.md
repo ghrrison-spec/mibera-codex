@@ -20,9 +20,11 @@ Dominant colors: Red Maroon
 
 Asymmetrical and avant-garde hats have a long history in high fashion, from the sculptural millinery of Philip Treacy to the deconstructed designs of Comme des Garcons. In the Chicago Detroit context, this kind of bold, fashion-forward headwear connects to the tradition of Black excellence in style — from the sharp dressing of Chicago's South Side to Detroit's legendary fashion sense.
 
+<!-- justification
 ## Justification
 
 Avant-garde fashion meets Chicago Detroit style — a maroon hat that says you came to the warehouse looking sharper than everyone else.
+-->
 
 ---
 

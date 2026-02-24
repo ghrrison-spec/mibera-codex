@@ -20,9 +20,11 @@ Dominant colors: Vibrant purple, yellow / gold, white.
 
 Henlo is a Berachain ecosystem project. This variant features the Henlo branding paired with an oversized gold chain and honeycomb charm, blending hip-hop jewelry culture with the Berachain honey motif.
 
+<!-- justification
 ## Justification
 
 The honeycomb chain on a Henlo tee fuses Berachain's honey theme with hip-hop's gold chain tradition. It is ecosystem merch that actually looks like something you would wear to a show.
+-->
 
 ---
 

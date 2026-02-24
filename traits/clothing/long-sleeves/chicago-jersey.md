@@ -19,12 +19,11 @@ Dominant colors: Vibrant red, black, white
 ## Cultural Context
 
 The Chicago Bulls-inspired basketball jersey connects to the city's dual cultural identity in the late 1980s and 1990s — Michael Jordan's Bulls dynasty and the house music revolution were simultaneous phenomena, both rooted in Chicago's South Side and both defining the decade. The #00 nods to the blank slate, the zeroed-out starting point.
-
-Era: 1980s-1990s
-
+<!-- justification
 ## Justification
 
 The Bulls dynasty and the house revolution were simultaneous Chicago phenomena. This jersey codes the city identity that gave the world both Jordan and Frankie Knuckles.
+-->
 
 ---
 

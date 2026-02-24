@@ -17,12 +17,11 @@ Line work of a dragon’s face, front-view.
 Dominant colors: Black.
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 The dragon rendered as a modern front-facing portrait rather than a traditional scroll painting -- it updates the Chinese ancestor lineage's most important mythological symbol for a contemporary visual language.
+-->
 
 ---
 

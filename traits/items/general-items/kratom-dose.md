@@ -18,9 +18,11 @@ Dominant colors: white, green
 
 Kratom is a Southeast Asian plant that acts as a stimulant at low doses and a sedative at high ones. It occupies a contested space between traditional medicine and modern drug culture, legal in some places and banned in others.
 
+<!-- justification
 ## Justification
 
 The grey-zone substance that governments can't agree on. Its presence here reflects the collection's interest in plants that defy clean legal categories.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: white, bright blue, black
 
 The syringe represents the harder edges of drug culture that rave scenes have always existed alongside. Its inclusion is an unflinching acknowledgment that the line between celebration and addiction is not always clear.
 
+<!-- justification
 ## Justification
 
 The collection draws no line between acceptable and unacceptable substances. The syringe sits here as an honest marker of where celebration and addiction blur.
+-->
 
 ---
 

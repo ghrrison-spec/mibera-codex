@@ -18,9 +18,11 @@ Dominant colors: Yellow, pink
 
 The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
+<!-- justification
 ## Justification
 
 Three colorways of the dancing bear earring because the Dead's visual language is that foundational to Mibera's counterculture roots. The pink scarf on this one adds a touch of extra flair.
+-->
 
 ---
 

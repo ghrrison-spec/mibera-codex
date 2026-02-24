@@ -18,13 +18,13 @@ Dominant colors: White
 
 ## Cultural Context
 
-Part of the kigurumi (着ぐるみ) series — character onesies from Japanese cosplay and Harajuku street fashion that became standard rave and festival wear for their playful anonymity. The polar bear variant's all-white palette stands out under UV light, connecting to the visual spectacle of the dancefloor. Bear form references Berachain's motif.
+Part of the kigurumi (着ぐるみ) series — character onesies from Japanese cosplay and Harajuku street fashion that became standard rave and festival wear for their playful anonymity. The polar bear variant references Berachain's bear motif.
 
-Era: 2000s-present (Japanese street fashion)
-
+<!-- justification
 ## Justification
 
-An all-white bear onesie that glows under UV light. The polar bear variant is the most visually dramatic of the kigurumi set and the most literal bear-themed item on a bear-themed chain.
+The most literal bear-themed item on a bear-themed chain — a polar bear onesie from the kigurumi series.
+-->
 
 ---
 

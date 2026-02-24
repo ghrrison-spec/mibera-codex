@@ -17,9 +17,11 @@ Dominant colors: Vibrant blue, white
 
 Henlo is a community project in the Berachain ecosystem. This variant of the Henlo tee features a more relaxed, casual design compared to the jersey and chain versions, emphasizing the comfortable, accessible side of the brand.
 
+<!-- justification
 ## Justification
 
 A laid-back Henlo tee for the Berachain community member who prefers comfort over flex. The ecosystem needs both its jerseys and its comfy tees.
+-->
 
 ---
 

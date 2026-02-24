@@ -18,9 +18,11 @@ Dominant colors: white, deep purple.
 
 A sheet of LSD blotter paper contains dozens of individual doses, often printed with distinctive artwork that becomes a signature of the chemist or distributor. Blotter art is its own underground art form, combining psychedelic aesthetics with functional drug delivery.
 
+<!-- justification
 ## Justification
 
 Where chemistry becomes art. Blotter paper is a drug delivery system that doubles as a canvas, and that duality is very Mibera.
+-->
 
 ---
 

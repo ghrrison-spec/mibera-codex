@@ -18,9 +18,11 @@ Dominant colors: teal, green
 
 Custom-colored bongs reflect the glass art movement that turned drug paraphernalia into collectible art objects. The craft and creativity involved mirror the DIY ethos of rave culture itself.
 
+<!-- justification
 ## Justification
 
 The second-highest swag-score bong in the four-variant set. Its teal-green coloring gives it a distinct visual identity while reinforcing the paraphernalia-as-art-object thread.
+-->
 
 ---
 

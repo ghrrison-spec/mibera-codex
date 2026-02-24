@@ -22,9 +22,11 @@ Nirvana
 
 Nirvana is an American grunge band from Aberdeen, WA, who has had a huge impact in the music and scene culture. They’re also heavily tied to drugs such as cocaine.
 
+<!-- justification
 ## Justification
 
 Nirvana's smiley logo is one of the most bootlegged images in music history. Grunge and rave were parallel 1990s youth movements, and both drew from the same well of alienation, drugs, and the desire to feel something real.
+-->
 
 ---
 

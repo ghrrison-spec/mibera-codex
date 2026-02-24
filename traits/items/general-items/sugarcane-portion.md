@@ -18,9 +18,11 @@ Dominant colors: green
 
 Sugarcane has been fermented into alcohol across tropical regions for thousands of years, producing everything from rum to cachaca. It connects to the deep history of communal drinking rituals that preceded modern rave culture by millennia.
 
+<!-- justification
 ## Justification
 
 The raw ingredient behind rum, cachaca, and millennia of tropical fermentation. It connects the modern bar menu to its agricultural origin. Paired with the Hindu ancestor lineage.
+-->
 
 ---
 

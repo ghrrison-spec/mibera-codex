@@ -20,9 +20,11 @@ Dominant colors: Vibrant blue, white.
 
 The reference was taken directly from an article by #312Soul about House Music History in Chicago between 1984 - 1990. The era cemented Chicago as house music’s birthplace, transforming it from a local underground phenomenon into a cornerstone of electronic dance music.
 
+<!-- justification
 ## Justification
 
-Sourced from a photo in a Chicago house music history article, this suit captures the dressed-up elegance that early house culture inherited from disco. The dancefloor was a place you dressed for.
+Sourced from a photo in a Chicago house music history article, this suit captures the dressed-up elegance that early house culture inherited from disco.
+-->
 
 ---
 

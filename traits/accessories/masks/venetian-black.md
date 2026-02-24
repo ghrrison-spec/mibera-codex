@@ -20,9 +20,11 @@ Dominant colors: Black.
 
 The Moretta mask, is a traditional Venetian mask historically reserved for women, popular in 18th-century Venice. Made of black velvet and round in shape, also known as the "muta," it fully conceals the wearer’s face, symbolizing seduction and mystery. Held in place by a button bitten by the teeth, it silenced the wearer, adding to its enigmatic allure, and is showcased by Ca’ Macana as an authentic paper-mâché carnival mask.
 
+<!-- justification
 ## Justification
 
 The Moretta mask silenced its wearer by design, and there is something poetic about that in a collection built on crypto pseudonymity. You participate without revealing yourself. The mask is the message.
+-->
 
 ---
 

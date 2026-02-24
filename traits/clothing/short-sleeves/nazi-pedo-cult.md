@@ -20,9 +20,11 @@ Dominant colors: Black, red
 
 The phrase Nazi Pedo Cult was used as a disparaging label against the Milady Maker community during the 2022 controversy surrounding Charlotte Fang and Remilia Corporation. The community subsequently reclaimed the phrase as ironic merch, turning an attack into an in-group signifier in the post-ironic tradition.
 
+<!-- justification
 ## Justification
 
 The community took the worst thing anyone ever called them and printed it on a shirt. Reclaiming hostile labels as ironic merchandise is exactly how post-ironic internet culture operates.
+-->
 
 ---
 

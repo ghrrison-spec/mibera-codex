@@ -18,9 +18,11 @@ Dominant colors: Stone grey, beige, bright orange
 
 Where Beras hibernate, dream, and transform. Connects the bear identity to the prehistoric caves where early humans gathered and made art.
 
+<!-- justification
 ## Justification
 
 The bear cave connects the Berachain bear identity to the primordial act of hibernation, dreaming, and emergence.
+-->
 
 ---
 

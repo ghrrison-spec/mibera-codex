@@ -18,9 +18,11 @@ Dominant colors: Brown.
 
 Ski masks (balaclavas) have a long history in both utilitarian and countercultural contexts, from military use to hip-hop culture to UK drill music. In the Berachain ecosystem, the bear-eared ski mask became a recognizable community symbol, merging crypto pseudonymity with the visual language of underground music scenes.
 
+<!-- justification
 ## Justification
 
 A bear-eared balaclava is peak Berachain energy: anonymous, slightly menacing, unmistakably part of the community. The crypto-native equivalent of a scene uniform.
+-->
 
 ---
 

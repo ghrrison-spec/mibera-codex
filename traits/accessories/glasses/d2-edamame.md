@@ -18,9 +18,11 @@ aviator style glasses with light green framing and black lenses.
 
 The D2 Edamame glasses reference Dsquared2 (D2), the luxury fashion house founded by Canadian twin brothers Dean and Dan Caten in 1995. Their aviator designs are known for bold color choices and playful details. The edamame green tint nods to the Japanese influence pervasive in streetwear and high fashion crossover.
 
+<!-- justification
 ## Justification
 
 High fashion meets internet-age irony. Naming luxury aviators after a soybean snack is exactly the kind of absurdist branding the Mibera universe runs on.
+-->
 
 ---
 

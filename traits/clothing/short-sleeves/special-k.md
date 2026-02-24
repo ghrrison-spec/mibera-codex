@@ -20,9 +20,11 @@ Dominant colors: White, red.
 
 Special K is widely recognized slang for ketamine, a dissociative anesthetic that became prevalent in rave and club culture from the 1990s onward. The design mimics the Kelloggs Special K cereal branding, a visual pun that has circulated as bootleg merch in rave communities for decades.
 
+<!-- justification
 ## Justification
 
 The Special K cereal logo as ketamine merch is one of the oldest visual puns in rave culture. People actually wore these shirts to clubs, and the bouncers always got the joke.
+-->
 
 ---
 

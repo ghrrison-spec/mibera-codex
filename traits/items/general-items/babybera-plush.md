@@ -16,9 +16,11 @@ a plushie of a grey bear with content expression, small pink round blushes
 
 Babybera is a project within the Berachain ecosystem. Its plush representation follows the collection's pattern of rendering ecosystem partners as physical toy-like objects, grounding digital projects in tangible form.
 
+<!-- justification
 ## Justification
 
-Ecosystem partner rendered as a tactile object. The plush format turns a digital project into something you could hand to a child.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

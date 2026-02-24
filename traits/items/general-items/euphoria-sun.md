@@ -16,9 +16,11 @@ a glowing ball in shades of yellow, radiating an aura of heat or some sort.
 
 Tengriism, the traditional spiritual practice of Mongolian and Central Asian nomadic peoples, centers on the Eternal Blue Sky (Tengri) and the sun as sources of divine energy. The sun held deep significance as a life-giving force in steppe cultures. In the context of the collection, the euphoria sun evokes both this ancient solar reverence and the intense sensory peaks of electronic music culture.
 
+<!-- justification
 ## Justification
 
 A visual glyph for the peak moment — the point where the set, the substance, and the crowd all lock in. Tied to the Mongolian ancestor through Tengriist solar reverence.
+-->
 
 ---
 

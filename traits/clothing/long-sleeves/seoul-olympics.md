@@ -20,9 +20,11 @@ Dominant colors: Black, bright yellow.
 
 The most direct link between the Olympics and rave culture was the KunstDisco Seoul, a temporary “art disco” venue organized by West Germany as a cultural pavilion during the Games. Running for the full 16 days in a custom-built space near the Olympic Village, it was a hybrid of gallery, concert hall, and nightclub and essentially became an early prototype for the rave format.
 
+<!-- justification
 ## Justification
 
-The 1988 Seoul Olympics hosted KunstDisco, an early prototype of the rave format. This shirt marks the exact moment when the dancefloor went international under an official banner.
+The 1988 Seoul Olympics hosted KunstDisco, an early prototype of the rave format. 
+-->
 
 ---
 

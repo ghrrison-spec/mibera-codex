@@ -20,9 +20,11 @@ Dominant colors: Black, silver / light grey.
 
 The kaftan is a traditional loose-fitting garment worn across North Africa, the Middle East, and Central Asia for centuries. The star and crescent moon motif is associated with Islamic culture and has been used as a decorative element on textiles across the Muslim world. In Detroit, the large Arab-American community (centered in Dearborn) brought these garments into the city's cultural fabric.
 
+<!-- justification
 ## Justification
 
 Detroit has one of the largest Arab-American communities in the US, and the kaftan connects the city's cultural diversity to its musical heritage. The star and moon motifs link Middle Eastern textile tradition to the Chicago Detroit archetype.
+-->
 
 ---
 

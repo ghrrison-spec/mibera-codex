@@ -18,9 +18,11 @@ Dominant colors: white, black
 
 A panda variant of the Berachain bear plushie lineup. Panda bears, while not true bears taxonomically in older classifications, are confirmed members of the bear family and fit the collection's bear-centric branding.
 
+<!-- justification
 ## Justification
 
 Expands the bear plushie lineup across real-world species, giving visual variety to the ecosystem mascot set.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: clear white
 
 Babybera is a Berachain ecosystem project. The glass pipe is a standard cannabis smoking device, and "yeet" is internet slang for throwing something with force. The item merges crypto community vernacular with physical drug culture.
 
+<!-- justification
 ## Justification
 
-Bridges Berachain ecosystem branding with drug paraphernalia. "Yeet pipe" fuses internet slang with physical substance culture in a single object.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

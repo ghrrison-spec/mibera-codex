@@ -20,9 +20,11 @@ Dominant colors: Yellow, rainbow.
 
 Tie-dye is the oldest continuous psychedelic fashion tradition, originating in 1960s San Francisco counterculture and persisting through every subsequent wave of psychedelic culture. The technique became synonymous with the Grateful Dead scene and was later adopted by rave culture in the 1990s.
 
+<!-- justification
 ## Justification
 
 Tie-dye with the Mibera smiley logo is the collection's most direct connection to 1960s psychedelic fashion. The technique has survived every generation of counterculture because it still looks like what the music sounds like.
+-->
 
 ---
 

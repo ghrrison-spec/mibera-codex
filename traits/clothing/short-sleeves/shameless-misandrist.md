@@ -20,9 +20,11 @@ Dominant colors: Pink, blood-red
 
 The piece was made by Ollie Henderson mentioned in an article he wrote himself about it called heapsgay.com. The article argues that misandry (hatred of men) and misogyny (hatred of women) are not equivalents due to systemic power imbalances: misogyny reinforces women's oppression, while misandry is a powerless, reactive pushback lacking institutional harm.
 
+<!-- justification
 ## Justification
 
 This is a real piece by Ollie Henderson, sourced from heapsgay.com. The collection documents real activist fashion from real scenes, and this shirt represents the feminist strain of the Australian queer rave community.
+-->
 
 ---
 

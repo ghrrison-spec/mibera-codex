@@ -18,9 +18,11 @@ Dominant colors: Black
 
 Industrial piercings gained popularity in the late 20th century within punk and alternative subcultures, which share roots with rave culture’s emphasis on nonconformity and self-expression. In rave culture, body modifications like industrial piercings align with the scene’s DIY ethos and visual rebellion against mainstream norms.
 
+<!-- justification
 ## Justification
 
 The industrial piercing is punk's contribution to rave fashion -- a piece of metal through cartilage that says you're not here for the mainstream.
+-->
 
 ---
 

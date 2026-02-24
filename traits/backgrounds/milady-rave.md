@@ -18,9 +18,11 @@ Dominant colors: Light pale green, white.
 
 Direct reference to the Milady archetype. The doll-like figure and ethereal green atmosphere capture the clearpill aesthetic where internet culture meets physical rave spaces.
 
+<!-- justification
 ## Justification
 
 Direct visual representation of the Milady archetype's aesthetic environment.
+-->
 
 ---
 

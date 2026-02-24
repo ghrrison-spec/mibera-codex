@@ -17,12 +17,11 @@ What looks like a script; It is read: “ge’ez” meaning ‘love’ in ancien
 Dominant colors: Black
 
 ## Cultural Context
-
-Era: Ancient
-
+<!-- justification
 ## Justification
 
 Writing love in one of Africa's oldest scripts is a declaration of roots -- it anchors the Ethiopian ancestor lineage in a language that has carried sacred meaning for over two millennia.
+-->
 
 ---
 

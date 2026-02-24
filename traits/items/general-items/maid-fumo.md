@@ -18,9 +18,11 @@ Dominant colors: white, blonde, navy blue, red
 
 Fumo plush dolls originated from the Touhou Project fandom and became widely collected across otaku and online communities. They represent the soft, cute aesthetic that intersects with internet culture and the Milady archetype.
 
+<!-- justification
 ## Justification
 
 Touhou Project fumo doll tying the collection to otaku collectible culture and the plush-hoarding side of internet fandom.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: dark silver, yellow
 
 The triskelion is a three-armed spiral symbol found across Celtic, Greek, and Sicilian traditions, representing cycles of movement and progress. Its spiral form echoes the collection's recurring spiral motif and the Spiral Tribe lineage.
 
+<!-- justification
 ## Justification
 
 An ancient triple-spiral symbol that appears across Celtic, Greek, and Sicilian traditions. The spiral form directly echoes the Spiral Tribe lineage that runs through the collection's rave history.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: White.
 
 Plain white masks have been used in theater, protest, and performance art for centuries, from Japanese Noh drama to the Commedia dell'arte to contemporary street protest movements. The featureless white surface represents a blank slate, inviting projection and interpretation while concealing individual identity.
 
+<!-- justification
 ## Justification
 
 A white mask with nothing on it is the most democratic disguise available. No allegiance, no statement, no identity. Just presence.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: white, green
 
 The name is a pun on Leif Erikson, the Norse explorer who reached North America around 1000 CE. Renaming a potted plant after a Viking is the kind of low-effort wordplay that circulates in rave communities and internet culture alike. The item has no deeper pharmacological or historical significance; it is just a plant with a funny name.
 
+<!-- justification
 ## Justification
 
 Pure shitpost energy in plant form. Not every item needs deep lore; sometimes free party culture is just a dumb pun and a houseplant.
+-->
 
 ---
 

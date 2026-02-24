@@ -18,9 +18,11 @@ Dominant colors: green
 
 Arundo donax, or giant reed, contains trace amounts of DMT and related tryptamines. Some researchers have speculated it may have been used in ancient Mediterranean psychedelic preparations, though this remains debated.
 
+<!-- justification
 ## Justification
 
 A common Mediterranean reed hiding trace tryptamines represents the collection's theme that psychoactive chemistry is embedded in ordinary landscapes, waiting to be noticed.
+-->
 
 ---
 

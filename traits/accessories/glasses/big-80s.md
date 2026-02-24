@@ -18,9 +18,11 @@ big rounded 80s style glasses with black frames and dark brownish lenses.
 
 Oversized eyewear defined 1980s fashion, popularized by figures like Run-DMC, Grace Jones, and the new wave scene. In Chicago and Detroit, the style overlapped with the birth of house and techno, where DJs and clubgoers embraced bold, expressive accessories.
 
+<!-- justification
 ## Justification
 
 The 1980s were the exact years house music was born in Chicago and techno in Detroit. These glasses place you in the room where it happened.
+-->
 
 ---
 

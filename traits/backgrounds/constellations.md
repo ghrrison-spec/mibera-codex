@@ -18,9 +18,11 @@ Dominant colors: dark blue, pink, white
 
 Depicts Ursa Major and Ursa Minor — the Great Bear and Little Bear constellations. The bear connection ties directly to Berachain's identity.
 
+<!-- justification
 ## Justification
 
 Bear constellations as celestial backdrop — connecting the astrological layer to Berachain's bear identity.
+-->
 
 ---
 

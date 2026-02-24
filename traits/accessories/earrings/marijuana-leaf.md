@@ -18,9 +18,11 @@ Dominant colors: Green
 
 Marijuana leaf is the distinctive, serrated, palmate leaf of the cannabis plant, typically with 5-7 leaflets. Heavily associated with Bong Bear, the genesis project of the Berachain ecosystem.
 
+<!-- justification
 ## Justification
 
 The cannabis leaf connects directly to Bong Bear, the genesis NFT project of the Berachain ecosystem -- making this earring both a drug culture staple and a piece of bera origin lore.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: black, navy blue
 
 Puffpaw is a vaping-related project within the Berachain ecosystem. The "Smokey" variant features a man with a bear head, blending human and ursine imagery consistent with the broader Berachain visual language.
 
+<!-- justification
 ## Justification
 
 Bear-headed character on a vape device. One of three Puffpaw variants, representing different community identities on the same product format.
+-->
 
 ---
 

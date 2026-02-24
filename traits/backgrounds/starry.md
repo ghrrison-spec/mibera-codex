@@ -18,9 +18,11 @@ Dominant colors: Black, white.
 
 The night sky is the backdrop for outdoor raves and free parties — Freetekno teknivals under the stars.
 
+<!-- justification
 ## Justification
 
 The night sky is the natural backdrop for outdoor free parties — freetekno's defining environment.
+-->
 
 ---
 

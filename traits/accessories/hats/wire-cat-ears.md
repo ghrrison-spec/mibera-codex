@@ -20,9 +20,11 @@ Dominant colors: Purple, pink
 
 Wired cat ears; are popular accessories at raves and music festivals, complementing the vibrant, expressive fashion of the scene.
 
+<!-- justification
 ## Justification
 
 LED wire cat ears are the neon-lit upgrade to the classic cat ear headband — a rave accessory that glows in the dark and says you came to the festival fully equipped.
+-->
 
 ---
 

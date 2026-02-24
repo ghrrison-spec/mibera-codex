@@ -18,9 +18,11 @@ Dominant colors: red orange-ish, green, dark red /.brown
 
 Coffee is the world's most popular psychoactive substance, a legal stimulant that fuels productivity in ways that parallel the stimulants used at raves. Its inclusion is a reminder that the line between "drug" and "beverage" is culturally drawn, not pharmacologically.
 
+<!-- justification
 ## Justification
 
 Blurs the line between "drug" and "daily ritual," reminding that the world's most consumed stimulant is still a psychoactive substance.
+-->
 
 ---
 

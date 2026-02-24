@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Part of the Milady Rave souvenir tee series. Milady Sonora is a specific character or figure within the Milady Maker universe. The confessional format -- I held hands with Milady Sonora at the rave -- treats the Milady characters as real people you might meet on the dancefloor.
 
+<!-- justification
 ## Justification
 
 Holding hands with a specific Milady character at a rave. This shirt treats NFT avatars as real presences in physical space, which is exactly what the community believes.
+-->
 
 ---
 

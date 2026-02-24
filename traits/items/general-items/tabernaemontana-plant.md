@@ -18,9 +18,11 @@ Dominant colors: white, green
 
 Tabernaemontana species are related to iboga and contain alkaloids used in traditional medicine across tropical regions. They represent the lesser-known branches of psychoactive botany that the collection deliberately highlights.
 
+<!-- justification
 ## Justification
 
 Most people know iboga; almost nobody knows its botanical relatives. The collection goes deep on the pharmacological family tree, not just the famous members.
+-->
 
 ---
 

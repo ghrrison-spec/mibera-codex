@@ -20,9 +20,11 @@ Dominant colors: Bone white
 
 In free party and sound system culture, minor injuries are a badge of honor from building rigs, hauling speakers, and setting up in abandoned buildings or open fields. The DIY ethos of freetekno means participants are often their own medics, patching up cuts and scrapes with whatever is on hand before getting back to work.
 
+<!-- justification
 ## Justification
 
 Multiple bandages on the face say you were building something, not just attending. In the Freetekno archetype, it marks the difference between a raver and a rigger.
+-->
 
 ---
 

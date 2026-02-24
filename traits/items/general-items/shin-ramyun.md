@@ -18,9 +18,11 @@ Dominant colors: red, black
 
 Shin Ramyun is a spicy Korean instant noodle that became a global comfort food icon. It connects to the late-night eating culture that goes hand in hand with raving and the broader East Asian cultural influences in the collection.
 
+<!-- justification
 ## Justification
 
 Cheap, spicy, and available at 4 AM. The global instant noodle that fuels post-rave recovery.
+-->
 
 ---
 

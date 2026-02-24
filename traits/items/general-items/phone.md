@@ -18,9 +18,11 @@ Dominant colors: black, light grey, green
 
 The smartphone changed how rave culture operates, replacing flyers and phone trees with social media and encrypted group chats. It is both the tool that makes modern underground events possible and the surveillance device that threatens the anonymity raves once relied on.
 
+<!-- justification
 ## Justification
 
 Displays "mibera" on screen, making it an in-universe communication device. The tension between organizing underground events and carrying a surveillance tool is built into the object.
+-->
 
 ---
 

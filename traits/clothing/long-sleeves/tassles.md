@@ -19,12 +19,11 @@ Dominant colors: Light beige, red, brown.
 ## Cultural Context
 
 Traditional Mongolian ceremonial dress (deel) often features ornamental tassels and fringe work, particularly in shamanic ritual garments. These tassels serve both decorative and spiritual purposes in Mongolian nomadic culture — believed to ward off evil spirits and mark the wearer's status. The Mongol shamanic tradition, with its drum-driven trance ceremonies, represents one of the oldest forms of rhythmic spiritual practice, predating electronic music's use of repetitive beats by millennia.
-
-Era: Ancient (Mongolian nomadic tradition)
-
+<!-- justification
 ## Justification
 
 Mongolian shamanic dress with its rhythmic tassels represents one of the oldest forms of beat-driven spiritual practice. The trance ceremonies of Central Asian shamanism predate electronic music by thousands of years.
+-->
 
 ---
 

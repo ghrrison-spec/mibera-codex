@@ -18,9 +18,11 @@ Dominant colors: dark brown, black, white
 
 THC (tetrahydrocannabinol) is the primary psychoactive compound in cannabis. The bear wearing a flower necklace and oversized tee in a relaxed pose visually represents stoner culture merged with the Berachain bear identity.
 
+<!-- justification
 ## Justification
 
 Cannabis culture merged with the Berachain bear identity. The flower necklace and sunglasses are stoner visual shorthand — the bear is vibing.
+-->
 
 ---
 

@@ -22,9 +22,11 @@ Silk Road, Ross Ulbricht.
 
 Honey Road is heavily inspired by Silk Road and is the official website for Miberamaker333.
 
+<!-- justification
 ## Justification
 
 Honey Road is the official Mibera marketplace, directly inspired by the Silk Road. This shirt is the project wearing its own brand -- the most self-referential item in the collection.
+-->
 
 ---
 

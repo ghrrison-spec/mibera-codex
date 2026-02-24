@@ -20,9 +20,11 @@ Dominant colors: Black
 
 The clothing piece is directly referenced from a header photo in an article by CDM about the emergence of Detroit Techno, told by Wax Poetics. The image used is of Derrick May in the Michigan Theatre parking garage, 1988, taken by Bart Everly.
 
+<!-- justification
 ## Justification
 
 Directly referenced from a photo of Derrick May in a Detroit parking garage in 1988, this is the uniform of techno's founding moment. You cannot tell the story of electronic music without this shirt.
+-->
 
 ---
 

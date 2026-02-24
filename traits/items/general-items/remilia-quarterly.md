@@ -18,9 +18,11 @@ Dominant colors: green, yellow, black
 
 Remilia Quarterly is a publication from the Remilia ecosystem. Holding a magazine as a rave accessory blurs the line between media, brand, and personal expression.
 
+<!-- justification
 ## Justification
 
 It is the Remilia ecosystem's own publication
+-->
 
 ---
 

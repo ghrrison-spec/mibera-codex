@@ -18,9 +18,11 @@ Dominant colors: Pink
 
 In the 2000s, cute spiky earrings were a staple in rave culture, reflecting its bold, rebellious aesthetic. Popularized in the late '90s and early 2000s club scenes, these edgy accessories are often seen in the DIY nature of fashion of the ravers.
 
+<!-- justification
 ## Justification
 
 Spiky accessories are rave culture's version of wearable attitude -- cute enough to be playful, sharp enough to say you belong on the dancefloor at 3am.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: creamy white, light brown
 
 Golden Teacher is one of the most popular and widely cultivated strains of psilocybin mushrooms, known for producing introspective, visually rich experiences. Its name reflects the widespread belief that psilocybin mushrooms teach rather than merely intoxicate.
 
+<!-- justification
 ## Justification
 
 The name itself encodes the psychedelic community's central claim: that these substances are teachers, not just drugs. That philosophy is core to the collection.
+-->
 
 ---
 

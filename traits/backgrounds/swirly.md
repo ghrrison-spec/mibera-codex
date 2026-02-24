@@ -18,9 +18,11 @@ Dominant colors: Black, neon green, red
 
 Psychedelic visual pattern — closed-eye visuals, synesthesia. Acidhouse archetype.
 
+<!-- justification
 ## Justification
 
 Psychedelic visual patterns connect to the drug-molecule dimension — closed-eye visuals and synesthesia as artistic reference.
+-->
 
 ---
 

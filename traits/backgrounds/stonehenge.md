@@ -20,9 +20,11 @@ The Stonehenge, a prehistoric monument in Wiltshire, England, built between 3000
 
 Stonehenge was the site of the legendary free festivals of the 1970s-80s, culminating in the 1985 Battle of the Beanfield when police violently dispersed the Peace Convoy -- a foundational moment in freetekno history. The solstice gatherings there represent the ancient roots of communal celebration that rave culture inherits.
 
+<!-- justification
 ## Justification
 
 Stonehenge connects to ancient ceremonial practices and the free festival movement that gave birth to freetekno culture.
+-->
 
 ---
 

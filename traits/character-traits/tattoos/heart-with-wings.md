@@ -17,12 +17,11 @@ Heart with a crescent moon facing upwards and a star on top of it, and a pair of
 Dominant colors: Black.
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 The official emblem of universal Sufism -- it carries the Sufi ancestor lineage through a symbol that merges mysticism with visual elegance.
+-->
 
 ---
 

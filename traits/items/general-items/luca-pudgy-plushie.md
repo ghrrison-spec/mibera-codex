@@ -18,9 +18,11 @@ Dominant colors: yellow, orange, red, white, blue
 
 Luca is a character from the Pudgy Penguins NFT collection, which expanded into physical plush toys. This item represents cross-community ties between the Pudgy Penguins and Berachain ecosystems.
 
+<!-- justification
 ## Justification
 
 Cross-collection NFT reference from Pudgy Penguins. Part of the collection's practice of embedding other communities as physical artifacts.
+-->
 
 ---
 

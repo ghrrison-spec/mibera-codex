@@ -20,9 +20,11 @@ Dominant colors: Black
 
 Sufis are practitioners of Sufism, a mystical Islamic tradition seeking spiritual closeness to God through practices like meditation, chanting (dhikr), poetry, and music, emphasizing love and inner purification, found worldwide, especially in South Asia, the Middle East, and North Africa.
 
+<!-- justification
 ## Justification
 
 Sufi whirling is arguably the oldest form of trance dance on earth. The connection between spinning dervishes and spinning DJs is not a metaphor -- both use repetitive motion and sound to dissolve the ego.
+-->
 
 ---
 

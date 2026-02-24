@@ -18,9 +18,11 @@ Dominant colors: yellow, black.
 
 A yellow box branded "Mibera Mate BLOCK," referencing yerba mate, a caffeinated beverage widely consumed in South America. Yerba mate is a mild stimulant containing caffeine, theobromine, and theophylline. The "BLOCK" text may reference blockchain terminology, layering crypto vocabulary onto a traditional drink.
 
+<!-- justification
 ## Justification
 
 Project-branded yerba mate with a "BLOCK" pun, layering crypto slang onto a South American stimulant tradition.
+-->
 
 ---
 

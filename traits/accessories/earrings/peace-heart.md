@@ -18,9 +18,11 @@ Dominant colors: Red
 
 Heart-and-peace-sign combo. Standard PLUR iconography — shows up on kandi, flyers, and rave jewelry since the early 90s.
 
+<!-- justification
 ## Justification
 
 PLUR -- Peace, Love, Unity, Respect -- is the rave scene's founding ethos, and this heart-meets-peace-sign earring is its most compact visual expression.
+-->
 
 ---
 

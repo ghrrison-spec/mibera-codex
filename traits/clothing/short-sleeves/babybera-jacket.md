@@ -14,9 +14,11 @@ date_added: null
 
 Baby Bera is a Berachain-native artist and DJ who has been active across the ecosystem's real-life events and digital culture. This variant of the Baby Bera merch exists as a short-sleeves piece distinct from the long-sleeves bomber jacket.
 
+<!-- justification
 ## Justification
 
-A second Baby Bera piece in the collection reflects the artist's outsized presence in the Berachain community. Multiple merch variants for key ecosystem figures is standard practice in NFT collections.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

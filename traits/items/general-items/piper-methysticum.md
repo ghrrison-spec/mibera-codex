@@ -18,9 +18,11 @@ Dominant colors: green
 
 Piper methysticum is the kava plant, used across the Pacific Islands for centuries in social and ceremonial drinking rituals. Its calming, euphoric effects make it a communal intoxicant built around shared stillness rather than the stimulant-driven movement of rave culture.
 
+<!-- justification
 ## Justification
 
 Kava represents a different model of communal intoxication: stillness instead of movement, calm instead of stimulation, offering a counterpoint to the rave's frenetic energy.
+-->
 
 ---
 

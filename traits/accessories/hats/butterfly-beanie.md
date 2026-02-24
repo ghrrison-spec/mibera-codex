@@ -20,9 +20,11 @@ Dominant colors: Black, silver
 
 The butterfly has been a recurring motif in rave and electronic music culture, symbolizing transformation, ephemerality, and the psychedelic experience. In fashion, butterfly accessories became especially prominent in late 1990s and Y2K aesthetics, and experienced a revival in both Milady-adjacent internet culture and contemporary streetwear.
 
+<!-- justification
 ## Justification
 
 The butterfly is a symbol of transformation that keeps coming back — on a black beanie with a silver plate, it hits that sweet spot between rave nostalgia and dark fashion.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Red, white.
 
 Crude slogan hats are a staple of internet humor and provocative streetwear, part of a tradition of shock-value fashion that runs from punk through to modern meme culture. The bold, declarative format on a baseball cap follows the template of trucker hats bearing provocative or absurd statements.
 
+<!-- justification
 ## Justification
 
 Sometimes a hat just says what it says — bold, crude, unapologetic, and exactly the kind of energy that shows up in a collection about counterculture.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: white, red
 
 The whistle is one of the most recognizable accessories of early 1990s rave culture, blown in unison by crowds at the peak of a set. It turned individual dancers into a collective instrument.
 
+<!-- justification
 ## Justification
 
 When a crowd blows whistles in unison at the peak of a set, individual dancers become a collective instrument. It is participation as performance.
+-->
 
 ---
 

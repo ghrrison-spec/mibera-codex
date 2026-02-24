@@ -18,9 +18,11 @@ Glow glasses mainly in magenta, with yellow parts on its bridge and temples.
 
 LED and EL-wire glow accessories became synonymous with 1990s rave culture, where dancers wore luminescent gear to enhance the sensory experience under strobe lights and UV. Glow sticks, glow glasses, and light-up jewelry were staples at warehouse parties across Chicago, Detroit, and the UK.
 
+<!-- justification
 ## Justification
 
 Magenta sits between pink and purple, neither one nor the other. At a rave, ambiguity is the point. You are not here to be categorized.
+-->
 
 ---
 

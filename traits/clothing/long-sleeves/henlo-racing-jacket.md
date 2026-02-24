@@ -16,12 +16,11 @@ Dominant colors: Vibrant blue, black, white.
 ## Cultural Context
 
 Henlo is a project within the Berachain ecosystem. The racing jacket format references motorsport-inspired fashion that has cycled through rave and streetwear culture since the 1990s — when Formula 1 and NASCAR sponsor jackets were adopted by the underground as ironic status symbols. The checkered flag pattern doubles as a visual nod to ska and two-tone culture.
-
-Era: Contemporary (Berachain ecosystem)
-
+<!-- justification
 ## Justification
 
 Another Henlo ecosystem piece, this time in the racing jacket format that has cycled through rave and streetwear since the 1990s. Sponsor jackets were always ironic status symbols in the underground.
+-->
 
 ---
 

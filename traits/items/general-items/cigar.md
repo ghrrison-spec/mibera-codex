@@ -16,9 +16,11 @@ a brown lighted-up cigar.
 
 The cigar carries associations of celebration, power, and old-world indulgence that contrast with the DIY ethos of rave culture. It represents the establishment's recreational drug of choice sitting next to the counterculture's.
 
+<!-- justification
 ## Justification
 
 The establishment's vice sitting next to the counterculture's. The collection doesn't pick sides in the drug hierarchy — it documents the full range.
+-->
 
 ---
 

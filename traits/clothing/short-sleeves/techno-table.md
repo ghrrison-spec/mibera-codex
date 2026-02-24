@@ -20,9 +20,11 @@ Dominant colors: White, blue.
 
 Periodic Table of Elements used to spell the word ‘Techno’
 
+<!-- justification
 ## Justification
 
 Spelling TECHNO with periodic table elements is the nerd version of a band tee. It captures the science-meets-dancefloor energy that has always been part of electronic music's appeal to technically-minded people.
+-->
 
 ---
 

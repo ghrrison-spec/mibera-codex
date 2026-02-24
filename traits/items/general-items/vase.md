@@ -18,9 +18,11 @@ Dominant colors: dark navy blue, black
 
 A simple asymmetrical vase in dark tones. Decorative vessels have appeared across virtually every human culture, making this one of the collection's most universal and least specific items.
 
+<!-- justification
 ## Justification
 
 A generic decorative object with no specific cultural lineage. One of the collection's most universal and least loaded items — sometimes a vase is just a vase.
+-->
 
 ---
 

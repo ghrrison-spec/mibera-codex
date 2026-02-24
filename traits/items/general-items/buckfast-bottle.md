@@ -18,9 +18,11 @@ Dominant colors: green, yellow
 
 Buckfast Tonic Wine, brewed by Benedictine monks in Devon, became the drink of choice for Scottish youth and party culture. Its potent mix of alcohol and caffeine earned it a reputation as both a beloved institution and a social menace.
 
+<!-- justification
 ## Justification
 
 Monk-brewed caffeinated wine that became the fuel of Scottish youth culture. Ties the collection's substance theme to a specific regional drinking tradition you either know or you don't.
+-->
 
 ---
 

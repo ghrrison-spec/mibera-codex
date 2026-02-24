@@ -18,9 +18,11 @@ Dominant colors: dirty white, grey / brownish.
 
 Spodumene is a pyroxene mineral and one of the primary commercial sources of lithium. Lithium carbonate, derived from minerals like spodumene, has been used since the 1940s as a mood stabilizer for bipolar disorder, making it one of the oldest and most important psychiatric medications. The mineral's association with the Irish Druids ancestor ties it to a tradition in which stones and earth materials were believed to carry healing or spiritual properties.
 
+<!-- justification
 ## Justification
 
 A raw mineral that yields lithium — the oldest psychiatric medication — represents the idea that altering consciousness through chemistry starts in the earth itself.
+-->
 
 ---
 

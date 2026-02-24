@@ -20,9 +20,11 @@ Dominant colors: Black.
 
 Cyberphunk, Tim May (?).
 
+<!-- justification
 ## Justification
 
 A velvet mask is anonymity with texture. The cypherpunk connection makes it about more than aesthetics: it is privacy as a material, something you can feel as well as practice.
+-->
 
 ---
 

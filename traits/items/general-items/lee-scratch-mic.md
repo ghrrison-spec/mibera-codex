@@ -18,9 +18,11 @@ Dominant colors: black, green, yellow
 
 Lee "Scratch" Perry was a Jamaican producer and pioneer of dub and reggae who influenced virtually every genre of electronic music that followed. His experimental studio techniques and willingness to destroy conventions prefigured the DJ and producer culture at the heart of raving.
 
+<!-- justification
 ## Justification
 
 A direct homage to the godfather of dub. Without Lee "Scratch" Perry's studio experiments in Jamaica, the production techniques that built house and techno would not exist.
+-->
 
 ---
 

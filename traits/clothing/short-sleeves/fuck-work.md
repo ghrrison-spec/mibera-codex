@@ -20,9 +20,11 @@ Dominant colors: Black, white
 
 Anti-work sentiment has deep roots in counterculture, from the Situationist International's critique of commodity society to punk's rejection of the 9-to-5 grind. The slogan captures a feeling shared across rave, crypto, and internet culture.
 
+<!-- justification
 ## Justification
 
 Raves happen on weekends because the people at them have to work on Monday, and they resent it. This shirt says what everyone on the dancefloor is thinking.
+-->
 
 ---
 

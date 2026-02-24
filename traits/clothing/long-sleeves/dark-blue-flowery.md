@@ -19,12 +19,11 @@ Dominant colors: Dark navy blue, creamy white.
 ## Cultural Context
 
 The darker companion to the Light Blue Flowery — this navy lace dress with its prominent bow and floral detailing draws from the Gothic Lolita fashion subgenre that emerged in 1990s Harajuku, where Victorian silhouettes meet Japanese street style. The dark colorway produces an aesthetic of dark femininity that resonates with the Milady archetype's embrace of both elegance and edge.
-
-Era: 1990s-present (Gothic Lolita / Harajuku)
-
+<!-- justification
 ## Justification
 
 Gothic Lolita fashion is where Victorian elegance meets Harajuku edge. This dress represents the dark femininity that the Milady archetype channels, pulled straight from 1990s Harajuku.
+-->
 
 ---
 

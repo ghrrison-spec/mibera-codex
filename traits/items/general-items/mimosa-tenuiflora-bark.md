@@ -16,9 +16,11 @@ a short chunk of bark in pale terracotta.
 
 Mimosa tenuiflora, known as jurema, contains DMT and has been used in ceremonial contexts by Indigenous Brazilian peoples for centuries. Its bark is central to the jurema traditions of northeastern Brazil and has become a key plant in the modern psychedelic revival.
 
+<!-- justification
 ## Justification
 
 The Amazonian DMT source that connects Brazilian jurema ceremony to the global psychedelic thread running through the collection.
+-->
 
 ---
 

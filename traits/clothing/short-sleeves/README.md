@@ -161,6 +161,6 @@ Many shirts reference real movements, events, or figures:
 - [Pink Vest](pink-vest.md)
 - [Criminal Records Vest](criminal-records-vest.md)
 - [Overalls](overalls.md)
-- [Mother Shirt](mother-shirt.md)
+- [Mother](mother.md)
 - [Babybera Jacket](babybera-jacket.md)
 

@@ -20,9 +20,11 @@ Dominant colors: White, yellow, black
 
 Pacifiers (dummies) became iconic rave accessories in the late 1980s and 1990s, originally used by ravers taking MDMA to prevent teeth grinding (bruxism). They quickly became a fashion statement and symbol of rave culture's playful, infantile aesthetic. The Mibera-branded pacifier with its smiley bear logo merges this rave tradition with the collection's identity.
 
+<!-- justification
 ## Justification
 
 The rave pacifier is one of the most recognizable symbols of dance culture — this one has the Mibera smiley on it because of course it does.
+-->
 
 ---
 

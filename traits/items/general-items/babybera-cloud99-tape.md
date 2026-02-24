@@ -18,9 +18,11 @@ Dominant colors: babypink
 
 Cassette mixtapes were essential to the spread of house and techno in Chicago and Detroit during the 1980s and 1990s. DJs like Ron Hardy and the Belleville Three circulated recordings of live sets on tape, building audiences entirely through hand-to-hand distribution. The Babybera Cloud99 tape is a fictional label applied to this format, placing the collection's own identity into the mixtape lineage.
 
+<!-- justification
 ## Justification
 
-A Mibera-branded cassette places the collection directly into the mixtape lineage — the hand-to-hand network that built entire genres before anyone had a URL.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: light blue, black
 
 *Controlled Substances: A Chemical and Legal Guide to the Federal Drug Laws* by Alexander Shulgin and Tania Manning. Shulgin is the chemist who synthesized and self-tested over 200 psychoactive compounds, documenting them in PiHKAL and TiHKAL. This book catalogues the legal scheduling of drugs under US federal law — written by the same person who created many of the substances being scheduled.
 
+<!-- justification
 ## Justification
 
 Shulgin wrote the book on drug scheduling law — literally — after personally synthesizing many of the substances being scheduled. The irony is the point.
+-->
 
 ---
 

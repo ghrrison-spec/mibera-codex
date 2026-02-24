@@ -20,9 +20,11 @@ Augustus Owsley Stanley III, known as "Bear," was a key figure in the 1960s coun
 
 Owsley "Bear" Stanley is the ultimate ancestor figure for Mibera -- a chemist nicknamed "Bear" who produced the purest LSD of the 1960s, bankrolled the Grateful Dead, and designed their iconic dancing bear logo. His story directly fuses the bear identity, drug culture, and music history that are the three pillars of the Mibera universe.
 
+<!-- justification
 ## Justification
 
 Owsley Stanley's lab produced the LSD that fueled the Acid Tests and the entire West Coast psychedelic movement — a direct ancestor of acid house.
+-->
 
 ---
 

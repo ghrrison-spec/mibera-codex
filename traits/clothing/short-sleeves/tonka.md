@@ -20,9 +20,11 @@ Dominant colors: Creamy white, black, red
 
 Tonka Sound System is a legendary UK free party collective that was active from the late 1980s through the 1990s. Based in the Bristol area, Tonka helped define the UK free party scene alongside crews like Spiral Tribe, DiY, and Circus Warp. Their events were known for combining techno with dub and breakbeat in outdoor and warehouse settings.
 
+<!-- justification
 ## Justification
 
 Tonka Sound System is one of the foundational crews in UK free party history. This shirt is a direct artifact from the scene that defined the freetekno archetype.
+-->
 
 ---
 

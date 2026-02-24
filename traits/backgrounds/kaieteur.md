@@ -20,9 +20,11 @@ The Kaieteur Falls; a stunning single-drop waterfall, plunging 226 meters with a
 
 Deep in the Guyanese rainforest, connected to the El Dorado myth and South American shamanic plant traditions.
 
+<!-- justification
 ## Justification
 
 Kaieteur Falls connects to the South American landscape and the Amerindian ancestor lineages in the Mibera system.
+-->
 
 ---
 

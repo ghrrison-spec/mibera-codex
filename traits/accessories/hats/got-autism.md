@@ -20,9 +20,11 @@ Dominant colors: Navy blue, white
 
 The "Please be patient I have autism" hat is a widely recognized internet meme, originally based on real awareness merchandise that was adopted and remixed by online communities. The phrase became a staple of post-ironic internet humor, particularly in spaces adjacent to Milady and 4chan culture, where self-deprecating neurodivergent humor is common.
 
+<!-- justification
 ## Justification
 
 Self-referential internet humor at its finest — "mibera got autism" is the kind of self-aware shitpost that defines the community's sense of humor.
+-->
 
 ---
 

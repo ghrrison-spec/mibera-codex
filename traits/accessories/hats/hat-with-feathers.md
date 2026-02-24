@@ -20,9 +20,11 @@ Dominant colors: Brown, dirty white, light beige
 
 Mongolian shamanic rituals; that were being revived after being banned for 70 years under communist rule. Protected by Mongolia’s constitution since 1992, these ancient practices involve shamans (buu) performing ceremonies, such as a summer solstice ritual near Ulaanbaatar.
 
+<!-- justification
 ## Justification
 
 Mongolian shamanic headgear revived after 70 years of communist suppression — feathers and ceremony from the steppe, connecting ancient ritual practice to the acid house archetype's search for transcendence.
+-->
 
 ---
 

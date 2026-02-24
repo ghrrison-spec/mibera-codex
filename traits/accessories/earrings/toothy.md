@@ -18,9 +18,11 @@ Dominant colors: White
 
 In relation to Milady Maker figures in their community and culture.
 
+<!-- justification
 ## Justification
 
 A nod to Milady Maker artist Shiro's tooth fixation -- the kind of specific community inside joke that makes a generative collection feel alive.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: Silver / grey
 
 Industrial-scale production of synthetic substances — the scale-up from home lab to global supply chain.
 
+<!-- justification
 ## Justification
 
 Clandestine chemistry backgrounds represent the industrial-scale production side of the drug-molecule dimension.
+-->
 
 ---
 

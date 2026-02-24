@@ -17,9 +17,11 @@ Boyco, https://boyco.berachain.com/
 
 Core Berachain ecosystem protocol. Ecosystem partners embedded directly into the art layer.
 
+<!-- justification
 ## Justification
 
 Berachain ecosystem background — representing the on-chain community that Mibera exists within.
+-->
 
 ---
 

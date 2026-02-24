@@ -20,9 +20,11 @@ Dominant colors: White, grey
 
 Baby Bera is a Berachain ecosystem artist known for DJing at the chain's real-life events. The graphic tee with the eerie-smiling bear figure captures the artist's distinctive visual style.
 
+<!-- justification
 ## Justification
 
-Baby Bera is one of the most recognizable creative figures in the Berachain community. This tee immortalizes their signature bear character in the collection.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

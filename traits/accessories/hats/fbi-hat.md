@@ -20,9 +20,11 @@ Dominant colors: White, black, navy blue, yellow
 
 The FBI cap is an iconic piece of American law enforcement imagery, widely recognized from film, television, and news coverage of federal raids. In crypto and internet culture, the FBI carries particular significance due to operations like the Silk Road takedown, various exchange investigations, and the broader tension between state surveillance and digital privacy advocates. The blood splatters add an anarchic, defiant edge.
 
+<!-- justification
 ## Justification
 
 The bloodied FBI hat at swag score 5 — the highest possible — because nothing says counterculture like wearing the fed's hat like a trophy.
+-->
 
 ---
 

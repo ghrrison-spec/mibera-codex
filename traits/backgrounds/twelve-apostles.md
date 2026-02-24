@@ -18,9 +18,11 @@ Dominant colors: Blue, beige, white
 
 ‘Twelve Apostles’, limestone stacks off the shore of Port Campbell National Park in Victoria, Australia, along the Great Ocean Road. Despite the name, there were never twelve stacks. They were originally nine, with seven remaining after collapses in 2005 and 2009.
 
+<!-- justification
 ## Justification
 
 The Twelve Apostles connect to Australia's geographic and Aboriginal cultural landscape within the Mibera system.
+-->
 
 ---
 

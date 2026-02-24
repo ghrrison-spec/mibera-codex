@@ -20,9 +20,11 @@ Dominant colors: Black, grey
 
 Traditional Ethiopian headwear varies by region and ethnicity, with flat-topped caps being common across several Ethiopian cultures. The kofia-style flat hat has particular significance in Ethiopian Orthodox Christian communities, where headcoverings carry religious and cultural meaning. Ethiopia's long history as an independent African nation gives its traditional dress a unique significance in the broader African diaspora.
 
+<!-- justification
 ## Justification
 
 Ethiopian headwear represents one of Africa's oldest continuous cultures — a flat cap with deep roots, bringing East African tradition into the collection.
+-->
 
 ---
 

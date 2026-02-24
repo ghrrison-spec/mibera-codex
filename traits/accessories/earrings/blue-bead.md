@@ -18,9 +18,11 @@ Dominant colors: Blue / teal
 
 Mongolian nomadic culture — shamanism, throat singing (khoomii), equestrian traditions. Festivals like Kharkhorum Visual Art & Music Festival and Nomadic Beats blend electronic music with traditional elements, including horseback raves where participants enter venues on horses.
 
+<!-- justification
 ## Justification
 
 Beaded jewelry from Mongolian nomadic traditions meets the Chicago Detroit archetype -- a cultural crossover that reflects Mibera's ancestor system connecting global heritage to electronic music's roots.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: green, light yellow / white
 
 Henbane is a deliriant nightshade used by European witches, oracles, and healers for centuries. Some historians believe it was a key ingredient in the "flying ointments" of medieval witchcraft, connecting it to the occult threads that run through the collection.
 
+<!-- justification
 ## Justification
 
 Bridges the collection's pharmacological thread all the way back to medieval witchcraft and ancient oracles. The "flying ointment" ingredient.
+-->
 
 ---
 

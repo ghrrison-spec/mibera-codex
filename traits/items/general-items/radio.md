@@ -18,9 +18,11 @@ Dominant colors: grey, black
 
 Pirate radio stations were the lifeline of early rave culture in the UK, broadcasting illegal sets and event locations to listeners who could not find the scene any other way. The radio represents that whole history of unauthorized transmission.
 
+<!-- justification
 ## Justification
 
 The tool that made illegal raves findable — pirate radio as the original decentralized broadcast network.
+-->
 
 ---
 

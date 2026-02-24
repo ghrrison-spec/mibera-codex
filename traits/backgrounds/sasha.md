@@ -18,9 +18,11 @@ Dominant colors: Beige / brown.
 
 Alexander "Sasha" Shulgin was the legendary psychedelic chemist who synthesized and personally tested over 200 psychoactive compounds, documenting them in PiHKAL and TiHKAL. His home laboratory is where MDMA was re-popularized for therapeutic and recreational use -- the very substance that fueled the acid house explosion and the entire rave movement.
 
+<!-- justification
 ## Justification
 
 Alexander Shulgin's work is foundational to the drug-molecule dimension of the Mibera system — the chemist behind many of the substances Miberas carry as traits.
+-->
 
 ---
 

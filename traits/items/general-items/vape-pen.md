@@ -18,9 +18,11 @@ Dominant colors: shades of yellow
 
 The vape pen represents the modern evolution of smoking culture, replacing combustion with vapor. In rave settings, it has become as ubiquitous as the cigarette once was.
 
+<!-- justification
 ## Justification
 
 The modern endpoint of the collection's smoking evolution. What the joint and the cigarette were to the 1990s dance floor, the vape pen is now.
+-->
 
 ---
 

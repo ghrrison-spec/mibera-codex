@@ -18,9 +18,11 @@ Dominant colors: white, black
 
 The Remilia lawsuit documents the legal fallout surrounding Milady and Charlotte Fang, turning corporate legal proceedings into a cultural artifact. Holding the PDF as a physical item insists that this messy drama is as much a part of the story as the art itself.
 
+<!-- justification
 ## Justification
 
 Preserves the messiest chapter of Remilia history as a canonical held item, insisting the drama is part of the lore.
+-->
 
 ---
 

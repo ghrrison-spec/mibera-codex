@@ -18,9 +18,11 @@ Dominant colors: green, yellow, white
 
 "Henlo" is a greeting used within the Berachain community. The cash stack represents the financial layer of the ecosystem rendered as a physical prop.
 
+<!-- justification
 ## Justification
 
 Community greeting turned into a physical prop. "Henlo" is Berachain vernacular — the cash stack materializes the ecosystem's financial layer as something you can wave around.
+-->
 
 ---
 

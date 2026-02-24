@@ -20,9 +20,11 @@ Cypherpunk.
 
 Cypherpunk is an individual who uses strong cryptography to enhance privacy and resist surveillance, rooted in a libertarian philosophy that values decentralization and freedom from centralized authority. The movement emerged in the late 1980s, gaining traction with the 1992 Cypherpunks mailing list, where activists and technologists discussed privacy tools and strategies. It has influenced technologies like Bitcoin and Tor, emphasizing practical solutions through coding over policy debates.
 
+<!-- justification
 ## Justification
 
 A barcode on the forehead is surveillance turned inside out. The cypherpunks fought against being reduced to trackable data points, and this mask wears that tension literally on its face.
+-->
 
 ---
 

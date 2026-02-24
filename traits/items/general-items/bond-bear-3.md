@@ -18,9 +18,11 @@ Dominant colors: black, white, navy.
 
 A panda bear in a navy suit and black hat. 
 
+<!-- justification
 ## Justification
 
 References a key Berachain rebase.
+-->
 
 ---
 

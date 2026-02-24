@@ -18,9 +18,11 @@ Silver duct tape
 
 Duct tape as a fashion element has roots in punk and DIY culture, where it was used to repair clothing, create accessories, and make a statement about rejecting consumer fashion. In the context of electronic music, the DIY ethos of building your own sound systems and venues from whatever materials were available extends naturally to personal style.
 
+<!-- justification
 ## Justification
 
 Duct tape is the ultimate DIY flex — when your sound system is held together with it, why not your headwear too? Pure Chicago Detroit resourcefulness.
+-->
 
 ---
 

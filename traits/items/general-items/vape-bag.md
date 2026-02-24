@@ -18,9 +18,11 @@ Dominant colors: white, black
 
 Balloon-bag vaporizers, most famously the Volcano by Storz & Bickel (introduced in 2000), heat cannabis or other herbs to release vapor into a detachable plastic bag. The user then inhales from the bag. This method became popular in the 2000s as a "healthier" alternative to combustion and was a common sight at house parties and chill-out rooms before the rise of portable vape pens.
 
+<!-- justification
 ## Justification
 
 A relic of the pre-portable vaporization era. The balloon bag marks a specific technological moment — after combustion, before the pocket vape pen made everything discreet.
+-->
 
 ---
 

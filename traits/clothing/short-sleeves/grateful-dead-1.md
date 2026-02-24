@@ -22,9 +22,11 @@ Grateful Dead, an American Rock Band.
 
 Grateful Dead is an iconic American jam band formed 1965 in San Francisco. The band blended rock, folk, blues, jazz, and psychedelia.
 
+<!-- justification
 ## Justification
 
 The Grateful Dead's dancing bears are among the most iconic images in psychedelic culture. The rainbow bear lineup on this shirt connects 1960s San Francisco counterculture directly to the rave tradition that followed.
+-->
 
 ---
 

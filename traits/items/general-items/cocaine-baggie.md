@@ -18,9 +18,11 @@ Dominant colors: white, yellow
 
 Cocaine has been present in nightlife culture from Studio 54 to the modern club scene, existing alongside but distinct from the psychedelics more closely associated with raving. Its inclusion reflects the reality that rave spaces contain the full spectrum of drug use.
 
+<!-- justification
 ## Justification
 
 The smiley-face branding on the baggie is the tell. It marks where rave iconography gets co-opted by the substance economy that always orbits the scene.
+-->
 
 ---
 

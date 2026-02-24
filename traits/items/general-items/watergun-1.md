@@ -18,9 +18,11 @@ Dominant colors: orange, bright green
 
 Waterguns were a fixture of outdoor raves and festivals, used to cool down overheated dancers on packed dance floors. They represent the playful, childlike energy that rave culture celebrates.
 
+<!-- justification
 ## Justification
 
 Cooling down overheated strangers is rave culture's version of mutual aid: playful, anonymous, and rooted in collective care.
+-->
 
 ---
 

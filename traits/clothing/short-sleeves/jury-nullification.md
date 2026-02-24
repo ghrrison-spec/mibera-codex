@@ -20,9 +20,11 @@ Dominant colors: White, light lime-green, black
 
 (Quoted directly from Jani’s note on old Discord) “these are hyperlinks to deep lore conversations in and around cfangs milieu so are meant to agitate. we're also walking right up to the edge of politics given milady are so adamantly not left wing or right wing. mibera are also not right wing or left wing, but pull in symbology and slogans from many different sides so are taking the aesthetic and narrative even deeper in”
 
+<!-- justification
 ## Justification
 
 Google Jury Nullification is a provocative political statement designed to agitate. The collection deliberately walks right up to the edge of politics by pulling from many different sides, and this shirt is a perfect example.
+-->
 
 ---
 

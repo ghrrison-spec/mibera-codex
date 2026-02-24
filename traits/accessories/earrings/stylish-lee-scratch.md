@@ -18,9 +18,11 @@ Dominant colors: Silver, blue
 
 Lee "Scratch" Perry was a Jamaican reggae and dub music pioneer, renowned for his innovative production techniques and eccentric personality. Born Rainford Hugh Perry, he gained fame in the 1960s and 1970s, producing for The Wailers and creating hits like "Upsetter" with his Upsetters band. Known for his experimental studio work, including remixing and effects, he won a Grammy in 2003 for Jamaican E.T.
 
+<!-- justification
 ## Justification
 
 Lee "Scratch" Perry's dub production innovations directly influenced electronic music's use of reverb, delay, and remix culture -- making him an ancestor of the sounds Chicago Detroit was built on.
+-->
 
 ---
 

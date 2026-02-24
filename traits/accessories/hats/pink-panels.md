@@ -20,9 +20,11 @@ Dominant colors: Black, hot pink
 
 Panel caps with alternating color sections became popular in streetwear and skate culture in the 2000s and 2010s. The black-and-hot-pink colorway is strongly associated with the e-girl and Milady aesthetic — a bold, high-contrast combination that signals participation in internet-inflected fashion culture.
 
+<!-- justification
 ## Justification
 
 Black and hot pink panels — the Milady colorway that says you take your internet aesthetics seriously, even at swag score 1.
+-->
 
 ---
 

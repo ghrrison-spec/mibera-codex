@@ -18,11 +18,13 @@ Dominant colors: black, white.
 
 ## Cultural Context
 
-Era: Modern
+Solidarity between Palestinian and Black liberation movements dates back to the 1960s, when figures in the Black Panther Party and the Student Nonviolent Coordinating Committee (SNCC) drew parallels between the African American struggle and the Palestinian cause. This cross-movement alliance has persisted through decades of shared organizing, with both communities framing their struggles in terms of anti-colonialism, self-determination, and resistance to state violence.
 
+<!-- justification
 ## Justification
 
 Cross-cultural solidarity between Palestinian and Black liberation movements is a real political phenomenon with decades of history. The collection documents these alliances as part of its global counterculture catalog.
+-->
 
 ---
 

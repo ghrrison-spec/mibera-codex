@@ -22,9 +22,11 @@ The Gadsden Flag, Metallica.
 
 The Gadsden flag is a historical American flag featuring a bright yellow field with a coiled rattlesnake and the motto "DON'T TREAD ON ME" in black letters. The simple meaning would be “Leave me alone or face consequences.”
 
+<!-- justification
 ## Justification
 
 The Gadsden flag has been co-opted by everyone from libertarians to metalheads. In a collection that pulls from all political sides without endorsing any, this shirt is a statement about individual sovereignty that resonates with crypto's ethos.
+-->
 
 ---
 

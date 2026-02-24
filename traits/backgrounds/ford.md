@@ -20,9 +20,11 @@ Abandoned Ford Factory
 
 Abandoned Detroit automotive factories became the birthplaces of techno. The Belleville Three and their successors threw the earliest underground parties in spaces like these.
 
+<!-- justification
 ## Justification
 
 Abandoned automotive factories became the physical spaces where techno was born — repurposed industrial infrastructure as cultural incubator.
+-->
 
 ---
 

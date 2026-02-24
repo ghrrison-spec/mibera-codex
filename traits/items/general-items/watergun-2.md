@@ -18,9 +18,11 @@ Dominant colors: orange, bright magenta, purple, lime green
 
 Spraying strangers with water at a rave is both a practical kindness and a social ritual.
 
+<!-- justification
 ## Justification
 
 A second, more colorful variant. Multiple watergun designs reflect how a practical kindness became an expressive accessory in its own right.
+-->
 
 ---
 

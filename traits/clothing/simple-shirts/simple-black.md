@@ -19,9 +19,11 @@ Dominant colors: Black
 
 Black is the default color of nightlife and the most common t-shirt color on any dancefloor. In the collection, it serves as the base layer that lets other traits -- accessories, headwear, necklaces -- do the talking.
 
+<!-- justification
 ## Justification
 
 Every collection needs a blank canvas. The simple black tee is the lowest swag score for a reason: it is the absence of signal, the starting point from which all other expression builds.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Dark brown, white, bright blue
 
 The "Workin' Like a Dog All Day on Milady" trucker cap is based on actual Remilia Corporation merchandise sold through their official store. It captures the intense work ethic of NFT community builders — the people who grind on projects they love while everyone else wonders why they don't just get a normal job.
 
+<!-- justification
 ## Justification
 
 Straight from the Remilia merch store to the collection — the trucker cap that tells everyone you are deep in the Milady grind and proud of it.
+-->
 
 ---
 

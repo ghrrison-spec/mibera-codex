@@ -18,9 +18,11 @@ Dominant colors: yellow, red, beige / golden
 
 Pizza is the universal fuel of late-night culture, ordered in bulk at after-parties and shared among strangers. It represents the communal, low-key moments between the peaks.
 
+<!-- justification
 ## Justification
 
 The great equalizer. Every after-party ends the same way, and this slice is the proof.
+-->
 
 ---
 

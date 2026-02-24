@@ -18,9 +18,11 @@ Dominant colors: Sandy beige
 
 Pyramids, iconic Egyptian structures, symbolize ancient engineering and spiritual beliefs, often linked to the sun god Ra. Sun Ra, the jazz musician, drew inspiration from Egyptian mythology, incorporating pyramid imagery into his Afrofuturist aesthetic to signify cosmic connection and Black empowerment.
 
+<!-- justification
 ## Justification
 
 Pyramids tie together two of Mibera's threads at once -- the Egyptian ancestor lineage and Sun Ra's Afrofuturist vision that influenced Chicago's electronic music scene.
+-->
 
 ---
 

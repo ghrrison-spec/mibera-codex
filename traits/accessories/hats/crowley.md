@@ -22,9 +22,11 @@ Aleister Crowley, an English occultist, mystic, and writer, often called the "wi
 
 He founded the religion of Thelema, emphasizing the principle "Do what thou wilt shall be the whole of the Law." Crowley was known for his esoteric writings, ritual magic, and controversial lifestyle, blending mysticism, hedonism, and rebellion against societal norms.
 
+<!-- justification
 ## Justification
 
 "Do what thou wilt" could be the motto of every free party — Crowley's occult rebellion maps perfectly onto the freetekno spirit of radical autonomy.
+-->
 
 ---
 

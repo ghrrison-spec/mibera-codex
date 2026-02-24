@@ -19,9 +19,11 @@ Dominant colors: Green
 
 Green carries associations ranging from nature and ecology to cannabis culture and Irish identity. As a simple shirt, it provides a base layer that subtly shifts the mood of any Mibera wearing it.
 
+<!-- justification
 ## Justification
 
 Green is loaded with subcultural meaning depending on context. As a blank tee, it lets the viewer project whatever signal they want onto it.
+-->
 
 ---
 

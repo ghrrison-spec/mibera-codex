@@ -20,9 +20,11 @@ Newgrange is a prehistoric monument in County Meath, Ireland. Constructed with l
 
 Newgrange is older than the Egyptian pyramids and Stonehenge, built around 3200 BCE. Its famous winter solstice light alignment shows that our ancestors were engineering transcendent communal experiences thousands of years before raves. The triple spiral carvings and mushrooms visible in the scene connect it to theories about entheogenic use in Neolithic ritual.
 
+<!-- justification
 ## Justification
 
 Newgrange connects to the Celtic/Irish ancestor lineage — a 5,000-year-old monument that predates the pyramids and Stonehenge.
+-->
 
 ---
 

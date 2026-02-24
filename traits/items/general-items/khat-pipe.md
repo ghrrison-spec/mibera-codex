@@ -18,9 +18,11 @@ Dominant colors: dark grey, light beige, black
 
 Khat is a stimulant plant chewed across East Africa and the Arabian Peninsula for centuries, producing effects similar to amphetamines. It represents one of many regional stimulant traditions that parallel the energy-seeking impulse at the heart of rave culture.
 
+<!-- justification
 ## Justification
 
 Every culture found its stimulant. Including East Africa's centuries-old tradition alongside European rave drugs makes the collection's pharmacological map genuinely global.
+-->
 
 ---
 

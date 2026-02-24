@@ -18,9 +18,11 @@ Dominant colors: red, green, brown
 
 Apple-shaped bags and fruit-themed accessories appeared in 1990s rave and club fashion as part of a broader trend toward bright, cartoonish, deliberately childish styling. The look rejected mainstream adult fashion in favor of playfulness and absurdity.
 
+<!-- justification
 ## Justification
 
 Rave fashion deliberately rejected adult aesthetics. An apple-shaped bag is absurdist style as identity statement, dressing like a cartoon to opt out of the mainstream.
+-->
 
 ---
 

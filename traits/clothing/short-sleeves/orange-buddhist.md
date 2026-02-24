@@ -20,9 +20,11 @@ Kasaya, Buddhism / Buddhist
 
 Kasaya (or kāsāya) refers to the traditional dyed robes worn by Buddhist monks and nuns, symbolizing simplicity and detachment from materialism. Typically saffron, ochre, or maroon in color (depending on region and sect), the robes are made from patched cloth and consist of an inner robe, outer robe, and mantle. The term derives from Sanskrit for "color" or "dyed," reflecting the original practice of using discarded rags boiled with natural dyes.
 
+<!-- justification
 ## Justification
 
 Buddhist monks in saffron robes are among the most recognizable spiritual figures on earth. The meditative tradition connects directly to the trance states that electronic music induces, making the kasaya a natural fit.
+-->
 
 ---
 

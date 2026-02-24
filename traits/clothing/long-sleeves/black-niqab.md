@@ -20,9 +20,11 @@ Dominant colors: Black
 
 The niqab is a face-covering veil commonly worn by some Muslim women, particularly in conservative Islamic communities, to cover the face except for the eyes, as an expression of modesty or religious devotion.
 
+<!-- justification
 ## Justification
 
-The niqab represents one of many global spiritual and cultural garments in the collection. Mibera draws from all traditions and all forms of identity expression, religious modesty included.
+Niqabi are popular within the Milady/Remilio scene as it exists within Remilio as a trait. 
+-->
 
 ---
 

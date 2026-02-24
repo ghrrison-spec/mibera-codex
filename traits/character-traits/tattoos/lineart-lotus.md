@@ -17,12 +17,11 @@ Simple line-art connecting a few curves, a lotus, and a few dots.
 Dominant colors: Black.
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 The lotus is Hinduism's most universal visual metaphor, and rendering it in minimal lineart makes it feel modern while keeping the spiritual weight of the Hindu ancestor lineage intact.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: brown, light beige
 
 Bucket hats became iconic rave accessories in the late 1980s and 1990s, particularly in the UK acid house and Madchester scenes. The bear-face bucket hat merges this rave heritage with Berachain's bear branding, combining two distinct cultural threads — dance music fashion and crypto community identity.
 
+<!-- justification
 ## Justification
 
 A bucket hat with bear ears — the crossover between rave fashion and Berachain branding that was always meant to happen.
+-->
 
 ---
 

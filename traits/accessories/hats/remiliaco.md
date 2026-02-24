@@ -20,9 +20,11 @@ Dominant colors: Black, white
 
 Remilia Corporation is the decentralized collective and digital art organization behind Milady Maker, one of the most culturally significant NFT projects. The "Remilia Corporation" branding surrounded by stars reflects the group's distinctive visual identity, which blends corporate aesthetics with anime-influenced internet culture in a deliberately ambiguous way.
 
+<!-- justification
 ## Justification
 
 The Remilia Corporation cap surrounded by stars — wearing the name of the collective that launched Milady culture into the mainstream of crypto.
+-->
 
 ---
 

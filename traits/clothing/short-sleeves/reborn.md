@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Part of the Milady Rave souvenir tee series, where each shirt describes a different transformative experience at a Milady rave. The rebirth claim connects to the spiritual and ego-dissolving dimension of the dancefloor experience.
 
+<!-- justification
 ## Justification
 
 Being reborn at a rave is the oldest story in the scene. This shirt captures the transformative promise that draws people to the dancefloor in the first place.
+-->
 
 ---
 

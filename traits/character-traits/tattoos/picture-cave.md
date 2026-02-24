@@ -17,14 +17,13 @@ Line work of a naked prehistoric man with what looks like arrows.
 Dominant colors: Black
 
 ## Cultural Context
-
-Era: Ancient
-
 Picture Cave, located in Warren County, Missouri, is a significant archaeological site featuring 296 prehistoric Native American wall paintings, making it one of the most important rock art sites in North America. Sold to an undisclosed buyer for over $2 million in 2021 despite objections from the Osage Nation, the cave’s glyphs offer valuable insights into ancient cultural and spiritual practices.
 
+<!-- justification
 ## Justification
 
 One of North America's most significant rock art sites, sold to a private buyer over Indigenous objections -- it represents both the depth of Native American artistic heritage and the ongoing tension over who gets to own cultural history.
+-->
 
 ---
 

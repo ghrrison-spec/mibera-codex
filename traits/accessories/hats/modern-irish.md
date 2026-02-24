@@ -20,9 +20,11 @@ Dominant colors: Green, yellow, blue, red
 
 The Irish walking hat (or patchwork cap) is a traditional piece of Irish headwear, typically made from tweed with colorful patchwork sections. It represents rural Irish craft traditions and has become associated with both heritage tourism and the broader Celtic identity. The feather detail is a traditional adornment, while the patchwork style connects to the DIY aesthetic of acid house culture.
 
+<!-- justification
 ## Justification
 
 An Irish walking hat in the acid house archetype — because the Irish rave scene grew out of the same rural, communal spirit that these patchwork caps represent.
+-->
 
 ---
 

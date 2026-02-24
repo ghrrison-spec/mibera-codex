@@ -18,11 +18,13 @@ Dominant colors: Black / dark navy, white
 
 ## Cultural Context
 
-Until Sunrise evokes the all-night rave experience where the set does not end until dawn. The minimalist concentric circle design on a dark tee references the sun rising over the horizon, a moment that defines the emotional peak of outdoor parties and warehouse raves.
+The symbol on the shirt is the alchemical representation of the sun. 
 
+<!-- justification
 ## Justification
 
 Every raver has a sunrise story. This shirt represents the moment the music outlasts the night, which is the experience that defines the culture.
+-->
 
 ---
 

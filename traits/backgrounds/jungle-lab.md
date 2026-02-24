@@ -18,9 +18,11 @@ Dominant colors: Silver / grey
 
 Clandestine cocaine and ayahuasca production of South America. The watching eyes and snake imagery hint at the dangers.
 
+<!-- justification
 ## Justification
 
 Clandestine chemistry backgrounds represent the production side of the drug-molecule dimension — from ayahuasca to cocaine, the South American supply chain.
+-->
 
 ---
 

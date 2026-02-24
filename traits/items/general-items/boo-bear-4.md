@@ -18,9 +18,11 @@ Dominant colors: black, brown
 
 A bear in nun's clothing with an inverted cross necklace and black smudges under the eyes. The most transgressive of the four Boo Bear variants, referencing horror-film nun imagery.
 
+<!-- justification
 ## Justification
 
 References a key Berachain rebase.
+-->
 
 ---
 

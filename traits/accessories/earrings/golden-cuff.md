@@ -18,9 +18,11 @@ Dominant colors: Gold
 
 Ear cuffs date back to ancient civilizations, with examples found in Minoan and Egyptian archaeological sites. They experienced a revival in 1980s and 1990s alternative fashion, becoming popular in punk, new wave, and rave subcultures as a way to accessorize without additional piercings. The cylindrical cuff style in particular became associated with futuristic and industrial aesthetics.
 
+<!-- justification
 ## Justification
 
 Ear cuffs are the no-piercing-needed option that still signals subcultural membership -- practical and stylish across every archetype.
+-->
 
 ---
 

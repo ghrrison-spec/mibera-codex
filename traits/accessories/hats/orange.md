@@ -20,9 +20,11 @@ Dominant colors: Orange, green.
 
 Fruit-shaped hats and headwear have a long history in novelty fashion, from Carmen Miranda's iconic fruit-laden turbans to modern festival wear. The orange beret plays on the classic beret form by making it literally a fruit, blending the Milady aesthetic's love of European fashion with playful absurdity.
 
+<!-- justification
 ## Justification
 
 A beret that is also an orange — the kind of playful, slightly surreal fashion choice that makes the Milady archetype smile.
+-->
 
 ---
 

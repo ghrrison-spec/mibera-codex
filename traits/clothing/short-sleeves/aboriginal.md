@@ -22,9 +22,11 @@ The Australian Aboriginal Flag
 
 The Australian Aboriginal Flag is a symbol of Indigenous identity and pride. The Black (top half) represents Aboriginal people, the Red (bottom half) represents red earth, ochre, and spiritual connection to the land, and the Yellow circle (in the center) represents the sun, giver of life. The general meaning of it is unity, strength, and survival of Aboriginal Australians.
 
+<!-- justification
 ## Justification
 
 Indigenous rights movements are part of the broader counterculture that Mibera documents. The Aboriginal flag on a t-shirt is a statement of survival and identity that resonates across activist and rave communities alike.
+-->
 
 ---
 

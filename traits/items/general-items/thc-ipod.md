@@ -16,9 +16,11 @@ a white ipod; a device with a round area for buttons and a screen that shows “
 
 A white iPod displaying "The Honey Cast" (THC) on its screen. The Honey Cast is a podcast from the Berachain ecosystem. The iPod form factor references early 2000s tech nostalgia, and the THC abbreviation carries an obvious double meaning.
 
+<!-- justification
 ## Justification
 
 Retro tech nostalgia meets ecosystem media — an iPod frozen in time playing The Honey Cast.
+-->
 
 ---
 

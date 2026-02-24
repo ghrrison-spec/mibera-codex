@@ -18,9 +18,11 @@ Dominant colors: white, black
 
 MDMA handbooks represent the harm reduction movement's approach to drug culture: education over prohibition. They reflect the philosophy that knowledge and safety are more effective than fear, an idea central to rave culture from its earliest days.
 
+<!-- justification
 ## Justification
 
 Harm reduction literature as a holdable trait item makes the collection's stance explicit: knowledge over fear, safety over prohibition.
+-->
 
 ---
 

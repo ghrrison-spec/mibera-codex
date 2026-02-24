@@ -18,9 +18,11 @@ Dominant colors: warm pink, pastel yellow
 
 The evolution of bongs from simple smoking tools into colorful, hand-blown glass art parallels the way rave culture transforms functional spaces into aesthetic experiences.
 
+<!-- justification
 ## Justification
 
 Part of a four-piece bong set that tracks the evolution of paraphernalia from tool to art object. The warm pastels on this one lean into the aestheticization of getting high.
+-->
 
 ---
 

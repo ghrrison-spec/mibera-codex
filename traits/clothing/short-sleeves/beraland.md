@@ -20,9 +20,11 @@ Dominant colors: Pale purple, creamy white.
 
 Beraland is a community project in the Berachain ecosystem. The globe-shaped bear head logo suggests a metaverse or virtual world ambition, common among Berachain community projects that blend gaming with DeFi.
 
+<!-- justification
 ## Justification
 
 Another Berachain ecosystem project immortalized as wearable merch. The globe-bear logo captures the community's ambition to build an entire world on-chain.
+-->
 
 ---
 

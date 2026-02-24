@@ -18,9 +18,11 @@ Dominant colors: grey, black, white, red
 
 Capitalist Realism (2009) by Mark Fisher argues that it has become easier to imagine the end of the world than the end of capitalism. The book examines how capitalism presents itself as the only viable system, leading to cultural stagnation, mental health crises, and the inability to conceive of alternatives. Fisher's broader body of work — particularly his k-punk blog and unfinished *Acid Communism* — connected these themes to rave culture and collective joy.
 
+<!-- justification
 ## Justification
 
 Mark Fisher is a key philosophical reference point for the collection's countercultural worldview. The team discussed acid communism as a design principle for wealth distribution mechanics.
+-->
 
 ---
 

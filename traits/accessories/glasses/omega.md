@@ -18,9 +18,11 @@ Glasses with a hint of dark teal with Omega logos on them; a horseshoe shape or 
 
 OlympusDAO was a pioneering DeFi protocol launched in 2021 that introduced the (3,3) game theory meme and OHM token. Several early Berachain community members, including the Bong Bears lineage, emerged from the OlympusDAO ecosystem. The omega symbol is the OlympusDAO logo.
 
+<!-- justification
 ## Justification
 
 Berachain was born from the OlympusDAO community. The Omega glasses are a direct artifact of that lineage, marking the DeFi origins that eventually led to Bong Bears and everything that followed.
+-->
 
 ---
 

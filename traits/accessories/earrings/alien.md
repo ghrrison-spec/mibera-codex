@@ -18,9 +18,11 @@ Dominant colors: Lime green
 
 Alien imagery became a recurring motif in rave culture during the 1990s, appearing on flyers, merchandise, and club decor. The association stems from the psychedelic experience of electronic music events, where themes of otherness, cosmic travel, and altered states of consciousness converged. Alien-themed accessories became shorthand for the rave ethos of transcending ordinary reality.
 
+<!-- justification
 ## Justification
 
 Aliens are rave culture's unofficial mascots -- when your whole scene is about altered states and feeling like you're from another planet, the little green guy fits right in.
+-->
 
 ---
 

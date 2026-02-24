@@ -18,9 +18,11 @@ Dominant colors: white, dark grey, black, pink
 
 Babybera is a Berachain ecosystem project. The tape recorder form factor connects to the collection's recurring motif of analog audio equipment, from cassette recorders to mixtapes, as tools of DIY media distribution.
 
+<!-- justification
 ## Justification
 
-Merges a Berachain partner brand with the collection's analog recording motif — the tape recorder as a tool of DIY media before the internet existed.
+Babybera is a key member of the Mibera team.
+-->
 
 ---
 

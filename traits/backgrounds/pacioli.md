@@ -20,9 +20,11 @@ Luca Pacioli, an Italian mathematician and Franciscan friar, is known as the "Fa
 
 Invented double-entry bookkeeping — the foundational ledger technology that blockchain now decentralizes. Collaborated with Leonardo da Vinci on the golden ratio.
 
+<!-- justification
 ## Justification
 
 Luca Pacioli's double-entry bookkeeping connects to the mathematical and accounting foundations that underpin modern finance — and by extension, crypto.
+-->
 
 ---
 

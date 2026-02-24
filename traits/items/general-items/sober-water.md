@@ -18,9 +18,11 @@ Dominant colors: white, blue
 
 A water bottle branded "Sober Water," positioned as the non-intoxicant option among the collection's beverage items. Its inclusion acknowledges that sobriety is a valid choice within rave and party culture, and that hydration is a practical necessity at any event.
 
+<!-- justification
 ## Justification
 
 The straight-edge option at the rave — acknowledging that choosing not to partake is its own statement.
+-->
 
 ---
 

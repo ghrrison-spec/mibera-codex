@@ -18,9 +18,11 @@ Black retro round glasses, with pure black shades and rusty looking frames in a 
 
 Retro round glasses with half-rim frames evoke both the steampunk aesthetic and the industrial-salvage look common at European teknivals, where gear was often repurposed, patched, and weathered from life on the road with traveling sound systems.
 
+<!-- justification
 ## Justification
 
 The rusty-looking frames are not a design choice, they are a lifestyle indicator. In freetekno, everything looks like it has been through a few teknivals because it has.
+-->
 
 ---
 

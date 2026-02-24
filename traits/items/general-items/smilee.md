@@ -18,9 +18,11 @@ Dominant colors: shades of pink, rainbow
 
 Smilee is a DeFi protocol within the Berachain ecosystem. The deliberately transgressive plushie design, with its manic expression and provocative accessories, reflects the boundary-pushing humor that characterizes many Berachain community projects.
 
+<!-- justification
 ## Justification
 
 Deliberately transgressive design from a DeFi protocol. The provocative plushie embodies the boundary-pushing humor that defines Berachain community culture.
+-->
 
 ---
 

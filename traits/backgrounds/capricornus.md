@@ -20,9 +20,11 @@ Capricorn, the tenth zodiac sign (December 22 - January 19), is an earth sign ru
 
 Zodiac constellation background. Capricorn — discipline and ambition.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

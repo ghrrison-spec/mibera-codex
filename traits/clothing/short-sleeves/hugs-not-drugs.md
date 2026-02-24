@@ -22,9 +22,11 @@ The Grateful Dead
 
 The Grateful Dead was an iconic American rock band formed in 1965 in San Francisco.
 
+<!-- justification
 ## Justification
 
 The Grateful Dead bears giving hugs under a Hugs Not Drugs banner is peak irony given the Dead's well-documented relationship with psychedelics. This shirt says one thing and means the opposite.
+-->
 
 ---
 

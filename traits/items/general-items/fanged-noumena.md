@@ -18,9 +18,11 @@ Dominant colors: white, blue, red, orange
 
 Fanged Noumena collects the writings of Nick Land, the controversial CCRU philosopher whose work on acceleration and cybernetics influenced both Milady's intellectual framing and Mibera's counter-reading of the same ideas.
 
+<!-- justification
 ## Justification
 
 The collection deliberately positions itself in dialogue with Nick Land's ideas — not as endorsement, but as counter-reading. The team discussed choosing alternate CCRU philosophers to elevate.
+-->
 
 ---
 

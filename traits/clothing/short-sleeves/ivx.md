@@ -20,9 +20,11 @@ Dominant colors: Vibrant indigo, white.
 
 IVX appears to reference a project or brand within the Berachain or broader crypto ecosystem. The minimalist logo design with geometric V shapes follows the clean, abstract branding style common to DeFi protocols and crypto-native companies.
 
+<!-- justification
 ## Justification
 
 Clean, minimal crypto protocol branding on a tee. The collection documents the visual language of the web3 ecosystem, and protocol logos are part of that vocabulary.
+-->
 
 ---
 

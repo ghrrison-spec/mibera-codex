@@ -18,9 +18,11 @@ Dominant colors: black, yellow, blonde
 
 A bear plushie styled with a blonde wig and yellow dress, suggesting a pop star or performer persona. Part of the Berachain bear plushie family, with each variant given a distinct character identity.
 
+<!-- justification
 ## Justification
 
 Costumed bear plushie that gives the ecosystem mascot a personality rather than just a species.
+-->
 
 ---
 

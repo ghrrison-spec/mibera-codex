@@ -20,9 +20,11 @@ Dominant colors: Black
 
 Mike Tyson
 
+<!-- justification
 ## Justification
 
 Mike Tyson's face tattoo is arguably the single most recognizable face tattoo on the planet -- including it is a nod to the moment face ink crossed from subculture to mainstream spectacle.
+-->
 
 ---
 

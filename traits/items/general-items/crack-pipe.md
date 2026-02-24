@@ -16,9 +16,11 @@ a white glass pipe.
 
 Crack cocaine devastated communities in the 1980s and 1990s, particularly in Black urban neighborhoods. The crack pipe's presence in the collection forces a confrontation with drug culture's most painful chapter.
 
+<!-- justification
 ## Justification
 
 The collection refuses to romanticize drug culture by only showing the fun parts. Crack devastated the same neighborhoods where house music was being born. You cannot tell one story without the other.
+-->
 
 ---
 

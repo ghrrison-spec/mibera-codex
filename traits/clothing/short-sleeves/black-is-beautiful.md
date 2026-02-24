@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Black is Beautiful is a cultural movement that began in the 1960s United States, affirming that Black peoples natural features and cultural heritage are inherently beautiful. The slogan became a rallying cry for civil rights and Black pride, influencing art, fashion, and music globally.
 
+<!-- justification
 ## Justification
 
 The Black is Beautiful movement is foundational to the culture that produced house and techno. House music was born in Black communities in Chicago, and this shirt honors that lineage directly.
+-->
 
 ---
 

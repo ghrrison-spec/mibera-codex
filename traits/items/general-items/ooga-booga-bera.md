@@ -18,9 +18,11 @@ Dominant colors: yellow, rainbow-coloured
 
 Ooga Booga is a decentralized exchange aggregator built on Berachain. "Ooga Booga" is also a widely used phrase in the Berachain community. The figurine combines the project's bear mascot with a cannabis leaf, reflecting the overlap between crypto culture and drug culture that the collection documents.
 
+<!-- justification
 ## Justification
 
 "Ooga Booga" is the rallying cry of Berachain culture, and this DEX aggregator wears it proudly. The cannabis leaf on the bear figurine makes the crypto-drug culture overlap literal.
+-->
 
 ---
 

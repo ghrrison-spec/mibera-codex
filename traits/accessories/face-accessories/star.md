@@ -20,9 +20,11 @@ Dominant colors: Black
 
 Stars as face decorations appear across fashion, music, and PFP art traditions. In Japanese street fashion and gyaru culture, adhesive face stars were popular accessories. The motif was adopted by the Milady Maker collection and e-girl aesthetics as a minimal but distinctive face decoration that adds visual interest without overwhelming the character design.
 
+<!-- justification
 ## Justification
 
 A small black star on the cheek is the kind of detail that makes a character feel specific rather than generic -- it is a Milady archetype signature borrowed from Japanese street fashion.
+-->
 
 ---
 

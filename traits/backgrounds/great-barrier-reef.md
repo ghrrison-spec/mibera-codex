@@ -20,9 +20,11 @@ The Great Barrier Reef, off Australia's northeastern coast, is the world's large
 
 One of Earth's largest living structures. Australian location ties to the project's recurring use of Australian sacred sites and landscapes.
 
+<!-- justification
 ## Justification
 
 The Great Barrier Reef connects to the Aboriginal ancestor lineage and Australia's geographic identity within the Mibera system.
+-->
 
 ---
 

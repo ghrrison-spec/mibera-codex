@@ -20,9 +20,11 @@ Dominant colors: Purple, vibrant purple with hue of pink, pale purple.
 
 The tracksuit was directly referenced from an article by Redbull Music Academy about the origins and evolutions of Chicago house and Detroit techno, two pivotal electronic music genres. The genres spread globally, influencing modern electronic music, despite initial resistance from mainstream media.
 
+<!-- justification
 ## Justification
 
 Sourced from a Red Bull Music Academy article on Chicago house and Detroit techno. The tracksuit is the universal uniform of rave culture across every continent and every decade.
+-->
 
 ---
 

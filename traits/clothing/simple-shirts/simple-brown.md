@@ -19,9 +19,11 @@ Dominant colors: Brown
 
 Brown is an earthy, grounded tone associated with natural materials and working-class clothing. In the collection, it adds warmth to the base-layer palette.
 
+<!-- justification
 ## Justification
 
 The brown tee brings an earthy, understated warmth to the simple shirt set. It pairs naturally with the collection's many nature- and tradition-themed traits.
+-->
 
 ---
 

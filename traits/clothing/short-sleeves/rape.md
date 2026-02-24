@@ -20,9 +20,11 @@ Boyd Rice
 
 Boyd Rice (born 1956) is an American experimental noise musician, writer, and artist who performs under the moniker NON, pioneering industrial music since the 1970s. Known for controversial associations with fascism, Satanism (including ties to Anton LaVey), and misanthropic themes, he has collaborated with acts like Current 93 and released works blending noise, lounge spoofs, and psychedelia.
 
+<!-- justification
 ## Justification
 
 Boyd Rice is one of the most controversial figures in industrial music, and his provocative merchandise pushes every boundary. The collection documents the full spectrum of counterculture, including the parts designed to make you uncomfortable.
+-->
 
 ---
 

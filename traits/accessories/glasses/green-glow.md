@@ -18,9 +18,11 @@ Glow glasses mainly in neon green, with yellow on the center and sides.
 
 LED and EL-wire glow accessories became synonymous with 1990s rave culture, where dancers wore luminescent gear to enhance the sensory experience under strobe lights and UV. Glow sticks, glow glasses, and light-up jewelry were staples at warehouse parties across Chicago, Detroit, and the UK.
 
+<!-- justification
 ## Justification
 
 Green glow glasses cut through fog machines and darkness like nothing else. A rave essential that doubles as a beacon for finding your crew on the dancefloor.
+-->
 
 ---
 

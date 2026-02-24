@@ -20,9 +20,11 @@ Dominant colors: Deep red
 
 The red party hat crown, like its blue counterpart, references the legendary rare items from RuneScape. Party hats were distributed during a one-time 2001 Christmas cracker event and became some of the most expensive virtual items ever traded, with prices reaching tens of thousands of dollars. They represent the earliest form of digital scarcity — a concept that directly foreshadows NFTs.
 
+<!-- justification
 ## Justification
 
 The red partyhat brings RuneScape's original digital scarcity into the collection — a virtual item that proved digital things could be valuable long before anyone said "NFT."
+-->
 
 ---
 

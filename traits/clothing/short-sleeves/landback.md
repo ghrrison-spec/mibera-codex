@@ -19,12 +19,11 @@ Dominant colors: White, yellow.
 ## Cultural Context
 
 Original Landlords
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 Land Back represents Indigenous sovereignty -- the most fundamental territorial claim there is. The collection documents liberation movements from around the world, and Indigenous land rights are central to that catalog.
+-->
 
 ---
 

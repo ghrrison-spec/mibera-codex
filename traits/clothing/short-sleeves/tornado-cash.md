@@ -20,9 +20,11 @@ Dominant colors: Black, light green.
 
 Tornado Cash is an open-source, non-custodial, decentralized cryptocurrency tumbler that operates on Ethereum Virtual Machine-compatible networks. It enhances transaction privacy by mixing potentially identifiable cryptocurrency funds with others, obscuring the trail to the original source using zero-knowledge proofs (zk-SNARKs).
 
+<!-- justification
 ## Justification
 
 Tornado Cash is the most important privacy tool controversy in crypto history. The sarcastic shirt text about violating sanctions captures the community's defiant humor in the face of government enforcement.
+-->
 
 ---
 

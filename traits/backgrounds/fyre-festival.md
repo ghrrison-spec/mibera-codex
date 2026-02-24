@@ -20,9 +20,11 @@ Fyre Festival; a failed luxury music festival planned for April 2017 in the Baha
 
 The polar opposite of DIY rave culture. Ironic meme reference.
 
+<!-- justification
 ## Justification
 
 The absurdity of Fyre Festival as an ironic counterpoint to the DIY authenticity of the rave scenes Mibera celebrates.
+-->
 
 ---
 

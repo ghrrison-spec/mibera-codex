@@ -18,9 +18,11 @@ Dominant colors: yellow, green
 
 St. John's wort is one of the most widely used herbal remedies for depression, with a history stretching back to ancient Greece. It sits in the collection as a reminder that not all plant medicine is about getting high.
 
+<!-- justification
 ## Justification
 
 The collection's pharmacological scope isn't just psychedelics. This ancient antidepressant insists that plant medicine includes the quiet, everyday kind.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Green, white with slight tint of green
 
 Alien headbands became a staple of rave and festival fashion from the 1990s onward, part of a broader tradition of playful, extraterrestrial-themed accessories embraced by electronic music subcultures. The aesthetic connects to themes of otherness, psychedelic experience, and sci-fi futurism prevalent in dance music culture.
 
+<!-- justification
 ## Justification
 
 Raves have always been a little alien — this headband is the kind of weird party accessory that just shows up at 4am and nobody questions it.
+-->
 
 ---
 

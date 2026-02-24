@@ -18,9 +18,11 @@ plain black durag that connects to a black eye mask with big holes around the ey
 
 The Dread Pirate Roberts was the pseudonym used by Ross Ulbricht, founder of the Silk Road darknet marketplace, named after the character from "The Princess Bride." The black durag and eye mask combination references pirate imagery while connecting to the crypto-anarchist ethos of the early darknet, where anonymous digital commerce first proved that decentralized systems could operate outside state control.
 
+<!-- justification
 ## Justification
 
 The Dread Pirate Roberts brought crypto-anarchism from theory to practice — this bandana carries the weight of Silk Road, darknet markets, and the birth of real crypto commerce.
+-->
 
 ---
 

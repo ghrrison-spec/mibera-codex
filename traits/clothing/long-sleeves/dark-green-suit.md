@@ -19,12 +19,11 @@ Dominant colors: Forest green.
 ## Cultural Context
 
 Part of the Milady suit series. The forest green tone recalls the institutional fashion of mid-century banking and government — power dressed in the color of money. As with the other Milady suits, the corporate uniform is worn as parody, inverting the symbol of professional conformity into a costume for the dancefloor.
-
-Era: Cross-era (dandy tradition)
-
+<!-- justification
 ## Justification
 
-The corporate uniform worn as parody. Milady culture inverts the suit-and-tie into a costume, and the money-green colorway makes the satire unmistakable.
+The corporate uniform worn as parody. Milady culture inverts the suit-and-tie into a costume.
+-->
 
 ---
 

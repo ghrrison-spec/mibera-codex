@@ -20,9 +20,11 @@ Dominant colors: white-grey, black
 
 The Mongolian wolf holds deep cultural and spiritual significance in Mongolian tradition. According to "The Secret History of the Mongols," the Mongol people trace their ancestry to a blue-grey wolf (Borte Chino). Wolf-head headdresses were worn by shamans and warriors, symbolizing the fierce, protective spirit of the ancestor wolf. Wearing a wolf's head connects the wearer to the primal power of the steppe.
 
+<!-- justification
 ## Justification
 
 The Mongolian wolf ancestor headpiece at swag score 5 — wearing the head of the mythic wolf that founded the Mongol nation. The highest tier for the most primal hat in the collection.
+-->
 
 ---
 

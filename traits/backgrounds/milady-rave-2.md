@@ -18,9 +18,11 @@ Dominant colors: Black, muted brown, bright light yellow.
 
 Deepens the Milady archetype's visual language — the radiating figure in the dark room as DJ or performer.
 
+<!-- justification
 ## Justification
 
 Extension of the Milady archetype's visual language into a darker, more intense register.
+-->
 
 ---
 

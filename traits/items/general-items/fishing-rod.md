@@ -18,9 +18,11 @@ Dominant colors: brown, yellow, dark silver
 
 Free party sound systems like Spiral Tribe lived a nomadic lifestyle, often camping in rural areas between events. Fishing, foraging, and other low-cost outdoor activities filled the gaps between raves. The fishing rod represents this side of freetekno life: not the party itself, but the DIY self-sufficiency of the traveling community.
 
+<!-- justification
 ## Justification
 
 The oddball that proves the freetekno archetype is a lifestyle, not just a party. Sound system crews lived between raves, and this is what they did in between.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: Red, black, white
 
 Feather earrings hold deep cultural significance in Native American traditions, symbolizing honor, wisdom, strength, trust, power, and freedom as gifts from the sky or Creator, often linked to eagles representing spiritual connection and bravery.
 
+<!-- justification
 ## Justification
 
 Feather earrings carry the Native American ancestor lineage into the Acidhouse archetype -- a visual bridge between indigenous spiritual tradition and the rave's own rituals of transcendence.
+-->
 
 ---
 

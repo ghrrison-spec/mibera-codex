@@ -18,9 +18,11 @@ Dominant colors: black, yellow, silver
 
 References both the Berachain ecosystem's honey motif and the deliberately provocative, NSFW humor that runs through crypyo culture. It is the highest swag score (5) general item alongside the Remilia gun and diamond paws.
 
+<!-- justification
 ## Justification
 
 Peak provocation item — the highest swag score tier exists for items that push taste boundaries this hard.
+-->
 
 ---
 

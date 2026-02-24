@@ -18,9 +18,11 @@ Dominant colors: Brown.
 
 Smokey, the founder of Berachain, and Berachain.
 
+<!-- justification
 ## Justification
 
 The bear is the spirit animal of Berachain. A full bear-head mask in the Freetekno archetype merges the ecosystem identity with the free party tradition of masked, anonymous revelry.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Disability rights activism has intersected with rave culture through campaigns for accessible venues, sensory-friendly events, and the broader principle that liberation movements must include everyone. The slogan echoes the format of activist tees like The Future is Female.
 
+<!-- justification
 ## Justification
 
 If the dancefloor is supposed to be for everyone, then accessibility is not optional. This shirt brings disability rights into the collection's broader catalog of liberation movements.
+-->
 
 ---
 

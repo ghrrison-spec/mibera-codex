@@ -18,9 +18,11 @@ Dominant colors: Rainbow color
 
 The rainbow flag, designed by Gilbert Baker in 1978, is a global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation, used in pride events and advocacy for LGBTQ+ rights.
 
+<!-- justification
 ## Justification
 
 The classic rainbow arc -- representing the LGBTQ+ roots that run through house music, rave culture, and the communities that built these scenes from the ground up.
+-->
 
 ---
 

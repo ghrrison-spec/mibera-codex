@@ -20,9 +20,11 @@ Dominant colors: Soft pink, white
 
 BM2C is an art project on Berachain with a very quirky sense of humour and distinct online persona. Launched an NFT collection that was available for minting on February 11th.
 
+<!-- justification
 ## Justification
 
 BM2C is one of Berachain's quirkier art projects — the kind of weird, endearing community creation that earns a hat in the collection.
+-->
 
 ---
 

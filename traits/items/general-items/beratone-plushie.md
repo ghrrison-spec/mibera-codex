@@ -18,9 +18,11 @@ Dominant colors: brown, yellow, blue, red, green.
 
 A bear plushie dressed in hippie attire with a Rastafarian-colored headband, spectacles, and mustache. The name "Beratone" is a Berachain ecosystem portmanteau. The styling references 1960s-70s counterculture.
 
+<!-- justification
 ## Justification
 
 Ecosystem partner mascot dressed in counterculture attire, linking Berachain branding to the collection's rave roots.
+-->
 
 ---
 

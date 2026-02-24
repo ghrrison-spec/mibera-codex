@@ -18,9 +18,11 @@ Dominant colors: Dark orange, black, dark teal.
 
 Berachain ecosystem DAO. Background represents the project's visual identity.
 
+<!-- justification
 ## Justification
 
 Berachain ecosystem partner background — representing the on-chain community that Mibera exists within.
+-->
 
 ---
 

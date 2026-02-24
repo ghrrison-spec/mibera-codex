@@ -20,9 +20,11 @@ Dominant colors: red
 
 Fruit-shaped novelty hats are a staple of festival and rave fashion, part of the tradition of playful, absurdist accessories that define dance music culture. The full-head strawberry hat is maximally committed to the bit — not a subtle accessory but a complete transformation into a piece of fruit.
 
+<!-- justification
 ## Justification
 
 A full strawberry head covering — the kind of all-in novelty hat that only makes sense at 5am in a field, which is exactly when a Mibera would wear it.
+-->
 
 ---
 

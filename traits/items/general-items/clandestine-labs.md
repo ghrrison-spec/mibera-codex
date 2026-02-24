@@ -18,9 +18,11 @@ Dominant colors: soft blue, black
 
 Clandestine chemistry labs are where many of the substances that fueled rave culture were actually made, from MDMA to LSD. This item pays tribute to the underground chemists whose work, legal or not, shaped the psychedelic landscape.
 
+<!-- justification
 ## Justification
 
 The supply side of the rave. Without underground chemists, there is no MDMA, no acid, no scene. This manual represents the hidden labor behind the dance floor.
+-->
 
 ---
 

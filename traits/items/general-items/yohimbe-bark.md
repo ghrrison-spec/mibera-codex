@@ -16,9 +16,11 @@ a piece of bark in light brown.
 
 Yohimbe bark comes from a West African tree traditionally used as an aphrodisiac and stimulant. Its active compound yohimbine has real pharmacological effects, connecting traditional African medicine to modern supplement culture.
 
+<!-- justification
 ## Justification
 
 West African ethnobotany represented in the collection's pharmacological catalog. Connects traditional African medicine to the global stimulant and aphrodisiac trade.
+-->
 
 ---
 

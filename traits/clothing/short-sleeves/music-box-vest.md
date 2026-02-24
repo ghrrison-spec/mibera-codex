@@ -18,11 +18,13 @@ Dominant colors: White, black.
 
 ## Cultural Context
 
-Jani
+This vest is a direct reference to a photograph of Ron Hardy wearing a white "Music Box" tank top at the Music Box club in Chicago. The Music Box (1983–1987) was the rival club to Frankie Knuckles' Warehouse and Power Plant, and Hardy's residency there helped define the raw, intense side of Chicago house music. Hardy was known for his marathon DJ sets, reel-to-reel edits, and willingness to push the dancefloor into darker, more experimental territory.
 
+<!-- justification
 ## Justification
 
 The Music Box and Ron Hardy are as foundational to house music as the Warehouse and Frankie Knuckles. This vest is a direct artifact from one of the most important clubs in electronic music history.
+-->
 
 ---
 

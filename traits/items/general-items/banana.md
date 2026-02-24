@@ -18,9 +18,11 @@ Dominant colors: yellow
 
 There is a semi-popular milady sticker design that has the milady eyes and "milady" on it. This is meant to be the mibera version of that.
 
+<!-- justification
 ## Justification
 
 Mibera's version of the iconic Milady banana sticker — a direct lineage nod rebranded for the collection.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Red, yellow, green.
 
 Rastafari, often called Rasta culture, is a spiritual and cultural movement that emerged in Jamaica in the 1930s among African descendants.
 
+<!-- justification
 ## Justification
 
 Rastafari culture shaped reggae, dub, and through them the entire trajectory of sound system culture that led to jungle, drum and bass, and eventually freetekno. The red-gold-green is foundational.
+-->
 
 ---
 

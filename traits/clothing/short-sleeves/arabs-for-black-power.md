@@ -17,12 +17,11 @@ Black t-shirt with white text that reads “ARABS for BLACK POWER” and an Arab
 Dominant colors: Black, white.
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 Cross-cultural solidarity movements are a recurring theme in the collection. This shirt documents the real-world alliance between Arab and Black communities in the broader fight for civil rights.
+-->
 
 ---
 

@@ -17,12 +17,11 @@ White t-shirt with graphic in green, showing 2 guys in a circle with 1 holding a
 Dominant colors: White, green.
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 This shirt is the political Rorschach test of the collection. It combines positions from every side of the spectrum into one sentence, which is exactly what Mibera does with its trait system.
+-->
 
 ---
 

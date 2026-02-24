@@ -20,9 +20,11 @@ The Chosen Few DJs, Lori Branch.
 
 The article focuses on the history of house music in Chicago from 1985 to 1990. Highlighting the genre's development, key figures like Larry Heard (Mr. Fingers) who pioneered deep house, and the emergence of sub-genres like soulful house and acid house. It also recognizes Lori Branch, the first female DJ in Chicago’s house scene, and her contributions. It is part of a broader retrospective on Chicago’s Black music history.
 
+<!-- justification
 ## Justification
 
 Chicago house was deeply intertwined with Black futurism. The sci-fi aesthetic channels the same energy that Larry Heard and Lori Branch brought to the genre: visionary, forward-looking, and unapologetically Black.
+-->
 
 ---
 

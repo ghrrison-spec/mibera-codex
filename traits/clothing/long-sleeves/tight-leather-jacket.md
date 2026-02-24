@@ -20,9 +20,11 @@ Dominant colors: Black, white
 
 In Chicago, where house music emerged from Black, urban communities at venues like the Warehouse, leather jackets were a staple for club-goers, blending punk’s edge with the city’s harsh winters.
 
+<!-- justification
 ## Justification
 
 The leather jacket was standard issue at Chicago's early house clubs, blending punk edge with Midwestern practicality. It is the most basic, most essential piece of nightlife outerwear.
+-->
 
 ---
 

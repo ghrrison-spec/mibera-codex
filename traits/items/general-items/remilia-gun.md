@@ -18,9 +18,11 @@ Dominant colors: Black, yellow
 
 The Remilia gun is a provocative held item that combines the Remilia brand with firearm imagery. It reflects the deliberately transgressive, boundary-pushing attitude that defines the broader Milady ecosystem.
 
+<!-- justification
 ## Justification
 
 An iconic design from the milady community
+-->
 
 ---
 

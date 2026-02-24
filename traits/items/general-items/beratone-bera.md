@@ -18,9 +18,11 @@ Dominant colors: brown
 
 Beratone is a project within the Berachain ecosystem. Its representation as a standing bear plushie follows the collection's standard format for rendering ecosystem partners as physical collectibles.
 
+<!-- justification
 ## Justification
 
 Ecosystem partner given the standard plushie treatment. Part of the collection's practice of materializing every corner of the Berachain community.
+-->
 
 ---
 

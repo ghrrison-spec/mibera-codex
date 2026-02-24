@@ -18,9 +18,11 @@ Dominant colors: White, green
 
 Flower motifs have been associated with counterculture since the 1960s flower power movement, which promoted peace and nonviolence. In rave culture, floral accessories became part of the festival aesthetic, often seen at events like outdoor trance gatherings and free parties. The 'Bera' prefix ties this to the Berachain ecosystem's bear-themed identity.
 
+<!-- justification
 ## Justification
 
 A flower earring with the Bera name on it -- bridging the flower-power lineage of counterculture with Berachain's ecosystem branding.
+-->
 
 ---
 

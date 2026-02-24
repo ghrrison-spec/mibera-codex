@@ -18,9 +18,11 @@ Dominant colors: Dark grey, black.
 
 The towering sound systems that define the freetekno movement — from Jamaican sound system roots to Spiral Tribe's rigs.
 
+<!-- justification
 ## Justification
 
 Sound systems are the defining infrastructure of freetekno — the portable architecture that turns any space into a rave.
+-->
 
 ---
 

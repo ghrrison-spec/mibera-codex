@@ -18,9 +18,11 @@ Dominant colors: Gold, pearly white
 
 Gold chain jewelry has been a status symbol across civilizations from ancient Egypt to modern hip-hop culture. In the context of Aboriginal Australians, gold's significance connects to the Australian gold rushes of the 1850s, which dramatically impacted indigenous communities and their lands. Chain earrings became fashionable in Western club culture during the 1980s and 1990s, bridging hip-hop, rave, and streetwear aesthetics.
 
+<!-- justification
 ## Justification
 
 Gold chains cross every subculture boundary Mibera cares about -- from hip-hop to rave to streetwear -- and the Aboriginal ancestor tie gives this Freetekno piece extra depth.
+-->
 
 ---
 

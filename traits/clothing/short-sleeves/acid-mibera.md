@@ -20,9 +20,11 @@ Dominant colors: White, yellow.
 
 The acid house smiley face is the most recognizable symbol of rave culture, originating from the Second Summer of Love in 1988 Britain. The yellow smiley became synonymous with MDMA-fueled warehouse parties and was adopted as the de facto logo of an entire generation's rebellion against Thatcher-era conservatism.
 
+<!-- justification
 ## Justification
 
-The acid smiley with bear ears is Mibera's most direct self-portrait. It fuses the single most iconic rave symbol with Berachain's bear identity in one image.
+A no brainer of a take on a classic design. 
+-->
 
 ---
 

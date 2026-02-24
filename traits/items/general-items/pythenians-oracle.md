@@ -18,9 +18,11 @@ Dominant colors: purple, golden
 
 The Oracle at Delphi was the most important prophetic institution in the ancient Greek world. The idea that hidden knowledge could be accessed through trance and psychoactive substances connects directly to the collection's theme that altered consciousness can reveal deeper truths.
 
+<!-- justification
 ## Justification
 
 Prophecy as a technology of altered consciousness. An 8-ball oracle nods to Delphi while staying playful enough for the rave.
+-->
 
 ---
 

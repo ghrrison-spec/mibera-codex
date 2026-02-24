@@ -20,9 +20,11 @@ Dominant colors: Beige, red.
 
 Straw hats have been essential agricultural headwear worldwide for centuries, from European farmers to Caribbean workers to Japanese field laborers. In rave culture, straw hats became festival staples — practical sun protection that also carries a laid-back, pastoral energy. The red stripe adds a touch of style to what is otherwise purely functional headwear.
 
+<!-- justification
 ## Justification
 
 The straw farmer's hat is the hat of everyone who works the land — at a rave in a field, it goes from practical to philosophical.
+-->
 
 ---
 

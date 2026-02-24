@@ -18,11 +18,13 @@ Dominant colors: Black, red.
 
 ## Cultural Context
 
-The blog post spotlights 2024 Southeast Asian fashion finds, including Nalinchan Studio's "The Future Is Ladyboy" tees.
+The blog post linked spotlights 2024 Southeast Asian fashion finds, including Nalinchan Studio's "The Future Is Ladyboy" tees.
 
+<!-- justification
 ## Justification
 
 Southeast Asian gender culture and Milady's post-ironic aesthetics collide in this shirt. It documents a real fashion piece from Nalinchan Studio that found its way into the Milady visual orbit.
+-->
 
 ---
 

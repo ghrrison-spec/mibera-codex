@@ -20,9 +20,11 @@ Irish dry stone walls are mortarless stone structures that define much of Irelan
 
 Connects Mibera to its Irish roots. Neolithic structures, built without mortar — some of the project's key creators draw inspiration from this landscape.
 
+<!-- justification
 ## Justification
 
 Irish dry stone walls connect to the Celtic/Irish ancestor lineage — a construction tradition spanning thousands of years.
+-->
 
 ---
 

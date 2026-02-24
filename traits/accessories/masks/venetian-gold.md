@@ -20,9 +20,11 @@ Dominant colors: Vibrant gold.
 
 The Moretta mask, is a traditional Venetian mask historically reserved for women, popular in 18th-century Venice. Made of black velvet and round in shape, also known as the "muta," it fully conceals the wearer’s face, symbolizing seduction and mystery. Held in place by a button bitten by the teeth, it silenced the wearer, adding to its enigmatic allure, and is showcased by Ca’ Macana as an authentic paper-mâché carnival mask.
 
+<!-- justification
 ## Justification
 
 The golden variant elevates the Moretta from mystery to opulence. In a collection that spans squat parties and luxury brands, a gilded Venetian mask sits comfortably at the intersection of old-world ceremony and new-world pseudonymity.
+-->
 
 ---
 

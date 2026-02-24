@@ -18,9 +18,11 @@ Dominant colors: yellow, red
 
 "Yeet" is internet slang meaning to throw something with great force. The patched-up, cross-eyed bear plushie appears to have been through some damage, visually representing the slang term. In crypto culture, "yeeted" often describes reckless trades or investments.
 
+<!-- justification
 ## Justification
 
 A patched-up, cross-eyed bear that has clearly been through it. "Yeeted" in crypto means reckless trades and investments — the collection's self-deprecating humor about market behavior.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: dark navy, light yellow
 
 The Grateful Dead and tarot both carry deep connections to psychedelic culture and mysticism. This item sits at the crossroads of those two traditions, linking the Dead's legacy of communal psychedelic experience to the esoteric practice of divination.
 
+<!-- justification
 ## Justification
 
 Pairs two of the collection's trait dimensions — tarot and drug culture — into a single physical object, making it a crossover artifact.
+-->
 
 ---
 

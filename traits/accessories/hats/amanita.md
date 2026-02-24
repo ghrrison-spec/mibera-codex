@@ -20,9 +20,11 @@ Dominant colors: Red, white.
 
 The Amanita genus is a group of mushrooms in the Agaricales order, known for distinctive features like a veil, white spore print, and often a bulbous stem base. It includes over 600 species, ranging from edible to highly toxic. Notable species include Amanita muscaria (fly agaric), with its iconic red cap and white warts, often toxic and hallucinogenic, and Amanita phalloides (death cap), responsible for most fatal mushroom poisonings due to its potent toxins. They typically grow in forests, forming mycorrhizal relationships with trees.
 
+<!-- justification
 ## Justification
 
 The iconic red-and-white mushroom cap is the universal symbol of psychedelic culture — from Slavic folklore to rave visuals, amanita is the hat that trips itself.
+-->
 
 ---
 

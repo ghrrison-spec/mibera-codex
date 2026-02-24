@@ -20,9 +20,11 @@ HÖR Berlin, founded in 2019 by DJ duo TV.OUT in Berlin-Kreuzberg, is an indepen
 
 Current generation of rave culture broadcasting itself — a DIY streaming platform born in a bathroom-tiled studio that became a global phenomenon.
 
+<!-- justification
 ## Justification
 
 Berlin's electronic music infrastructure represents the contemporary continuation of the scenes that Mibera's archetypes emerged from.
+-->
 
 ---
 

@@ -17,12 +17,11 @@ Semilunar moon made of flowy lines and circular shapes.
 Dominant colors: Black.
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 The crescent rendered in Arabic decorative style connects the Arabic ancestor lineage to one of the most enduring symbols in Islamic visual culture.
+-->
 
 ---
 

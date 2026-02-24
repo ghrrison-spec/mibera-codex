@@ -20,9 +20,11 @@ Pisces, the twelfth zodiac sign (February 19 - March 20), is a water sign ruled 
 
 Zodiac constellation background. Pisces — dreams, mysticism, dissolution of boundaries.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

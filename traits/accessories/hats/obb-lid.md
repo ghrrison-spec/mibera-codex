@@ -20,9 +20,11 @@ Dominant colors: Light yellow
 
 Ooga Booga Bears
 
+<!-- justification
 ## Justification
 
 The clean OBB lid without the honey — a simpler nod to the Ooga Booga Bears project that helped build the Berachain ecosystem's community culture.
+-->
 
 ---
 

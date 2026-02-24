@@ -18,9 +18,11 @@ Dominant colors: black, silver.
 
 Mixtapes on cassette were how rave culture spread before the internet, with DJs recording live sets and passing them hand to hand. A single tape could travel across a city and build an entire underground following.
 
+<!-- justification
 ## Justification
 
 Before SoundCloud, before Napster, before CDs — the dubbed cassette was the internet of underground music. Every scene in the collection owes its spread to this format.
+-->
 
 ---
 

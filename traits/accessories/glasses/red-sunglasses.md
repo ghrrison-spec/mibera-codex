@@ -18,9 +18,11 @@ Round transparent sunglasses with a thin red framing.
 
 The article explores the origins and heyday of The Warehouse, a legendary Chicago nightclub pivotal to the development of house music. The article details how the venue, active in the late 1970s and 1980s, became the namesake for the genre through its innovative DJ performances and vibrant dance culture.
 
+<!-- justification
 ## Justification
 
 The Warehouse was literally where house music got its name. Red-tinted glasses capture the heat and intimacy of those early Chicago dancefloors where Frankie Knuckles built a genre from scratch.
+-->
 
 ---
 

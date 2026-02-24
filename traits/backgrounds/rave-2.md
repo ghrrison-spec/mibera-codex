@@ -16,9 +16,11 @@ Bright white light in the center with a vibrant turquoise background, and black 
 
 The peak of a rave — blinding white light breaking through the crowd.
 
+<!-- justification
 ## Justification
 
 Abstract rave backgrounds represent the raw sensory experience of electronic music events — the environments where all four archetypes converge.
+-->
 
 ---
 

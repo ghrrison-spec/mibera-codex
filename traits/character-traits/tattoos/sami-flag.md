@@ -19,12 +19,11 @@ Dominant colors: Red, blue, green, yellow.
 ## Cultural Context
 
 Indigenous peoples of the Nordic countries and the Kola Peninsula of the Russian Federation.
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 A flag for a people whose nation has no borders -- it represents the Sami ancestor lineage and the idea that cultural identity persists regardless of the state lines drawn over it.
+-->
 
 ---
 

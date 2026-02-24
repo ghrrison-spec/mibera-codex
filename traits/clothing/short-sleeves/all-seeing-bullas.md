@@ -20,9 +20,11 @@ Dominant colors: Deep teal, black
 
 Bullas is a community-driven NFT project on Berachain featuring bull-themed characters. The all-seeing eye motif combined with bull horns blends crypto culture iconography with occult symbolism, a common aesthetic in the web3 space.
 
+<!-- justification
 ## Justification
 
-Bullas is one of the recognizable communities in the Berachain ecosystem. Ecosystem project merch in the collection documents the culture that formed around the chain.
+Bullas is a Berachain eco project
+-->
 
 ---
 

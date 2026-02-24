@@ -18,9 +18,11 @@ Dominant colors: White with yellow undertone.
 
 DJ Bus Replacement Service, aka Doris Woo, a retired DJ known for her eclectic, genre-blending sets and playful persona.
 
+<!-- justification
 ## Justification
 
 DJ Bus Replacement Service performed in absurdist disguises including political figure masks, turning the dancefloor into comedy theater. Including a Kim Jong mask is a tribute to the tradition of DJs who refuse to take themselves seriously while taking the music very seriously.
+-->
 
 ---
 

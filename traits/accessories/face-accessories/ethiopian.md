@@ -20,9 +20,11 @@ Dominant colors: White, black
 
 The face paint in the image is associated with the Surma (or Suri) people, an ethnic group in Ethiopia's Omo Valley. The distinctive white base with black geometric patterns, often ovals or circles, is made from a mixture of chalk, ash, or local clay, applied during ceremonies, rites of passage, or adornment. This tradition, dating back centuries, signifies beauty, identity, and social status, with designs varying by individual or occasion. The Surma, including subgroups like the Mursi, also use natural materials like flowers and fruits in their headgear, reflecting their connection to the land.
 
+<!-- justification
 ## Justification
 
 Surma face painting from Ethiopia's Omo Valley is among the most visually striking body art traditions in the world. Placing it in the Chicago Detroit archetype connects the birthplace of house and techno to the African aesthetic heritage that runs through Black American music culture.
+-->
 
 ---
 

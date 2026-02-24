@@ -20,9 +20,11 @@ Dominant colors: Dull green
 
 The tweed flat cap (or peak cap) is a traditional British and Irish hat associated with rural working-class culture, particularly in regions like Yorkshire, the Midlands, and Ireland. In the context of the free party scene, tweed caps were commonly worn by members of Spiral Tribe and other traveling sound systems, blending rural heritage with nomadic rave culture.
 
+<!-- justification
 ## Justification
 
 The tweed peak cap connects British rural tradition to the traveling rave scene — Spiral Tribe wore them, and they became part of the nomadic free party look.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: White, brown
 
 ETH Waterloo is an Ethereum hackathon held in Waterloo, Ontario, Canada, known as one of the premier events in the Ethereum developer community. It brings together builders, researchers, and community members in the collaborative, high-energy format that defines crypto culture.
 
+<!-- justification
 ## Justification
 
 Hackathon merch is the tribal gear of the Ethereum builder community. This shirt documents the culture of in-person crypto events where the next big protocol gets built over a weekend.
+-->
 
 ---
 

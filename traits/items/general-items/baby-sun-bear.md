@@ -16,9 +16,11 @@ a plushie of a black bear, medium to big in size.
 
 Sun bears are the smallest bear species, native to Southeast Asia. This completes a four-species set of bear plushies (brown, panda, polar, sun) that catalog the bear family for Berachain's mascot ecosystem.
 
+<!-- justification
 ## Justification
 
 Completes the four-species bear set, ensuring the smallest and rarest real-world bear gets representation.
+-->
 
 ---
 

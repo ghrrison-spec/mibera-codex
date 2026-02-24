@@ -20,9 +20,11 @@ Dominant colors: beige, sandy
 
 Wide-brimmed garden hats adorned with flowers have been a staple of feminine fashion since the Victorian era, associated with tea parties, garden gatherings, and pastoral leisure. The aesthetic carries a deliberate softness that contrasts with the harder edges of rave and crypto culture, creating visual tension within a generative collection.
 
+<!-- justification
 ## Justification
 
 A garden party hat in a rave collection — the floral wide-brim brings a gentle, pastoral energy that plays beautifully against harder traits.
+-->
 
 ---
 

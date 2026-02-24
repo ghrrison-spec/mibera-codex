@@ -20,9 +20,11 @@ Dominant colors: Black, magenta
 
 The Shogun Baddie design combines Japanese historical aesthetics (the shogun title) with contemporary internet slang (baddie). The female bear head with a ribbon and Japanese characters represents the fusion of East Asian visual culture with the Berachain bear identity.
 
+<!-- justification
 ## Justification
 
 Japanese aesthetics and internet slang fused into one graphic. The Shogun Baddie captures the Milady-adjacent side of Berachain culture where anime, history, and memes collide.
+-->
 
 ---
 

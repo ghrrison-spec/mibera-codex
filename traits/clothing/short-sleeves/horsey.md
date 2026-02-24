@@ -20,9 +20,11 @@ Dominant colors: White, brown, green
 
 Ketamine, colloquially known as horse tranquilizer or Special K, has been widely used in rave culture since the 1990s as a dissociative anesthetic. The childlike drawing of a horse running with the word ketamine above it is a deliberately naive representation of a drug associated with k-holes and club culture.
 
+<!-- justification
 ## Justification
 
 A childlike drawing of a horse with the word ketamine on it is the kind of shirt you find at a rave merch stall. It is deliberately lowbrow, deliberately obvious, and perfectly on-brand.
+-->
 
 ---
 

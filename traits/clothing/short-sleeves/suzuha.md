@@ -18,11 +18,13 @@ Dominant colors: Black, white
 
 ## Cultural Context
 
-The design references internet culture and the hacker aesthetic, with the I have your IP address line functioning as both a cybersecurity joke and a memetic threat. The female character with glasses evokes the tech-savvy anime girl archetype common in Milady-adjacent internet culture.
+The design references internet culture and the hacker aesthetic, with the I have your IP address line functioning as both a cybersecurity joke and a memetic threat. The female Milady is Suzuha/@dystopiabreaker's milady. 
 
+<!-- justification
 ## Justification
 
 I have your IP address is the quintessential internet threat-as-joke. This shirt sits at the intersection of hacker culture, anime aesthetics, and the Milady online universe.
+-->
 
 ---
 

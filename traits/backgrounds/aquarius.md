@@ -20,9 +20,11 @@ Aquarius, the eleventh zodiac sign (January 20 - February 18), is an air sign ru
 
 Zodiac constellation backgrounds give each Mibera a celestial identity. Aquarius — the rebel and the visionary.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

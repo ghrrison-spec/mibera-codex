@@ -18,9 +18,11 @@ Dominant colors: Neon green, black
 
 UFOs and acidhouse culture is largely anecdotal and tied to the psychedelic, countercultural elements of the late 1980s and early 1990s rave scene. The term “UFO” also happened to be the name of a pioneering acidhouse club in Berlin.
 
+<!-- justification
 ## Justification
 
 UFOs and acid house go together like synths and 303s -- the psychedelic rave scene was obsessed with extraterrestrial imagery, and Berlin even named a club after it.
+-->
 
 ---
 

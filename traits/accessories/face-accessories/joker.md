@@ -20,9 +20,11 @@ Dominant colors: white, blue, red.
 
 Clown and joker face paint has deep roots in both entertainment and counterculture. From medieval court jesters to circus clowns to the Joker in DC Comics, painted faces signal chaos, trickery, and the subversion of social order. In rave and festival culture, clown-inspired face paint is common at events like Insane Clown Posse gatherings and underground tekno parties, where absurdist aesthetics are embraced.
 
+<!-- justification
 ## Justification
 
 The joker face is chaos as a costume -- it belongs in a collection about counterculture because the clown has always been the figure allowed to say what nobody else can.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: brown, light beige
 
 Beradoge combines the Doge meme (based on the Shiba Inu "Kabosu") with a bear body, referencing both the Dogecoin memecoin phenomenon and Berachain.
 
+<!-- justification
 ## Justification
 
 Beradoge was one of THJ's partners.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: dark brown, black
 
 The chillum is a straight pipe traditionally used by Hindu sadhus (holy men) to smoke cannabis as a spiritual practice. It connects modern recreational cannabis use to centuries of sacred use in South Asian traditions.
 
+<!-- justification
 ## Justification
 
 Bridges modern cannabis culture back to its oldest ritual form, where smoking was prayer, not recreation.
+-->
 
 ---
 

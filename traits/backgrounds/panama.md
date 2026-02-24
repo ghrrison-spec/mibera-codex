@@ -20,9 +20,11 @@ The Panama Canal is a 50-mile, man-made waterway connecting the Atlantic and Pac
 
 A monument to connecting two separate worlds. Evokes the global flow of goods, culture, and substances that shaped counterculture.
 
+<!-- justification
 ## Justification
 
 The Panama Canal represents the intersection of engineering ambition and geographic connection — a literal bridge between worlds.
+-->
 
 ---
 

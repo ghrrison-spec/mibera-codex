@@ -20,9 +20,11 @@ Dominant colors: black, grey
 
 Sun Ra (1914-1993) was a visionary jazz musician, composer, and philosopher from Birmingham, Alabama, who later became central to the Chicago music scene. He claimed to be from Saturn and developed Afrofuturism decades before the term existed, blending jazz, electronic music, and cosmic philosophy. His elaborate Egyptian-inspired headdresses and costumes were integral to his artistic identity and performances with the Arkestra.
 
+<!-- justification
 ## Justification
 
 Sun Ra's headdress at swag score 5 — the highest honor for the cosmic philosopher who proved that music, fashion, and mythology are the same thing. Chicago's greatest alien.
+-->
 
 ---
 

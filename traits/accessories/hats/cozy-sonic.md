@@ -20,9 +20,11 @@ Dominant colors: Blue, light beige
 
 Inspired by Steady Teddys Sonic hat
 
+<!-- justification
 ## Justification
 
 Inspired by Steady Teddys' iconic Sonic hat from the acid house scene — a character hat that captures the playful, anything-goes spirit of early rave fashion.
+-->
 
 ---
 

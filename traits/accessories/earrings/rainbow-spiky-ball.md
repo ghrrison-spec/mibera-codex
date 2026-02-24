@@ -16,9 +16,11 @@ Rainbow-colored spiky ball.
 
 The rainbow flag, designed by Gilbert Baker in 1978, is a global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation, used in pride events and advocacy for LGBTQ+ rights.
 
+<!-- justification
 ## Justification
 
 Combines the pride rainbow with spiky rave aesthetics -- a high-swag fusion of LGBTQ+ symbolism and dancefloor energy that earns its top-tier score.
+-->
 
 ---
 

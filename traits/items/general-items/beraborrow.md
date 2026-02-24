@@ -18,9 +18,11 @@ Dominant colors: brown, creamy white.
 
 Beraborrow is a decentralized lending protocol built on Berachain. Rendering a DeFi protocol as a contented plush bear is characteristic of the Berachain community's approach to making financial infrastructure approachable.
 
+<!-- justification
 ## Justification
 
 DeFi lending protocol rendered as a contented plush bear. Turns invisible financial infrastructure into something with a face and a personality.
+-->
 
 ---
 

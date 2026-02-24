@@ -18,9 +18,11 @@ Dominant colors: red, creamy white, blue
 
 Steady is a project within the Berachain ecosystem. The bear character wears a devil-horned balaclava and an "OOGA" shirt, referencing the Ooga Booga meme central to Berachain culture. The outfit combines street style with ecosystem in-jokes.
 
+<!-- justification
 ## Justification
 
 Ecosystem project wearing its Berachain allegiance literally — "OOGA" branded shirt with devil-horned balaclava. Street style meets ecosystem in-jokes.
+-->
 
 ---
 

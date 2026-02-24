@@ -20,9 +20,11 @@ Dominant colors: Black, blue
 
 The tang suit, or tangzhuang, is a traditional Chinese jacket characterized by a stand-up collar and buttoned front, often made of silk or cotton. Popularized during the Tang dynasty but modernized in the 20th century, it’s often worn for formal occasions, cultural events, or festivals.
 
+<!-- justification
 ## Justification
 
 Global garments ground the collection in real cultural traditions. The tang suit represents centuries of Chinese formal dress, and rave culture has always borrowed from the world.
+-->
 
 ---
 

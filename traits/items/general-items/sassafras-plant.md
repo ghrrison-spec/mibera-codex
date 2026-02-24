@@ -18,9 +18,11 @@ Dominant colors: green
 
 Sassafras root bark contains safrole, the precursor chemical used to synthesize MDMA. The plant sits at the intersection of traditional Native American herbal medicine and the underground chemistry that gave rave culture its most iconic substance.
 
+<!-- justification
 ## Justification
 
 The botanical bridge between Native American herbalism and MDMA synthesis — one plant connecting two worlds.
+-->
 
 ---
 

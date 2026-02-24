@@ -18,13 +18,12 @@ Dominant colors: Light beige
 
 ## Cultural Context
 
-Part of the kigurumi (着ぐるみ) series. The light beige colorway is the softest of the set, leaning fully into the kawaii (かわいい) aesthetic — the Japanese culture of cuteness that permeates Harajuku fashion, anime, and by extension the Milady visual identity. The 'cute' label makes explicit what the other kigus imply.
-
-Era: 2000s-present (Japanese street fashion)
-
+Part of the kigurumi (着ぐるみ) series. The light beige colorway is the softest of the set, leaning fully into the kawaii aesthetic — the Japanese culture of cuteness that permeates Harajuku fashion, anime, and by extension the Milady visual identity. The 'cute' label makes explicit what the other kigus imply.
+<!-- justification
 ## Justification
 
-The softest colorway in the kigurumi series leans fully into kawaii aesthetics. Bear onesies at raves are a real thing, and this one is unapologetically cute about it.
+This kigu was present at a Milady rave.
+-->
 
 ---
 

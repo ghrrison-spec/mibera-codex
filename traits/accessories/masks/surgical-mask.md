@@ -20,9 +20,11 @@ Dominant colors: Green.
 
 Surgical masks entered mainstream fashion and subcultural signaling well before the COVID-19 pandemic, notably in Japanese street fashion since the 2000s and in the UK grime scene. In rave culture, they served as both dust protection at outdoor events and a visual symbol of anonymity and collective identity.
 
+<!-- justification
 ## Justification
 
 The surgical mask was rave-adjacent long before it was pandemic-mandatory. In acid house, it meant anonymity and practicality. After 2020, it also meant defiance.
+-->
 
 ---
 

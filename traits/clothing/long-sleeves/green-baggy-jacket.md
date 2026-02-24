@@ -20,9 +20,11 @@ Dominant colors: Green
 
 The piece is a direct reference from a photo in an article by Homegrown about the secret daytime raves that provides space for diasporic South Asians. Many youths are seen wearing loose / baggy outfits.
 
+<!-- justification
 ## Justification
 
 Pulled from a photo of a diasporic South Asian daytime rave. Loose, baggy clothing is practical dancefloor wear, and this shirt documents a rave scene most people have never heard of.
+-->
 
 ---
 

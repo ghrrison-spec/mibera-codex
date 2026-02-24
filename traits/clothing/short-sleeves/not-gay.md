@@ -20,9 +20,11 @@ Dominant colors: Black, white.
 
 Ironic confession tees that contradict their own message are a staple of internet humor culture. The format -- declaring one thing while describing the opposite -- is a classic template in post-ironic fashion that has circulated in online communities since the early 2010s.
 
+<!-- justification
 ## Justification
 
 The shirt says one thing and means the opposite, which is the entire operating principle of post-ironic internet culture. The collection captures this register because it is the native language of its community.
+-->
 
 ---
 

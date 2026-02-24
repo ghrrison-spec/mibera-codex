@@ -20,9 +20,11 @@ Dominant colors: Dull brown, green, red.
 
 The Sámi (also Sami or Saami) are the indigenous people of Sápmi, spanning northern Norway, Sweden, Finland, and Russia's Kola Peninsula. They speak nine related Uralic languages (many bilingual in national languages) and traditionally lived as semi-nomadic reindeer herders, hunters, and fishers for millennia.
 
+<!-- justification
 ## Justification
 
 Indigenous cultures worldwide have traditions of rhythmic spiritual practice that predate electronic music by millennia. The Sami garment represents a living nomadic tradition in the far north of Europe.
+-->
 
 ---
 

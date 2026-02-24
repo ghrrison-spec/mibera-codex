@@ -18,9 +18,11 @@ Dominant colors: Black / dark grey
 
 Star-shaped accessories — earrings, hair clips, glowing pendants — are common rave jewelry. The five-pointed star shows up across kandi, flyer art, and festival fashion.
 
+<!-- justification
 ## Justification
 
 Stars are universal rave iconography -- they show up on flyers, kandi, and festival stages. Three of them in Freetekno black gives this earring an understated edge.
+-->
 
 ---
 

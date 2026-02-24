@@ -18,9 +18,11 @@ Dominant colors: Green, sky-blue.
 
 Sourced from Milady Maker's background assets. The sunrise over an open field also evokes the end of a rave — the moment of collective survival and emergence that defines the experience.
 
+<!-- justification
 ## Justification
 
 Shared visual lineage with Milady Maker.
+-->
 
 ---
 

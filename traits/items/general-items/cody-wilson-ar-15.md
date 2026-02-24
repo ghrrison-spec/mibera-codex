@@ -18,9 +18,11 @@ Dominant colors: black, white
 
 Cody Wilson demonstrated that firearms could be manufactured with consumer 3D printers, forcing a global confrontation between digital freedom and weapons regulation. His work applies cypherpunk principles to physical objects in the most provocative way possible.
 
+<!-- justification
 ## Justification
 
 Extends the cypherpunk thread from information into physical fabrication. If code is speech, then a 3D-printed firearm is the most provocative sentence ever written.
+-->
 
 ---
 

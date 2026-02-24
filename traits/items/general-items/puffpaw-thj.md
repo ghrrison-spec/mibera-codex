@@ -18,9 +18,11 @@ Dominant colors: black, yellow
 
 Puffpaw is a vaping-related project and The Honey Jar (THJ) is a central community hub, both within the Berachain ecosystem. This variant combines both brands, representing the inter-project collaborations common in the ecosystem.
 
+<!-- justification
 ## Justification
 
 Two Berachain ecosystem brands on one vape device. Cross-project collaboration rendered as a co-branded physical object.
+-->
 
 ---
 

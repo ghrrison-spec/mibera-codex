@@ -20,9 +20,11 @@ Dominant colors: yellow, clear / transparent.
 
 Ooga Booga Bears (OBB) is a prominent NFT project in the Berachain ecosystem, featuring bear characters. The honey jar lid dripping with honey references The Honey Jar (THJ), the central community hub of the Berachain ecosystem. Honey is a core motif across Berachain culture, tying into the bear theme — bears love honey, and the ecosystem runs on it metaphorically.
 
+<!-- justification
 ## Justification
 
 OBB dripping honey at swag score 5 — the rarest hat tier for a piece that fuses two Berachain ecosystem pillars: Ooga Booga Bears and the honey that fuels everything.
+-->
 
 ---
 

@@ -16,9 +16,11 @@ a lighter in navy blue
 
 The lighter is one of the most universal objects in counterculture, equally useful for cigarettes, joints, candles, and those spontaneous crowd moments at concerts. It crosses every subculture in the collection.
 
+<!-- justification
 ## Justification
 
 The one item every subculture in the collection shares. If you only carry one thing, it's this.
+-->
 
 ---
 

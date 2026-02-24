@@ -18,9 +18,11 @@ Dominant colors: green, beige
 
 The Mad Scientist is a potent strain of Psilocybe cubensis known for producing intense, sometimes unpredictable experiences. The name captures the experimental spirit that connects underground mycology to underground music.
 
+<!-- justification
 ## Justification
 
 A psilocybin mushroom strain rendered as a flask of green liquid. The "mad scientist" archetype bridges underground mycology to the alchemical tradition the collection draws from.
+-->
 
 ---
 

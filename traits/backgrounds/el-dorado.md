@@ -20,9 +20,11 @@ El Dorado, meaning "the golden one" in Spanish, is a legendary city or kingdom o
 
 The archetypal quest for a mythical golden paradise. The Muisca gold rituals connect to the project's interest in ancient ceremonial practices.
 
+<!-- justification
 ## Justification
 
 The Muisca gold rituals and the myth of El Dorado connect to Mesoamerican and South American ancestor lineages in the Mibera system.
+-->
 
 ---
 

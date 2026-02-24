@@ -20,9 +20,11 @@ Dominant colors: Yellow, white
 
 Trucker caps originated as promotional giveaways from agricultural and trucking companies in the 1960s and 1970s, featuring mesh backs for ventilation. They were adopted by punk, skate, and eventually mainstream fashion culture. The Mibera-branded trucker cap with the smiley bear logo turns the collection's identity into the most classic American hat format.
 
+<!-- justification
 ## Justification
 
 Every collection needs its trucker cap — the Mibera smiley bear on a classic mesh-back is the straightforward way to rep the project.
+-->
 
 ---
 

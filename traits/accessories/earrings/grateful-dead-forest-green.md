@@ -18,9 +18,11 @@ Dominant colors: Dark / forest green
 
 The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
+<!-- justification
 ## Justification
 
 The Grateful Dead dancing bear is one of counterculture's most enduring symbols, and it sits right at the root of the psychedelic lineage that Mibera traces through every archetype.
+-->
 
 ---
 

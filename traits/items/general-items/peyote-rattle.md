@@ -18,9 +18,11 @@ Dominant colors: dark yellow, blue, light yellow
 
 The peyote rattle is a sacred tool used in Native American Church ceremonies to guide participants through mescaline visions. It represents one of the oldest documented traditions of communal psychedelic experience.
 
+<!-- justification
 ## Justification
 
 The sonic guide through mescaline space. Paired with the feather fan, it completes the ceremonial toolkit and shows that sound has always been part of the psychedelic experience.
+-->
 
 ---
 

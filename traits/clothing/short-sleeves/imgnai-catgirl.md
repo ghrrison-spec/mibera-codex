@@ -20,9 +20,11 @@ Dominant colors: Black, pink.
 
 imgnai, or ImgnAI, is a provocative AI initiative that fuses cryptocurrency, generative art, and accelerationist philosophy to "accelerate catgirl research," pushing for rapid AGI development through catgirl-themed imagery and uncensored tools like the Naifu chatbot for taboo roleplay and conspiracies. Backed by $1.6 million in seed funding led by HackVC, it includes a crypto token at imgnai.com/token and staged protests at Nvidia's GTC conference with signs and T-shirts decrying AI regulations. Drawing from Nick Land's accelerationism, CCRU influences, Milady Maker NFTs, Thelema-inspired manifestos, and a "cute/acc" aesthetic, co-founders advocate an ironic "speedrun" to techno-singularity, blending artistic emotional boosts with LLM-driven intelligence surges toward potential human "enslavement" by AI.
 
+<!-- justification
 ## Justification
 
 ImgnAI sits at the intersection of AI, crypto, and the Milady aesthetic universe. The Accelerate Catgirl Research slogan is a real rallying cry from this community, and its presence in the collection documents one of the weirder corners of crypto culture.
+-->
 
 ---
 

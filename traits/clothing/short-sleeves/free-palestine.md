@@ -17,12 +17,11 @@ Black t-shirt a graphic of a fist up in the colour of Palestine’s flag (green,
 Dominant colors: Black, white, green, red
 
 ## Cultural Context
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 Mibera pulls in symbology and slogans from many different political sides. The Palestinian solidarity movement is one of the most visible activist causes globally, and its visual language belongs in the collection.
+-->
 
 ---
 

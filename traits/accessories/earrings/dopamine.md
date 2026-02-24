@@ -18,9 +18,11 @@ Dominant colors: Silver / rosegold.
 
 Dopamine is a chemical messenger in the nervous system, primarily produced in the brain's substantia nigra and ventral tegmental area. It plays a key role in the brain's reward system, influencing feelings of pleasure, motivation, and reinforcement learning.
 
+<!-- justification
 ## Justification
 
 Wearing the molecular structure of your own reward system as jewelry is exactly the kind of thing a collection obsessed with drugs and neuroscience would do.
+-->
 
 ---
 

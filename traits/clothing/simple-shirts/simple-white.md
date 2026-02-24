@@ -17,11 +17,13 @@ Dominant colors: White
 
 ## Cultural Context
 
-White is the color of the blank page, the clean slate, and the plain tee that has served as the canvas for DIY screen printing since punk. It is also the most visible color under UV light on the dancefloor.
+White is the color of the blank page, the clean slate, and the plain tee that has served as the canvas for DIY screen printing since punk.
 
+<!-- justification
 ## Justification
 
 The white tee is arguably the most important garment in counterculture. Every slogan tee in this collection started as a blank white shirt that someone decided to print something on.
+-->
 
 ---
 

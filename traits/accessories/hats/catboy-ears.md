@@ -18,9 +18,11 @@ Black headband of cat ears; pointed triangular shape with soft edges, light pink
 
 Cat ear headbands are a defining accessory of anime-influenced internet culture, particularly within the Milady and e-girl aesthetics. Originating in Japanese otaku and cosplay culture, they became mainstream through Harajuku fashion and later spread globally via social media and Twitch streaming culture.
 
+<!-- justification
 ## Justification
 
 Catboy ears are core Milady — the anime-internet crossover accessory that went from niche cosplay to defining an entire online aesthetic.
+-->
 
 ---
 

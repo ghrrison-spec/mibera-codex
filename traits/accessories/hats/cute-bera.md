@@ -20,9 +20,11 @@ Dominant colors: Brown, light beige
 
 The Cute Bera hat features a bear character design that is part of the broader Berachain ecosystem aesthetic. Bear-themed headwear with exaggerated cute features — big ears, tiny face, extending paws — reflects the kawaii-influenced design language that pervades Berachain community culture.
 
+<!-- justification
 ## Justification
 
 Maximum bear cuteness as headwear — a Berachain bear that hugs your head with its little paws. Ecosystem pride at its most adorable.
+-->
 
 ---
 

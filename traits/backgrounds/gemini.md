@@ -20,9 +20,11 @@ Gemini, the third zodiac sign (May 21 - June 21), is an air sign ruled by Mercur
 
 Zodiac constellation background. Gemini — duality and adaptability.
 
+<!-- justification
 ## Justification
 
 Zodiac constellation backgrounds place Miberas in the visual context of their astrological sign. Astrology is a modifier signal in the Mibera identity system.
+-->
 
 ---
 

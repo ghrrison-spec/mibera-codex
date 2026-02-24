@@ -18,9 +18,11 @@ Dominant colors: Black
 
 Spiral Tribe is a free party sound system and collective that emerged in the early 1990s in West London. Known for their nomadic lifestyle and anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
 
+<!-- justification
 ## Justification
 
 A direct reference to Spiral Tribe, the legendary free party collective whose nomadic raves across Europe defined the Freetekno movement.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: Red
 
 Milady Maker is a 2021 Ethereum NFT collection of 10,000 generative neochibi-style PFPs inspired by 2000s Tokyo street fashion, created by pseudonymous Remilia Collective.
 
+<!-- justification
 ## Justification
 
 Cute fruit charms are classic Milady-adjacent fashion -- the kind of hyper-feminine Y2K accessory that Remilia Collective's neochibi aesthetic made iconic in web3.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: dark brown, bone-white
 
 The second Boo Bear, wrapped in mummy bandages. Part of a four-piece horror-themed bear plushie series in the Berachain ecosystem items.
 
+<!-- justification
 ## Justification
 
 References a key Berachain rebase.
+-->
 
 ---
 

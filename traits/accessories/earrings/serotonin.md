@@ -18,9 +18,11 @@ Dominant colors: Silver.
 
 Serotonin is a neurotransmitter and hormone, primarily found in the brain, gut, and blood platelets, that regulates mood, sleep, appetite, and digestion. Low serotonin levels are linked to depression, anxiety, and sleep disorders.
 
+<!-- justification
 ## Justification
 
 The companion piece to the dopamine earring -- wearing your brain chemistry as an accessory is peak Mibera, where neuroscience and drug culture are the same conversation.
+-->
 
 ---
 

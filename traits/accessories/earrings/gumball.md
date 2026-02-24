@@ -18,9 +18,11 @@ Dominant colors: Purple, blue
 
 GumBall Protocol is a Berachaain ecosystem project powering multiple dApps.
 
+<!-- justification
 ## Justification
 
 GumBall Protocol is a Berachain-native project, and ecosystem collaborations like this are how Mibera weaves itself into the broader bera culture.
+-->
 
 ---
 

@@ -18,9 +18,11 @@ Dominant colors: white, green
 
 Datura is a powerful and dangerous deliriant used in shamanic traditions across the Americas, India, and Europe. Unlike most psychedelics, it produces true hallucinations indistinguishable from reality, representing the darker and more dangerous edges of the psychedelic spectrum.
 
+<!-- justification
 ## Justification
 
 Marks the lethal edge of the drug catalog — the one plant that can kill you before it finishes showing you visions.
+-->
 
 ---
 

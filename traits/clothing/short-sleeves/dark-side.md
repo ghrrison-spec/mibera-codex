@@ -20,9 +20,11 @@ Dominant colors: Black
 
 The Dark Side of the Moon is a 1973 album by Pink Floyd, a landmark in progressive rock. Recorded at Abbey Road Studios, it explores themes like time, mortality, and mental illness. It became one of the best-selling albums ever, with over 45 million copies sold. It peaked at #1 in the US and stayed on charts for decades, earning critical acclaim for its lyrical depth and sonic experimentation.
 
+<!-- justification
 ## Justification
 
 The Dark Side of the Moon prism is one of the most reproduced images in music history. Pink Floyd's psychedelic rock is a direct ancestor of the trance and ambient traditions that feed into electronic music.
+-->
 
 ---
 

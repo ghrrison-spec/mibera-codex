@@ -18,9 +18,11 @@ Dominant colors: light grey, black
 
 The original PlayStation launched in 1994, the same era when rave culture was exploding worldwide. The PS1 controller represents the parallel rise of gaming and electronic music, two cultures that have only grown more intertwined.
 
+<!-- justification
 ## Justification
 
 Gaming and rave culture were twin children of the same 1990s moment. Both ran on electronic beats, bright colors, and staying up way too late.
+-->
 
 ---
 

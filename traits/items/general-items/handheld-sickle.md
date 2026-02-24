@@ -18,9 +18,11 @@ Dominant colors: dark grey and dark brown
 
 References the honey hunting tradition of Nepal's Gurung people, who use sickles to harvest honeycomb from towering cliff faces in the Annapurna mountain ranges. The Gurung descend on handmade rope ladders and cut the combs from jagged overhangs using long poles with sickle blades. In spring, the honey contains grayanotoxin from rhododendron flowers, producing intoxicating and hallucinogenic effects — known as "mad honey."
 
+<!-- justification
 ## Justification
 
 The physical tool that connects the mad honey item to the dangerous cliff-face harvesting ritual behind it.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: purple, white.
 
 Henlo is a project within the Berachain ecosystem. This short-sleeved jersey variant pairs the gothic-font branding with gold chains, blending 1990s hip-hop basketball jersey culture with web3 community identity.
 
+<!-- justification
 ## Justification
 
 A short-sleeves Henlo jersey for the Berachain community. The gothic font and gold chain styling gives ecosystem project merch the streetwear treatment.
+-->
 
 ---
 

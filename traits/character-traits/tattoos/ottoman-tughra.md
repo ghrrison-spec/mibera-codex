@@ -19,14 +19,13 @@ Dominant colors: Black.
 ## Cultural Context
 
 Ottoman / Tughra
-
-Era: Ancient
-
 A tughra is an ornate calligraphic monogram used by Ottoman sultans as a signature, symbolizing their authority. Originating in the 14th century, it features intricate Arabic script with the sultan’s name, title, and often their father’s name, stylized into a unique design. Tughras were used on official documents, coins, and seals, serving as a mark of legitimacy and sovereignty in the Ottoman Empire until its dissolution in 1922.
 
+<!-- justification
 ## Justification
 
 The tughra is calligraphy as power -- each sultan's unique monogram was an unforgeable signature centuries before cryptographic keys existed. It anchors the Turkey ancestor lineage in a tradition of sovereign identity.
+-->
 
 ---
 

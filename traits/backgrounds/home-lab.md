@@ -18,9 +18,11 @@ Dominant colors: Shades of brown, golden brown.
 
 Grassroots clandestine chemistry — from kitchen-sink LSD synthesis to bedroom MDMA production.
 
+<!-- justification
 ## Justification
 
 Clandestine chemistry backgrounds represent the grassroots production side of the drug-molecule dimension — where the substances that color Mibera identities originate.
+-->
 
 ---
 

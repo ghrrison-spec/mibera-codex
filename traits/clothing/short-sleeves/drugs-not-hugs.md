@@ -20,9 +20,11 @@ Dominant colors: Black, green
 
 Drug-themed slogan tees are a staple of rave merch culture, often sold at festival stalls and market stalls outside clubs. The inversion of the anti-drug slogan Hugs Not Drugs into Drugs Not Hugs is a classic piece of counterculture humor.
 
+<!-- justification
 ## Justification
 
 Inverting a well-known anti-drug slogan is one of the oldest tricks in the rave merch playbook. This shirt belongs in any collection that takes drug culture seriously enough to laugh at it.
+-->
 
 ---
 

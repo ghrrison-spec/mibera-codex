@@ -20,9 +20,11 @@ Dominant colors: Red
 
 The Hindu swastika is a 5,000-year-old symbol from the Indus Valley Civilization, means "well-being" in Sanskrit and represents prosperity and the cycle of life, linked to Ganesha. Used in Hindu, Jain, and Buddhist rituals. Its positive meaning was tainted by the Nazis' reversed version, but it remains sacred in these cultures.
 
+<!-- justification
 ## Justification
 
 Including the Hindu swastika is a deliberate act of cultural reclamation -- restoring a 5,000-year-old symbol of prosperity to its original meaning rather than ceding it to its 20th-century misappropriation. Mibera does not look away from symbols that require context.
+-->
 
 ---
 

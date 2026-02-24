@@ -18,9 +18,11 @@ Dominant colors: light brown / golden, brown
 
 Carlsberg Special Brew is a high-alcohol (7.5% ABV) lager first brewed in 1950 to commemorate Winston Churchill's visit to Copenhagen. It became associated with UK street drinking culture due to its low price and high strength, and was a common sight at free parties and illegal raves throughout the 1990s. In 2015 Carlsberg reformulated it to 8% ABV before later reducing it again to 6.2% as part of broader industry pressure to address high-strength cheap alcohol.
 
+<!-- justification
 ## Justification
 
 You either know what a can of Special Brew at a free party means, or you don't. It's a cultural shibboleth.
+-->
 
 ---
 

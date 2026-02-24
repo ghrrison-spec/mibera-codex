@@ -20,9 +20,11 @@ Dominant colors: White, bright blue, bright pink, grey
 
 Baby Bera is an artist with impactful creation amongst the Berachain ecosystem, he also DJ in a few of the real-life events and raves held by Berachain in the past. His art ranges from music to physical objects.
 
+<!-- justification
 ## Justification
 
-Baby Bera is a Berachain-native artist who DJs at the ecosystem's real-life events. Featuring his branded hockey jersey honors the community creators who bridge digital culture and physical raves.
+Babybera is a key member of the Mibera team. 
+-->
 
 ---
 

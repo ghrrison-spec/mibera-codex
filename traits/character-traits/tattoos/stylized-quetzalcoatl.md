@@ -19,12 +19,11 @@ Dominant colors: Black.
 ## Cultural Context
 
 Quetzalcoatl, a prominent deity in Mesoamerican mythology, particularly among the Aztecs, revered as the god of wind, air, learning, and priesthood. Also known as Kukulkan.
-
-Era: Modern
-
+<!-- justification
 ## Justification
 
 Quetzalcoatl is one of the most important deities in all of Mesoamerican religion -- a feathered serpent god of wind and learning whose worship spanned the Aztec, Toltec, and Maya civilizations. Rendering him in modern lineart keeps the Mayan ancestor lineage alive in contemporary visual language.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Blue, grey.
 
 Denim overalls were widely adopted by the acid house scene in the late 1980s and early 1990s UK, where casual, classless clothing became the dancefloor uniform. Their working-class origins and practical comfort made them ideal for all-night warehouse parties.
 
+<!-- justification
 ## Justification
 
 Overalls were the uniform of the Second Summer of Love. Comfortable, classless, and with enough pockets for everything you need at a warehouse rave.
+-->
 
 ---
 

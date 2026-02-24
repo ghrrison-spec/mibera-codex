@@ -18,9 +18,11 @@ Dominant colors: Soft brown, green, dark navy, white
 
 From sacred groves to the tree-lined fields of outdoor raves — looking up through the canopy into the night sky.
 
+<!-- justification
 ## Justification
 
 Trees frame the outdoor rave experience — looking up through branches at lasers and stars is a universal free party memory.
+-->
 
 ---
 

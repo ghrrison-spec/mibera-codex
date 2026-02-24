@@ -20,9 +20,11 @@ Dominant colors: Clear / black
 
 Multiple teardrops as a face accessory draw from both prison tattoo culture and anime aesthetics. In Milady Maker and similar PFP collections, teardrops serve as a distinctive face decoration trait that adds emotional depth to character designs. The triple teardrop variant amplifies the motif from a single mark into a pattern, shifting it from tattoo culture reference toward pure decoration.
 
+<!-- justification
 ## Justification
 
 Three teardrops instead of one transforms a loaded symbol into a pattern -- the Milady archetype takes the weight of the original and turns it into something closer to rain than grief.
+-->
 
 ---
 

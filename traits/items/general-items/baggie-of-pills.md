@@ -18,9 +18,11 @@ Dominant colors: white, yellow, soft teal
 
 Ecstasy pills are the most iconic drug artifact of rave culture, with their pressed logos and colors becoming collectible objects in their own right. A baggie of pills represents the communal, shared nature of MDMA use at raves.
 
+<!-- justification
 ## Justification
 
 No rave collection is complete without one. The smiley-face bear-eared baggie is the icon, full stop.
+-->
 
 ---
 

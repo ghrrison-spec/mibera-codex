@@ -18,9 +18,11 @@ Dominant colors: dark brown
 
 Liberty caps (Psilocybe semilanceata) are the most common wild psilocybin mushroom in Europe and the UK, growing in sheep pastures and wet meadows. They are the mushroom most closely tied to British free party and festival culture.
 
+<!-- justification
 ## Justification
 
 The mushroom that grows wild in British sheep pastures fueled the UK's free party and festival scene, tying psilocybin to the same soil as acid house.
+-->
 
 ---
 

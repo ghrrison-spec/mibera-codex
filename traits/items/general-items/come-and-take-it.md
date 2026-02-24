@@ -18,9 +18,11 @@ Dominant colors: black, white
 
 *Come and Take It* (2016) is Cody Wilson's memoir about creating the Liberator, the world's first 3D-printed firearm, and his legal battles with the US State Department over the right to publish the files. The title references the defiant slogan from the Texas Revolution. Wilson is also the founder of Defense Distributed and Dark Wallet, a Bitcoin privacy tool.
 
+<!-- justification
 ## Justification
 
 Companion piece to the Liberator item. Wilson's memoir documents the legal and philosophical battle over whether digital fabrication files are protected speech.
+-->
 
 ---
 

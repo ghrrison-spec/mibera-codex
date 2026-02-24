@@ -18,9 +18,11 @@ Dominant colors: beige, black
 
 The "Buy Bitcoin" meme became one of crypto culture's most recognizable moments when a sign with those words appeared behind Janet Yellen during a 2017 Congressional hearing. As a held item, it turns a financial movement's rallying cry into a physical prop.
 
+<!-- justification
 ## Justification
 
 Canonical crypto-culture moment turned into a physical prop — one of the few items that speaks to the financial movement behind the tech.
+-->
 
 ---
 

@@ -20,9 +20,11 @@ Dominant colors: Bright red, yellow, green
 
 The Tasqireh is a traditional Palestinian embroidered jacket, part of the rich textile heritage of Palestinian women. Palestinian embroidery (tatreez) is a UNESCO-recognized form of intangible cultural heritage, with patterns that encode village identity, marital status, and regional affiliation.
 
+<!-- justification
 ## Justification
 
 Palestinian embroidery is a living cultural practice recognized by UNESCO. This jacket represents centuries of textile heritage and the kind of global garment tradition that the collection draws from across all cultures.
+-->
 
 ---
 

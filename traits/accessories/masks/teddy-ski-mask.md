@@ -18,9 +18,11 @@ Dominant colors: Red.
 
 Steady Teddy is one of the biggest, if not the biggest NFT to stand on Berachain when it comes to hype, community, and volume. The Teddys are known for spreading ‘Tedism’ on the TL, onboarding dozens of new community members by doing so.
 
+<!-- justification
 ## Justification
 
 Steady Teddy is one of Berachain's flagship NFT communities, and their ski mask became a symbol of Tedism across crypto Twitter. Including it in Mibera acknowledges the ecosystem's most vocal evangelists.
+-->
 
 ---
 

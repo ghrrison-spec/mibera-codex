@@ -22,9 +22,11 @@ Grateful Dead, an American Rock Band.
 
 Grateful Dead is an iconic American jam band formed 1965 in San Francisco. The band blended rock, folk, blues, jazz, and psychedelia.
 
+<!-- justification
 ## Justification
 
 The tie-dye Grateful Dead shirt is the original psychedelic band tee. This elaborate version with bears on an alien planet is the collection acknowledging that rave culture did not start in 1988 -- it started in the Haight.
+-->
 
 ---
 

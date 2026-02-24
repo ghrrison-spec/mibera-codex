@@ -18,9 +18,11 @@ Dominant colors: White, red
 
 A capsule is a small, enclosed container, often used for medicine, supplements, or space modules, designed to be swallowed or deployed easily.
 
+<!-- justification
 ## Justification
 
 The capsule is a universal symbol of substance culture -- pharmaceutical, recreational, or somewhere in between -- and that ambiguity is very Mibera.
+-->
 
 ---
 

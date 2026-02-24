@@ -20,9 +20,11 @@ Great Bear Lake, located in Canada’s Northwest Territories on the Arctic Circl
 
 A lake named for bears, on the Arctic Circle, home to the Sahtu Dene. Connects "Bera" to real-world bear territory and ancestral Indigenous lands.
 
+<!-- justification
 ## Justification
 
 Great Bear Lake connects to the Native American ancestor lineage and the bear symbolism central to Berachain's identity.
+-->
 
 ---
 

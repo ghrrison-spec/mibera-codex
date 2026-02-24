@@ -12,11 +12,13 @@ date_added: null
 
 ## Cultural Context
 
-A plushie of Zeus Bear, one of the six honorary 1/1 Bong Bears from the original August 2021 mint. The Bong Bears project originated in Olympus DAO's Discord during debates over the OIP-18 rebase proposal. Zeus Bear references both the Greek king of the gods and the pseudonymous Zeus — the creator of Olympus DAO and the OHM token. Olympus DAO later passed OIP-87 to seed-fund Berachain, making it the direct financial ancestor of the chain.
+Zeus is a named character from the Bong Bears collection, referencing the king of the Olympian gods in Greek mythology who ruled over the sky and wielded thunderbolts. In Greek religion, Zeus was the supreme deity, father of gods and mortals, and the enforcer of cosmic justice. Bong Bears is one of the foundational NFT collections in the Berachain ecosystem, and naming a bear after the most powerful figure in the Greek pantheon positions it as a prestige piece within the collection.
 
+<!-- justification
 ## Justification
 
-One of the original honorary Bong Bears. Connects Berachain's origin story directly to Olympus DAO, where the project was born.
+Naming a Bong Bear after the king of the gods signals top-tier status in the collection, and the swag score of 5 matches the mythological weight Zeus carries as a held-item plushie.
+-->
 
 ---
 

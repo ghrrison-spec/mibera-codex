@@ -16,9 +16,11 @@ a white can of Monster energy drink.
 
 Monster Ultra (the white can) became a meme associated with specific internet subcultures. Its zero-calorie energy buzz parallels the stimulant-fueled endurance of all-night raving.
 
+<!-- justification
 ## Justification
 
 The white can became a meme signifier for specific internet subcultures. A legal stimulant sitting alongside illegal ones — the collection doesn't discriminate by scheduling status.
+-->
 
 ---
 

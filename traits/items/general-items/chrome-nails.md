@@ -16,9 +16,11 @@ a silver nail attachment in the shape of flames with sharp pointy ends.
 
 Long, decorated nails have deep roots in Black femme culture and have become a broader fashion statement across nightlife scenes. Chrome nails bring that aesthetic energy into the collection's visual language.
 
+<!-- justification
 ## Justification
 
 Wearable club culture. Chrome flame nails carry the energy of getting ready for the night out — the ritual of self-transformation that happens before you ever reach the dance floor.
+-->
 
 ---
 

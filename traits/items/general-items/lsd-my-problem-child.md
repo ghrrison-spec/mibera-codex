@@ -18,9 +18,11 @@ Dominant colors: black, golden
 
 LSD: My Problem Child is Albert Hofmann's personal account of discovering LSD in 1943 and grappling with its cultural aftermath. Written by the chemist who accidentally created the most influential psychedelic ever made, it is both scientific memoir and philosophical meditation.
 
+<!-- justification
 ## Justification
 
 The primary text of psychedelic literature — Hofmann's own words on what he unleashed, rendered as a book you can hold.
+-->
 
 ---
 

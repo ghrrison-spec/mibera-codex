@@ -20,9 +20,11 @@ Dominant colors: Green, white
 
 The Den is a Berachain ecosystem community and project. "Hopium" is crypto slang for irrational optimism about token prices or project outcomes — a blend of "hope" and "opium." The green cap with the "L" logo channels the always-bullish energy of dedicated community members who never stop believing.
 
+<!-- justification
 ## Justification
 
 Pure Berachain ecosystem hopium in hat form — The Den community energy distilled into a green cap that says you are never selling.
+-->
 
 ---
 

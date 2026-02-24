@@ -20,9 +20,11 @@ Dominant colors: Orange, grey.
 
 Red brick factories of 1980s Manchester — the Madchester scene and Factory Records, where acid house first exploded in the UK.
 
+<!-- justification
 ## Justification
 
 Manchester's factory district is the architectural backdrop of the Madchester and acid house scenes that shaped the Freetekno archetype.
+-->
 
 ---
 

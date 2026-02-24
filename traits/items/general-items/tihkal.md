@@ -18,9 +18,11 @@ Dominant colors: black, blue, red
 
 TiHKAL (Tryptamines I Have Known And Loved) is the companion to PiHKAL, covering the tryptamine family including DMT, psilocybin, and their analogs. Together the two books form the most comprehensive personal exploration of psychoactive chemistry ever published.
 
+<!-- justification
 ## Justification
 
 PiHKAL's other half. You can't claim to document psychoactive chemistry and leave out the tryptamines.
+-->
 
 ---
 

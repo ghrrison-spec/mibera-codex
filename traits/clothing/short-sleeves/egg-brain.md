@@ -18,9 +18,11 @@ Bone-white t-shirt with a simple illustration of a sunny-side up egg and a writi
 
 This is Your Brain on Drugs was a famous 1987 anti-drug PSA by the Partnership for a Drug-Free America, showing an egg frying in a pan. The campaign became one of the most parodied PSAs in history, spawning countless remixes and bootleg merch.
 
+<!-- justification
 ## Justification
 
 One of the most parodied anti-drug campaigns of all time, turned into a t-shirt. The egg-as-brain metaphor has been remixed by every generation since the 1980s.
+-->
 
 ---
 

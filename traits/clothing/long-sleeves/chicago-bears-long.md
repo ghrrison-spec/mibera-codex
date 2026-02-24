@@ -20,9 +20,11 @@ Dominant colors: Orange, white, navy blue.
 
 The Chicago Bears are a professional American football team in the NFL's NFC North, founded in 1920 as the Decatur Staleys in Illinois.
 
+<!-- justification
 ## Justification
 
 Chicago is home to both the Bears and house music. The bear mascot makes this doubly relevant for a Berachain collection documenting Chicago's cultural exports.
+-->
 
 ---
 

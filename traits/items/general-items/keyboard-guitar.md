@@ -16,9 +16,11 @@ a keyboard guitar, in light grey, held by the top handle.
 
 The keytar blurs the line between guitar showmanship and synthesizer technology — portable enough for stage antics, electronic enough for the scene.
 
+<!-- justification
 ## Justification
 
 The keytar is a transitional fossil — the moment rock showmanship met synthesizer technology. It marks the exact cultural hinge between guitar music and electronic music in the 1980s.
+-->
 
 ---
 

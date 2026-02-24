@@ -18,9 +18,11 @@ Dominant colors: Blue, dark grey, dark muted red
 
 Based on a billboard in Detroit — the city actively marks its identity as the birthplace of techno through signposts labeled "The City Of Techno," traffic signs reading "Leave all trap music at the Detroit city limits. Techno only. No Exceptions," and graffiti honoring groups like Underground Resistance. "Techno City" is also the title of Cybotron's (Juan Atkins) landmark 1984 track, one of the earliest techno records ever made.
 
+<!-- justification
 ## Justification
 
 Cybotron's "Techno City" is a direct sonic ancestor of the Chicago Detroit archetype — the track that named the genre.
+-->
 
 ---
 
