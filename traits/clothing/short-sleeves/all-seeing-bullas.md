@@ -8,62 +8,25 @@ date_added: "2024-12-10"
 
 # All Seeing Bullas
 
-## Visual Properties
+## Visual Elements
 
+![Bullas](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)
 
-**Image Files:**
-![Bullas](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Bullas.webp)
+Deep teal t-shirt with the “Bullas” logo and lettering. A triangle with bull horns extending out of it with an open eyeball.
 
-
-**Visual Description:** Deep teal t-shirt with the “Bullas” logo and lettering. A triangle with bull horns extending out of it with an open eyeball.
-
-**Dominant Colors:** Deep teal, black
-
-
----
+Dominant colors: Deep teal, black
 
 ## Cultural Context
 
+Bullas is a community-driven NFT project on Berachain featuring bull-themed characters. The all-seeing eye motif combined with bull horns blends crypto culture iconography with occult symbolism, a common aesthetic in the web3 space.
 
-**Cultural Origin:** 
+## Justification
 
-**Era:** 
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 3
-
-
----
-
-## Connections
-
-**Ancestor:** 
+Bullas is one of the recognizable communities in the Berachain ecosystem. Ecosystem project merch in the collection documents the culture that formed around the chain.
 
 ---
 
 ## Attribution
 
-**Date Added:** December 10, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
+**Swag Score:** 3
+**Date Added:** 2024-12-10

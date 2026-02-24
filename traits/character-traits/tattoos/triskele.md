@@ -8,62 +8,28 @@ date_added: "2024-08-10"
 
 # Triskele
 
-## Visual Properties
+## Visual Elements
 
-
-**Image Files:**
 ![ancient_irish druids_Triskele Hand](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_irish%20druids_Triskele%20Hand.webp)
 
+Motif consisting of 3 lines of spirals connected in the center, forming an almost-triangular shape of spirals.
 
-**Visual Description:** Motif consisting of 3 lines of spirals connected in the center, forming an almost-triangular shape of spirals.
-
-**Dominant Colors:** Black.
-
----
+Dominant colors: Black.
 
 ## Cultural Context
 
+Irish druids / Celtic culture
 
-**Cultural Origin:** Irish druids / Celtic culture
+Era: Ancient
 
-**Era:** Ancient
+## Justification
 
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 
-
-
----
-
-## Connections
-
-**Ancestor:** [Irish](../../../core-lore/ancestors/irish-druids.md)
-
+Older than the pyramids and still instantly recognizable -- the triskele is the Irish Druid ancestor lineage distilled into its most ancient and enduring form.
 
 ---
 
 ## Attribution
 
-**Date Added:** August 10, 2024
-
+**Ancestor:** [Irish](../../../core-lore/ancestors/irish-druids.md)
+**Date Added:** 2024-08-10
 **Introduced By:** Jani
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----

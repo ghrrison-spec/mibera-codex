@@ -8,62 +8,28 @@ date_added: "2024-07-28"
 
 # Fruits Remilia
 
-## Visual Properties
+## Visual Elements
 
-
-**Image Files:**
 ![Fruits Remilia Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Fruits%20Remilia%20Hat.webp)
 
+Two-toned pink cap with cute graphic of a pair of eyebrows, huge sparkly eyes, and a curved cat-like mouth.
 
-**Visual Description:** Two-toned pink cap with cute graphic of a pair of eyebrows, huge sparkly eyes, and a curved cat-like mouth.
-
-**Dominant Colors:** Pink, black
-
-
----
+Dominant colors: Pink, black
 
 ## Cultural Context
 
+FRUiTS was a legendary Japanese street fashion magazine founded by Shoichi Aoki in 1997, documenting the wildly creative styles of Harajuku's youth culture. Remilia Corporation is the entity behind Milady Maker, a prominent NFT project. This cap merges both references — the sparkly-eyed face evokes the kawaii aesthetic that bridges Harajuku fashion and Milady internet culture.
 
-**Cultural Origin:** 
+## Justification
 
-**Era:**
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** [Milady](../../../core-lore/archetypes.md#milady)
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 2
-
-
----
-
-## Connections
-
-**Ancestor:** 
+The Milady-coded variant of the FRUiTS x Remilia crossover — sparkly eyes and a cat mouth on pink, direct from the aesthetic pipeline that feeds the timeline.
 
 ---
 
 ## Attribution
 
-**Date Added:** July 28, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
+**Archetype:** Milady
+**Swag Score:** 2
+**Date Added:** 2024-07-28
 **Sources:**
 - https://x.com/RemiliaRabbi/status/1938854728772845708
-
-**Summary:** 
-
----

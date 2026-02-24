@@ -8,62 +8,28 @@ date_added: "2024-06-22"
 
 # Wicked
 
-## Visual Properties
+## Visual Elements
 
+![Wicked](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)
 
-**Image Files:**
-![Wicked](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_freetekno_Wicked.webp)
+Black t-shirt with white text that says “WICKED” in graffiti style.
 
-
-**Visual Description:** Black t-shirt with white text that says “WICKED” in graffiti style.
-
-**Dominant Colors:** Black, white.
-
-
----
+Dominant colors: Black, white.
 
 ## Cultural Context
 
+Wicked in UK rave slang means excellent or amazing, used as an exclamation of approval since the late 1980s. The graffiti-style typography connects to the street art and urban visual culture that ran parallel to the UK rave scene.
 
-**Cultural Origin:** 
+## Justification
 
-**Era:** 
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** [Freetekno](../../../core-lore/archetypes.md#freetekno)
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 2
-
-
----
-
-## Connections
-
-**Ancestor:** 
+Wicked is the one-word review of every great night out. In graffiti lettering on a black tee, it captures the UK rave scene's verbal shorthand in its most visual form.
 
 ---
 
 ## Attribution
 
-**Date Added:** June 22, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
+**Archetype:** Freetekno
+**Swag Score:** 2
+**Date Added:** 2024-06-22
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143684645393797200/11677979356150
-
-**Summary:** 
-
----

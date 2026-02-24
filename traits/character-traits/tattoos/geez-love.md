@@ -7,58 +7,17 @@ date_added: null
 
 # Geez Love
 
-## Visual Properties
+## Visual Elements
 
-
-**Image Files:**
-
-
-**Visual Description:**
-
-**Dominant Colors:**
-
----
 
 ## Cultural Context
 
+This is a variant entry for the Ge'ez Love tattoo. Ge'ez is an ancient Semitic script from the Horn of Africa, serving as the liturgical language of the Ethiopian and Eritrean Orthodox Churches. The word for love in Ge'ez connects to a script tradition dating back over two thousand years.
 
-**Cultural Origin:**
+## Justification
 
-**Era:**
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:**
-
-**Archetype Alignment:**
-
-
-**Swag Score:**
-
----
-
-## Connections
-
-**Ancestor:** 
+Duplicate entry for the Ge'ez Love tattoo -- see the primary entry at ge-ez-love.md for full context on this Ethiopian script tattoo.
 
 ---
 
 ## Attribution
-
-**Date Added:**
-
-**Introduced By:**
-
-**Team Notes:**
-
-**Sources:**
-
-**Summary:**
-
----

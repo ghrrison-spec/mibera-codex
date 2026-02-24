@@ -8,63 +8,30 @@ date_added: "2024-06-22"
 
 # Palestinian for Black Power
 
-## Visual Properties
+## Visual Elements
 
+![modern_palestine_Palestinians For Black Power](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)
 
-**Image Files:**
-![modern_palestine_Palestinians For Black Power](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_acidhouse_modern_palestine_Palestinians%20For%20Black%20Power.webp)
+a black t-shirt with white text that reads “PALESTINIANS for BLACK POWER” and an Arabic script under it.
 
-
-**Visual Description:** a black t-shirt with white text that reads “PALESTINIANS for BLACK POWER” and an Arabic script under it.
-
-**Dominant Colors:** black, white.
-
-
----
+Dominant colors: black, white.
 
 ## Cultural Context
 
+Era: Modern
 
-**Cultural Origin:** 
+## Justification
 
-**Era:** Modern
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** [Acidhouse](../../../core-lore/archetypes.md#acidhouse)
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 2
-
-
----
-
-## Connections
-
-**Ancestor:** Palestine
-
+Cross-cultural solidarity between Palestinian and Black liberation movements is a real political phenomenon with decades of history. The collection documents these alliances as part of its global counterculture catalog.
 
 ---
 
 ## Attribution
 
-**Date Added:** June 22, 2024
-
+**Archetype:** Acidhouse
+**Ancestor:** Palestine
+**Swag Score:** 2
+**Date Added:** 2024-06-22
 **Introduced By:** Jani
-
-**Team Notes:** 
-
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143684645393797200/11696105756392
-
-**Summary:** 
-
----

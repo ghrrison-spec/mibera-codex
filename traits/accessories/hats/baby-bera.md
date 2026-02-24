@@ -8,62 +8,26 @@ date_added: "2024-07-24"
 
 # baby bera
 
-## Visual Properties
+## Visual Elements
 
-
-**Image Files:**
 ![Baby Bera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Baby%20Bera.webp)
 
+a black cap with babybera graphic in the middle; a dark grey bear in relaxed pose and smiley expression
 
-**Visual Description:** a black cap with babybera graphic in the middle; a dark grey bear in relaxed pose and smiley expression
-
-**Dominant Colors:** black, grey
-
-
----
+Dominant colors: black, grey
 
 ## Cultural Context
 
+BabyBera is a community project within the Berachain ecosystem, featuring a cartoon bear mascot. The project represents the playful, meme-driven culture that defines the Berachain community, where bear-themed branding is central to ecosystem identity.
 
-**Cultural Origin:** 
+## Justification
 
-**Era:**
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** [chicago detroit](../../../core-lore/archetypes.md#chicago-detroit)
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 3
-
-
----
-
-## Connections
-
-**Ancestor:** 
+BabyBera is Berachain ecosystem culture worn on your head — one of the community projects that helped define the chain's playful identity.
 
 ---
 
 ## Attribution
 
-**Date Added:** July 24, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
+**Archetype:** chicago detroit
+**Swag Score:** 3
+**Date Added:** 2024-07-24

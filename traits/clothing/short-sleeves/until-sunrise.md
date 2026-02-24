@@ -8,62 +8,25 @@ date_added: "2025-04-13"
 
 # Until Sunrise
 
-## Visual Properties
+## Visual Elements
 
+![_w1](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)
 
-**Image Files:**
-![_w1](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Sunrise__w1.webp)
+Black / nearly-black navy t-shirt with a graphic of a small circle in the middle inside of an outline of a larger circular outline, both in white.
 
-
-**Visual Description:** Black / nearly-black navy t-shirt with a graphic of a small circle in the middle inside of an outline of a larger circular outline, both in white.
-
-**Dominant Colors:** Black / dark navy, white
-
-
----
+Dominant colors: Black / dark navy, white
 
 ## Cultural Context
 
+Until Sunrise evokes the all-night rave experience where the set does not end until dawn. The minimalist concentric circle design on a dark tee references the sun rising over the horizon, a moment that defines the emotional peak of outdoor parties and warehouse raves.
 
-**Cultural Origin:** 
+## Justification
 
-**Era:** 
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 3
-
-
----
-
-## Connections
-
-**Ancestor:** 
+Every raver has a sunrise story. This shirt represents the moment the music outlasts the night, which is the experience that defines the culture.
 
 ---
 
 ## Attribution
 
-**Date Added:** April 13, 2025
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
+**Swag Score:** 3
+**Date Added:** 2025-04-13

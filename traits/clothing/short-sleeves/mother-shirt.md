@@ -7,56 +7,19 @@ date_added: null
 
 # Mother Shirt
 
-## Visual Properties
+## Visual Elements
 
-
-**Image Files:**
-
-
-**Visual Description:**
-
-**Dominant Colors:**
-
----
 
 ## Cultural Context
 
+This is a variant of the Mother tee referencing Iggy Azalea's MOTHER memecoin on Solana, which launched in 2024 and quickly became one of the most visible celebrity crypto tokens. The shirt features koala and chlamydia imagery from the MOTHER merch line.
 
-**Cultural Origin:**
+## Justification
 
-**Era:**
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:**
-
-**Archetype Alignment:**
-
-
-**Swag Score:** 2
-
-## Connections
-
-**Ancestor:** 
+A second variant of the MOTHER memecoin merch. Celebrity tokens are part of crypto culture whether you like them or not, and the collection documents the phenomenon.
 
 ---
 
 ## Attribution
 
-**Date Added:**
-
-**Introduced By:**
-
-**Team Notes:**
-
-**Sources:**
-
-**Summary:**
-
----
+**Swag Score:** 2

@@ -8,63 +8,30 @@ date_added: "2024-12-10"
 
 # Criminal Records
 
-## Visual Properties
+## Visual Elements
 
+![Criminal Records Vest](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)
 
-**Image Files:**
-![Criminal Records Vest](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_chicagodetroit_Criminal%20Records%20Vest.webp)
+Black vest with white text that reads “CRIMINAL RECORDS” in bold font.
 
-
-**Visual Description:** Black vest with white text that reads “CRIMINAL RECORDS” in bold font.
-
-**Dominant Colors:** Black, white
-
-
----
+Dominant colors: Black, white
 
 ## Cultural Context
 
+Criminal Records references the record shop and label culture that was central to Chicago house and Detroit techno distribution. The name plays on the double meaning of criminal records as both vinyl and rap sheets.
 
-**Cultural Origin:** 
+## Justification
 
-**Era:** 
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** [Chicago Detroit](../../../core-lore/archetypes.md#chicago-detroit)
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 3
-
-
----
-
-## Connections
-
-**Ancestor:** 
+Record shops were where you discovered new music before the internet existed. The Criminal Records name captures the outlaw energy of early house and techno distribution.
 
 ---
 
 ## Attribution
 
-**Date Added:** December 10, 2024
-
+**Archetype:** Chicago Detroit
+**Swag Score:** 3
+**Date Added:** 2024-12-10
 **Introduced By:** Jani
-
-**Team Notes:** 
-
 **Sources:**
 - https://daily.redbullmusicacademy.com/2017/08/chicago-house-detroit-techno-feature
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608814206512
-
-**Summary:** 
-
----

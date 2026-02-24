@@ -8,62 +8,25 @@ date_added: "2024-12-10"
 
 # Ohabera Jani
 
-## Visual Properties
+## Visual Elements
 
+![Ohabera Jani](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)
 
-**Image Files:**
-![Ohabera Jani](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Ohabera%20Jani.webp)
+Milky white t-shirt with a cute bear wearing a purple durag and red jacket and Japanese text in a red text-bubble.
 
-
-**Visual Description:** Milky white t-shirt with a cute bear wearing a purple durag and red jacket and Japanese text in a red text-bubble.
-
-**Dominant Colors:** Milky white, red, brown.
-
-
----
+Dominant colors: Milky white, red, brown.
 
 ## Cultural Context
 
+Ohabera is a Berachain community expression combining Japanese honorific conventions with the Bera bear identity. Jani is the founder of The Honey Jar. This shirt renders the project lead as a kawaii bear character with Japanese text, bridging Japanese internet culture with the Berachain ecosystem.
 
-**Cultural Origin:** 
+## Justification
 
-**Era:** 
-
-
-**Why This Matters:**
-
-
----
-
-## Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-
-**Swag Score:** 4
-
-
----
-
-## Connections
-
-**Ancestor:** 
+The project founder as a cute anime-style bear with Japanese text. This shirt is where the Milady Japanese aesthetic meets Berachain community culture.
 
 ---
 
 ## Attribution
 
-**Date Added:** December 10, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
+**Swag Score:** 4
+**Date Added:** 2024-12-10
