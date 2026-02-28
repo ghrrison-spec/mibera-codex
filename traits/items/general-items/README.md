@@ -287,7 +287,4 @@ Items are handheld objects that Miberas carry, ranging from drug paraphernalia t
 - [Satoshi Nakamoto](satoshi-nakamoto.md)
 - [Tim C May](tim-c-may.md)
 - [Wei Dai](wei-dai.md)
-- [Zeus](zeus.md)
-- [Icebeargy](icebeargy.md)
-- [Dcf](dcf.md)
 
